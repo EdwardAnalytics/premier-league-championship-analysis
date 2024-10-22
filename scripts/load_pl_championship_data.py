@@ -4,7 +4,11 @@ from src.data_preperation.load_data import (
     combine_save_csvs,
 )
 
-
+# Constants for URL parameters
+start_season_premier_league = 2000
+start_season_championship_assists = 2014
+start_season_championship_goals = 2000
+end_season = 2024
 
 # Generate URLs for Premier League Goals and Assists
 PREMIER_LEAGUE_GOAL_URLS = generate_urls(
