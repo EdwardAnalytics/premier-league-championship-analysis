@@ -1,0 +1,336 @@
+Player,Country,Team,Goals,Season
+Harry Kane,England,Tottenham Hotspur,37,2020-2021
+Bruno Fernandes,Portugal,Manchester United,30,2020-2021
+Mo Salah,Egypt,Liverpool FC,27,2020-2021
+Heung-min Son,South Korea,Tottenham Hotspur,27,2020-2021
+Patrick Bamford,England,Leeds United,24,2020-2021
+Jamie Vardy,England,Leicester City,24,2020-2021
+Marcus Rashford,England,Manchester United,20,2020-2021
+Ollie Watkins,England,Aston Villa,19,2020-2021
+Sadio Mané,Senegal,Liverpool FC,18,2020-2021
+Kevin De Bruyne,Belgium,Manchester City,18,2020-2021
+Callum Wilson,England,Newcastle United,17,2020-2021
+Matheus Pereira,Brazil,West Bromwich Albion,17,2020-2021
+Raheem Sterling,England,Manchester City,17,2020-2021
+Dominic Calvert-Lewin,England,Everton FC,16,2020-2021
+Danny Ings,England,Southampton FC,16,2020-2021
+Roberto Firmino,Brazil,Liverpool FC,16,2020-2021
+Jack Harrison,England,Leeds United,16,2020-2021
+Jack Grealish,England,Aston Villa,16,2020-2021
+İlkay Gündoğan,Germany,Manchester City,15,2020-2021
+Alexandre Lacazette,France,Arsenal FC,15,2020-2021
+Chris Wood,New Zealand,Burnley FC,15,2020-2021
+Michail Antonio,Jamaica,West Ham United,15,2020-2021
+Riyad Mahrez,Algeria,Manchester City,15,2020-2021
+James Ward-Prowse,England,Southampton FC,15,2020-2021
+Raphinha,Brazil,Leeds United,15,2020-2021
+Kelechi Iheanacho,Nigeria,Leicester City,14,2020-2021
+Ché Adams,Scotland,Southampton FC,14,2020-2021
+Phil Foden,England,Manchester City,14,2020-2021
+Timo Werner,Germany,Chelsea FC,14,2020-2021
+Gareth Bale,Wales,Tottenham Hotspur,13,2020-2021
+Wilfried Zaha,Ivory Coast,Crystal Palace,13,2020-2021
+Pierre-Emerick Aubameyang,Gabon,Arsenal FC,13,2020-2021
+Édinson Cavani,Uruguay,Manchester United,13,2020-2021
+Harvey Barnes,England,Leicester City,13,2020-2021
+Gabriel Jesus,Brazil,Manchester City,13,2020-2021
+Jesse Lingard,England,West Ham United,13,2020-2021
+Jarrod Bowen,England,West Ham United,13,2020-2021
+James Maddison,England,Leicester City,13,2020-2021
+Bertrand Traoré,Burkina Faso,Aston Villa,13,2020-2021
+Christian Benteke,Belgium,Crystal Palace,11,2020-2021
+Nicolas Pépé,Ivory Coast,Arsenal FC,11,2020-2021
+Tomáš Souček,Czech Republic,West Ham United,11,2020-2021
+Mason Mount,England,Chelsea FC,11,2020-2021
+Gylfi Sigurðsson,Iceland,Everton FC,11,2020-2021
+Pedro Neto,Portugal,Wolverhampton Wanderers,11,2020-2021
+Pascal Groß,Germany,Brighton & Hove Albion,11,2020-2021
+Anwar el Ghazi,Netherlands,Aston Villa,10,2020-2021
+Stuart Dallas,Northern Ireland,Leeds United,10,2020-2021
+Neal Maupay,France,Brighton & Hove Albion,10,2020-2021
+Richarlison,Brazil,Everton FC,10,2020-2021
+James Rodríguez,Colombia,Everton FC,10,2020-2021
+Youri Tielemans,Belgium,Leicester City,10,2020-2021
+Leandro Trossard,Belgium,Brighton & Hove Albion,10,2020-2021
+Eberechi Eze,England,Crystal Palace,10,2020-2021
+Diogo Jota,Portugal,Wolverhampton Wanderers,9,2020-2021
+David McGoldrick,Ireland,Sheffield United,9,2020-2021
+Ferran Torres,Spain,Manchester City,9,2020-2021
+Mason Greenwood,England,Manchester United,9,2020-2021
+Rodrigo,Spain,Leeds United,9,2020-2021
+Pablo Fornals,Spain,West Ham United,9,2020-2021
+Stuart Armstrong,Scotland,Southampton FC,9,2020-2021
+Mateusz Klich,Poland,Leeds United,9,2020-2021
+Trent Alexander-Arnold,England,Liverpool FC,9,2020-2021
+Joe Willock,England,Arsenal FC,8,2020-2021
+Jorginho,Italy,Chelsea FC,8,2020-2021
+Bukayo Saka,England,Arsenal FC,8,2020-2021
+Ademola Lookman,Nigeria,Fulham FC,8,2020-2021
+Ben Chilwell,England,Chelsea FC,8,2020-2021
+John McGinn,Scotland,Aston Villa,8,2020-2021
+Bernardo Silva,Portugal,Manchester City,8,2020-2021
+Andy Robertson,Scotland,Liverpool FC,8,2020-2021
+Aaron Cresswell,England,West Ham United,8,2020-2021
+Tammy Abraham,England,Chelsea FC,7,2020-2021
+Danny Welbeck,England,Brighton & Hove Albion,7,2020-2021
+Bobby De Cordova-Reid,Jamaica,Fulham FC,7,2020-2021
+Fábio Silva,Portugal,Wolverhampton Wanderers,7,2020-2021
+Kai Havertz,Germany,Chelsea FC,7,2020-2021
+Anthony Martial,France,Manchester United,7,2020-2021
+Lucas Moura,Brazil,Tottenham Hotspur,7,2020-2021
+Allan Saint-Maximin,France,Newcastle United,7,2020-2021
+Dwight McNeil,England,Burnley FC,7,2020-2021
+Saïd Benrahma,Algeria,West Ham United,7,2020-2021
+Vladimír Coufal,Czech Republic,West Ham United,7,2020-2021
+Lucas Digne,France,Everton FC,7,2020-2021
+Rúben Neves,Portugal,Wolverhampton Wanderers,6,2020-2021
+Joelinton,Brazil,Newcastle United,6,2020-2021
+Christian Pulišić,USA,Chelsea FC,6,2020-2021
+Hélder Costa,Angola,Leeds United,6,2020-2021
+Aleksandar Mitrović,Serbia,Fulham FC,6,2020-2021
+Paul Pogba,France,Manchester United,6,2020-2021
+Theo Walcott,England,Everton FC,6,2020-2021
+Ashley Westwood,England,Burnley FC,6,2020-2021
+Pierre-Emile Højbjerg,Denmark,Tottenham Hotspur,6,2020-2021
+Emile Smith Rowe,England,Arsenal FC,6,2020-2021
+Aaron Wan-Bissaka,England,Manchester United,6,2020-2021
+Marc Albrighton,England,Leicester City,6,2020-2021
+Luke Shaw,England,Manchester United,6,2020-2021
+Andros Townsend,England,Crystal Palace,6,2020-2021
+Willian,Brazil,Arsenal FC,6,2020-2021
+Lewis Dunk,England,Brighton & Hove Albion,5,2020-2021
+Callum Robinson,Ireland,West Bromwich Albion,5,2020-2021
+Kurt Zouma,France,Chelsea FC,5,2020-2021
+Sergio Agüero,Argentina,Manchester City,5,2020-2021
+Miguel Almirón,Paraguay,Newcastle United,5,2020-2021
+Scott McTominay,Scotland,Manchester United,5,2020-2021
+Mbaye Diagne,Senegal,West Bromwich Albion,5,2020-2021
+Tanguy Ndombèlé,France,Tottenham Hotspur,5,2020-2021
+Daniel Podence,Portugal,Wolverhampton Wanderers,5,2020-2021
+Matěj Vydra,Czech Republic,Burnley FC,5,2020-2021
+Ezgjan Alioski,North Macedonia,Leeds United,5,2020-2021
+Sèrge Aurier,Ivory Coast,Tottenham Hotspur,5,2020-2021
+Timothy Castagne,Belgium,Leicester City,5,2020-2021
+Abdoulaye Doucouré,Mali,Everton FC,5,2020-2021
+Callum Hudson-Odoi,England,Chelsea FC,5,2020-2021
+João Cancelo,Portugal,Manchester City,5,2020-2021
+Jacob Murphy,England,Newcastle United,5,2020-2021
+Nathan Redmond,England,Southampton FC,5,2020-2021
+Jeffrey Schlupp,Ghana,Crystal Palace,5,2020-2021
+Hakim Ziyech,Morocco,Chelsea FC,5,2020-2021
+Wilfred Ndidi,Nigeria,Leicester City,5,2020-2021
+Olivier Giroud,France,Chelsea FC,4,2020-2021
+Raúl Jiménez,Mexico,Wolverhampton Wanderers,4,2020-2021
+John Stones,England,Manchester City,4,2020-2021
+Ross Barkley,England,Aston Villa,4,2020-2021
+Kyle Bartley,England,West Bromwich Albion,4,2020-2021
+Dan James,Wales,Manchester United,4,2020-2021
+Michael Keane,England,Everton FC,4,2020-2021
+Adama Traoré,Spain,Wolverhampton Wanderers,4,2020-2021
+Jonny Evans,Northern Ireland,Leicester City,4,2020-2021
+Conor Gallagher,England,West Bromwich Albion,4,2020-2021
+Tyrone Mings,England,Aston Villa,4,2020-2021
+Rodri,Spain,Manchester City,4,2020-2021
+Jordan Ayew,Ghana,Crystal Palace,4,2020-2021
+Steven Bergwijn,Netherlands,Tottenham Hotspur,4,2020-2021
+Darnell Furlong,England,West Bromwich Albion,4,2020-2021
+Jonjo Shelvey,England,Newcastle United,4,2020-2021
+Kieran Tierney,Scotland,Arsenal FC,4,2020-2021
+Ashley Barnes,England,Burnley FC,3,2020-2021
+Craig Dawson,England,West Ham United,3,2020-2021
+Sébastien Haller,Ivory Coast,West Ham United,3,2020-2021
+Ivan Cavaleiro,Portugal,Fulham FC,3,2020-2021
+Josh Maja,Nigeria,Fulham FC,3,2020-2021
+Takumi Minamino,Japan,Liverpool FC,3,2020-2021
+Angelo Ogbonna,Italy,West Ham United,3,2020-2021
+Romain Saïss,Morocco,Wolverhampton Wanderers,3,2020-2021
+Billy Sharp,England,Sheffield United,3,2020-2021
+Jannik Vestergaard,Denmark,Southampton FC,3,2020-2021
+Ola Aina,Nigeria,Fulham FC,3,2020-2021
+Ayoze Pérez,Spain,Leicester City,3,2020-2021
+Michy Batshuayi,Belgium,Crystal Palace,3,2020-2021
+Aaron Connolly,Ireland,Brighton & Hove Albion,3,2020-2021
+Gabriel Martinelli,Brazil,Arsenal FC,3,2020-2021
+Jeff Hendrick,Ireland,Newcastle United,3,2020-2021
+James Justin,England,Leicester City,3,2020-2021
+Harry Maguire,England,Manchester United,3,2020-2021
+Solly March,England,Brighton & Hove Albion,3,2020-2021
+Benjamin Mendy,France,Manchester City,3,2020-2021
+Eddie Nketiah,England,Arsenal FC,3,2020-2021
+Matthew Phillips,Scotland,West Bromwich Albion,3,2020-2021
+Declan Rice,England,West Ham United,3,2020-2021
+Trézéguet,Egypt,Aston Villa,3,2020-2021
+Azpilicueta,Spain,Chelsea FC,3,2020-2021
+Héctor Bellerín,Spain,Arsenal FC,3,2020-2021
+Alex Iwobi,Nigeria,Everton FC,3,2020-2021
+Reece James,England,Chelsea FC,3,2020-2021
+Curtis Jones,England,Liverpool FC,3,2020-2021
+Juan Mata,Spain,Manchester United,3,2020-2021
+Joel Matip,Cameroon,Liverpool FC,3,2020-2021
+Martin Ødegaard,Norway,Arsenal FC,3,2020-2021
+Kalvin Phillips,England,Leeds United,3,2020-2021
+Tyler Roberts,Wales,Leeds United,3,2020-2021
+Jay Rodriguez,England,Burnley FC,3,2020-2021
+Granit Xhaka,Switzerland,Arsenal FC,3,2020-2021
+Frank Anguissa,Cameroon,Fulham FC,3,2020-2021
+Séamus Coleman,Ireland,Everton FC,3,2020-2021
+Dani Ceballos,Spain,Arsenal FC,3,2020-2021
+Reguilón,Spain,Tottenham Hotspur,3,2020-2021
+Semi Ajayi,Nigeria,West Bromwich Albion,2,2020-2021
+Jayden Bogle,England,Sheffield United,2,2020-2021
+Issa Diop,France,West Ham United,2,2020-2021
+Gabriel Magalhães,Brazil,Arsenal FC,2,2020-2021
+Jóhann Guðmundsson,Iceland,Burnley FC,2,2020-2021
+Ezri Konsa,England,Aston Villa,2,2020-2021
+Jamaal Lascelles,England,Newcastle United,2,2020-2021
+Marcos Alonso,Spain,Chelsea FC,2,2020-2021
+Ben Mee,England,Burnley FC,2,2020-2021
+Yerry Mina,Colombia,Everton FC,2,2020-2021
+Jaïro Riedewald,Netherlands,Crystal Palace,2,2020-2021
+Hal Robson-Kanu,Wales,West Bromwich Albion,2,2020-2021
+Thiago Silva,Brazil,Chelsea FC,2,2020-2021
+Georginio Wijnaldum,Netherlands,Liverpool FC,2,2020-2021
+Rayan Aït Nouri,Algeria,Wolverhampton Wanderers,2,2020-2021
+Joachim Andersen,Denmark,Fulham FC,2,2020-2021
+Jan Bednarek,Poland,Southampton FC,2,2020-2021
+Sander Berge,Norway,Sheffield United,2,2020-2021
+Willy Boly,Ivory Coast,Wolverhampton Wanderers,2,2020-2021
+Robbie Brady,Ireland,Burnley FC,2,2020-2021
+Oliver Burke,Scotland,Sheffield United,2,2020-2021
+Gary Cahill,England,Crystal Palace,2,2020-2021
+Tom Cairney,England,Fulham FC,2,2020-2021
+Keinan Davis,England,Aston Villa,2,2020-2021
+Ryan Fredericks,England,West Ham United,2,2020-2021
+Dwight Gayle,England,Newcastle United,2,2020-2021
+Jordan Henderson,England,Liverpool FC,2,2020-2021
+Conor Hourihane,Ireland,Aston Villa,2,2020-2021
+João Moutinho,Portugal,Wolverhampton Wanderers,2,2020-2021
+Adam Lallana,England,Brighton & Hove Albion,2,2020-2021
+Tariq Lamptey,Ghana,Brighton & Hove Albion,2,2020-2021
+Manuel Lanzini,Argentina,West Ham United,2,2020-2021
+Victor Lindelöf,Sweden,Manchester United,2,2020-2021
+Giovani Lo Celso,Argentina,Tottenham Hotspur,2,2020-2021
+Matthew Lowton,England,Burnley FC,2,2020-2021
+Alexis Mac Allister,Argentina,Brighton & Hove Albion,2,2020-2021
+Luka Milivojević,Serbia,Crystal Palace,2,2020-2021
+Tyrick Mitchell,England,Crystal Palace,2,2020-2021
+Nélson Semedo,Portugal,Wolverhampton Wanderers,2,2020-2021
+Oriol Romeu,Spain,Southampton FC,2,2020-2021
+Alex Oxlade-Chamberlain,England,Liverpool FC,2,2020-2021
+Nathaniel Phillips,England,Liverpool FC,2,2020-2021
+Dennis Praet,Belgium,Leicester City,2,2020-2021
+Nathan Tella,England,Southampton FC,2,2020-2021
+Donny van de Beek,Netherlands,Manchester United,2,2020-2021
+Joël Veltman,Netherlands,Brighton & Hove Albion,2,2020-2021
+Kyle Walker,England,Manchester City,2,2020-2021
+Alex Telles,Brazil,Manchester United,2,2020-2021
+George Baldock,Greece,Sheffield United,2,2020-2021
+Matty Cash,Poland,Aston Villa,2,2020-2021
+Calum Chambers,England,Arsenal FC,2,2020-2021
+Matt Doherty,Ireland,Tottenham Hotspur,2,2020-2021
+Douglas Luiz,Brazil,Aston Villa,2,2020-2021
+Fernandinho,Brazil,Manchester City,2,2020-2021
+John Fleck,Scotland,Sheffield United,2,2020-2021
+Ryan Fraser,Scotland,Newcastle United,2,2020-2021
+Ben Godfrey,England,Everton FC,2,2020-2021
+N'Golo Kanté,France,Chelsea FC,2,2020-2021
+John Lundstram,England,Sheffield United,2,2020-2021
+Arthur Masuaku,Congo DR,West Ham United,2,2020-2021
+James McArthur,Scotland,Crystal Palace,2,2020-2021
+Pablo Hernández,Spain,Leeds United,2,2020-2021
+Thomas Partey,Ghana,Arsenal FC,2,2020-2021
+Harrison Reed,England,Fulham FC,2,2020-2021
+Matt Ritchie,Scotland,Newcastle United,2,2020-2021
+Xherdan Shaqiri,Switzerland,Liverpool FC,2,2020-2021
+Matt Targett,England,Aston Villa,2,2020-2021
+Conor Townsend,England,West Bromwich Albion,2,2020-2021
+Cengiz Ünder,Turkey,Leicester City,2,2020-2021
+Kyle Walker-Peters,England,Southampton FC,2,2020-2021
+Nathan Aké,Netherlands,Manchester City,1,2020-2021
+Toby Alderweireld,Belgium,Tottenham Hotspur,1,2020-2021
+Alisson Becker,Brazil,Liverpool FC,1,2020-2021
+Steven Alzate,Colombia,Brighton & Hove Albion,1,2020-2021
+Daniel Amartey,Ghana,Leicester City,1,2020-2021
+Fabián Balbuena,Paraguay,West Ham United,1,2020-2021
+Bernard,Brazil,Everton FC,1,2020-2021
+Yves Bissouma,Mali,Brighton & Hove Albion,1,2020-2021
+Joe Bryan,England,Fulham FC,1,2020-2021
+Kean Bryan,England,Sheffield United,1,2020-2021
+Dan Burn,England,Brighton & Hove Albion,1,2020-2021
+Carlos Vinícius,Brazil,Tottenham Hotspur,1,2020-2021
+Andy Carroll,England,Newcastle United,1,2020-2021
+Ciaran Clark,Ireland,Newcastle United,1,2020-2021
+Conor Coady,England,Wolverhampton Wanderers,1,2020-2021
+Liam Cooper,Scotland,Leeds United,1,2020-2021
+Scott Dann,England,Crystal Palace,1,2020-2021
+David Luiz,Brazil,Arsenal FC,1,2020-2021
+Leander Dendoncker,Belgium,Wolverhampton Wanderers,1,2020-2021
+Grady Diangana,Congo DR,West Bromwich Albion,1,2020-2021
+Moussa Djénépo,Mali,Southampton FC,1,2020-2021
+Paul Dummett,Wales,Newcastle United,1,2020-2021
+Jimmy Dunne,Ireland,Burnley FC,1,2020-2021
+Anthony Elanga,Sweden,Manchester United,1,2020-2021
+Mohamed Elneny,Egypt,Arsenal FC,1,2020-2021
+Fabio Carvalho,Portugal,Fulham FC,1,2020-2021
+Fred,Brazil,Manchester United,1,2020-2021
+Morgan Gibbs-White,England,Wolverhampton Wanderers,1,2020-2021
+Karlan Grant,England,West Bromwich Albion,1,2020-2021
+Kortney Hause,England,Aston Villa,1,2020-2021
+Mason Holgate,England,Everton FC,1,2020-2021
+Daniel Jebbison,England,Sheffield United,1,2020-2021
+Ben Johnson,England,West Ham United,1,2020-2021
+Cheikhou Kouyaté,Senegal,Crystal Palace,1,2020-2021
+Emil Krafth,Sweden,Newcastle United,1,2020-2021
+Érik Lamela,Argentina,Tottenham Hotspur,1,2020-2021
+Mario Lemina,Gabon,Fulham FC,1,2020-2021
+Llorente,Spain,Leeds United,1,2020-2021
+Ruben Loftus-Cheek,England,Fulham FC,1,2020-2021
+Jean-Philippe Mateta,France,Crystal Palace,1,2020-2021
+Oliver McBurnie,Scotland,Sheffield United,1,2020-2021
+Ben Osborn,England,Sheffield United,1,2020-2021
+Rúben Dias,Portugal,Manchester City,1,2020-2021
+Antonio Rüdiger,Germany,Chelsea FC,1,2020-2021
+Fabian Schär,Switzerland,Newcastle United,1,2020-2021
+Çağlar Söyüncü,Turkey,Leicester City,1,2020-2021
+Pascal Struijk,Netherlands,Leeds United,1,2020-2021
+James Tarkowski,England,Burnley FC,1,2020-2021
+Thiago,Spain,Liverpool FC,1,2020-2021
+Luke Thomas,England,Leicester City,1,2020-2021
+Virgil van Dijk,Netherlands,Liverpool FC,1,2020-2021
+Adam Webster,England,Brighton & Hove Albion,1,2020-2021
+Willian José,Brazil,Wolverhampton Wanderers,1,2020-2021
+Dele Alli,England,Tottenham Hotspur,1,2020-2021
+André Gomes,Portugal,Everton FC,1,2020-2021
+Chris Basham,England,Sheffield United,1,2020-2021
+Ryan Bertrand,England,Southampton FC,1,2020-2021
+Josh Brownhill,England,Burnley FC,1,2020-2021
+Cédric,Portugal,Arsenal FC,1,2020-2021
+Nathaniel Clyne,England,Crystal Palace,1,2020-2021
+Ben Davies,Wales,Tottenham Hotspur,1,2020-2021
+Tom Davies,England,Everton FC,1,2020-2021
+Amad Diallo,Ivory Coast,Manchester United,1,2020-2021
+Ederson,Brazil,Manchester City,1,2020-2021
+John Egan,Ireland,Sheffield United,1,2020-2021
+Kamil Grosicki,Poland,West Bromwich Albion,1,2020-2021
+Rob Holding,England,Arsenal FC,1,2020-2021
+Alireza Jahanbakhsh,Iran,Brighton & Hove Albion,1,2020-2021
+Sam Johnstone,England,West Bromwich Albion,1,2020-2021
+Maximilian Kilman,England,Wolverhampton Wanderers,1,2020-2021
+Mateo Kovačić,Croatia,Chelsea FC,1,2020-2021
+Jamal Lewis,Northern Ireland,Newcastle United,1,2020-2021
+Matthew Longstaff,England,Newcastle United,1,2020-2021
+Nampalys Mendy,Senegal,Leicester City,1,2020-2021
+James Milner,England,Liverpool FC,1,2020-2021
+Owen Otasowie,USA,Wolverhampton Wanderers,1,2020-2021
+Erik Pieters,Netherlands,Burnley FC,1,2020-2021
+Ricardo Pereira,Portugal,Leicester City,1,2020-2021
+Jack Robinson,England,Sheffield United,1,2020-2021
+Enda Stevens,Ireland,Sheffield United,1,2020-2021
+Percy Tau,South Africa,Brighton & Hove Albion,1,2020-2021
+Charlie Taylor,England,Burnley FC,1,2020-2021
+Kenny Tete,Netherlands,Fulham FC,1,2020-2021
+Patrick van Aanholt,Netherlands,Crystal Palace,1,2020-2021
+Vitinha,Portugal,Wolverhampton Wanderers,1,2020-2021
+Joel Ward,England,Crystal Palace,1,2020-2021
+Andrey Yarmolenko,Ukraine,West Ham United,1,2020-2021
+Okay Yokuşlu,Turkey,West Bromwich Albion,1,2020-2021
