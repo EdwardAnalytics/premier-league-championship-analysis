@@ -1,366 +1,299 @@
 Player,Country,Team,Goals,Season
-Cole Palmer,England,Manchester City,33,2023-2024
-Erling Haaland,Norway,Manchester City,32,2023-2024
-Ollie Watkins,England,Aston Villa,32,2023-2024
-Mo Salah,Egypt,Liverpool FC,28,2023-2024
-Phil Foden,England,Manchester City,27,2023-2024
-Heung-min Son,South Korea,Tottenham Hotspur,27,2023-2024
-Bukayo Saka,England,Arsenal FC,24,2023-2024
-Alexander Isak,Sweden,Newcastle United,23,2023-2024
-Dominic Solanke,England,AFC Bournemouth,22,2023-2024
-Jarrod Bowen,England,West Ham United,22,2023-2024
-Jean-Philippe Mateta,France,Crystal Palace,21,2023-2024
-Anthony Gordon,England,Newcastle United,21,2023-2024
-Kai Havertz,Germany,Arsenal FC,20,2023-2024
-Nicolas Jackson,Senegal,Chelsea FC,19,2023-2024
-Matheus Cunha,Brazil,Wolverhampton Wanderers,19,2023-2024
-Julián Alvarez,Argentina,Manchester City,19,2023-2024
-Darwin Núñez,Uruguay,Liverpool FC,19,2023-2024
-Leon Bailey,Jamaica,Aston Villa,19,2023-2024
-Bruno Fernandes,Portugal,Manchester United,18,2023-2024
-Martin Ødegaard,Norway,Arsenal FC,18,2023-2024
-Rodri,Spain,Manchester City,17,2023-2024
-Michael Olise,France,Crystal Palace,16,2023-2024
-Chris Wood,New Zealand,Nottingham Forest,15,2023-2024
-Hee-chan Hwang,South Korea,Wolverhampton Wanderers,15,2023-2024
-Yoane Wissa,Congo DR,Brentford FC,15,2023-2024
-Eberechi Eze,England,Crystal Palace,15,2023-2024
-Carlton Morris,England,Luton Town,15,2023-2024
-Richarlison,Brazil,Tottenham Hotspur,15,2023-2024
-Bryan Mbeumo,Cameroon,Brentford FC,15,2023-2024
-Bruno Guimarães,Brazil,Newcastle United,15,2023-2024
-Declan Rice,England,Arsenal FC,15,2023-2024
-Bernardo Silva,Portugal,Manchester City,15,2023-2024
-Morgan Gibbs-White,England,Nottingham Forest,15,2023-2024
-Brennan Johnson,Wales,Nottingham Forest,15,2023-2024
-Douglas Luiz,Brazil,Aston Villa,14,2023-2024
-Mohammed Kudus,Ghana,West Ham United,14,2023-2024
-James Ward-Prowse,England,West Ham United,14,2023-2024
-Moussa Diaby,France,Aston Villa,14,2023-2024
-Anthony Elanga,Sweden,Nottingham Forest,14,2023-2024
-Kevin De Bruyne,Belgium,Manchester City,14,2023-2024
-Pascal Groß,Germany,Brighton & Hove Albion,14,2023-2024
-Leandro Trossard,Belgium,Arsenal FC,13,2023-2024
-Diogo Jota,Portugal,Liverpool FC,13,2023-2024
-Luis Díaz,Colombia,Liverpool FC,13,2023-2024
-Cody Gakpo,Netherlands,Liverpool FC,13,2023-2024
-James Maddison,England,Tottenham Hotspur,13,2023-2024
-Rasmus Højlund,Denmark,Manchester United,12,2023-2024
-João Pedro,Brazil,Brighton & Hove Albion,12,2023-2024
-Raheem Sterling,England,Chelsea FC,12,2023-2024
-Conor Gallagher,England,Chelsea FC,12,2023-2024
-Dejan Kulusevski,Sweden,Tottenham Hotspur,11,2023-2024
-Alejandro Garnacho,Argentina,Manchester United,11,2023-2024
-Jordan Ayew,Ghana,Crystal Palace,11,2023-2024
-Pablo Sarabia,Spain,Wolverhampton Wanderers,11,2023-2024
-Andreas Pereira,Brazil,Fulham FC,11,2023-2024
-Jérémy Doku,Belgium,Manchester City,11,2023-2024
-Pedro Neto,Portugal,Wolverhampton Wanderers,11,2023-2024
-Kieran Trippier,England,Newcastle United,11,2023-2024
+Erling Haaland,Norway,Manchester City,27,2023-2024
+Cole Palmer,England,Manchester City,22,2023-2024
+Alexander Isak,Sweden,Newcastle United,21,2023-2024
+Phil Foden,England,Manchester City,19,2023-2024
+Dominic Solanke,England,AFC Bournemouth,19,2023-2024
+Ollie Watkins,England,Aston Villa,19,2023-2024
+Mo Salah,Egypt,Liverpool FC,18,2023-2024
+Heung-min Son,South Korea,Tottenham Hotspur,17,2023-2024
+Jarrod Bowen,England,West Ham United,16,2023-2024
+Jean-Philippe Mateta,France,Crystal Palace,16,2023-2024
+Bukayo Saka,England,Arsenal FC,16,2023-2024
+Nicolas Jackson,Senegal,Chelsea FC,14,2023-2024
+Chris Wood,New Zealand,Nottingham Forest,14,2023-2024
+Kai Havertz,Germany,Arsenal FC,13,2023-2024
+Hee-chan Hwang,South Korea,Wolverhampton Wanderers,12,2023-2024
+Matheus Cunha,Brazil,Wolverhampton Wanderers,12,2023-2024
+Leandro Trossard,Belgium,Arsenal FC,12,2023-2024
+Yoane Wissa,Congo DR,Brentford FC,12,2023-2024
+Julián Alvarez,Argentina,Manchester City,11,2023-2024
+Eberechi Eze,England,Crystal Palace,11,2023-2024
+Anthony Gordon,England,Newcastle United,11,2023-2024
+Carlton Morris,England,Luton Town,11,2023-2024
+Darwin Núñez,Uruguay,Liverpool FC,11,2023-2024
+Richarlison,Brazil,Tottenham Hotspur,11,2023-2024
 Elijah Adebayo,England,Luton Town,10,2023-2024
-Rodrigo Muniz,Brazil,Fulham FC,10,2023-2024
-Callum Wilson,England,Newcastle United,10,2023-2024
-Antoine Semenyo,Ghana,AFC Bournemouth,10,2023-2024
-Gabriel Martinelli,Brazil,Arsenal FC,10,2023-2024
-John McGinn,Scotland,Aston Villa,10,2023-2024
-Alexis Mac Allister,Argentina,Liverpool FC,10,2023-2024
-Gustavo Hamer,Netherlands,Sheffield United,10,2023-2024
-Lucas Paquetá,Brazil,West Ham United,10,2023-2024
-Harry Wilson,Wales,Fulham FC,10,2023-2024
-Harvey Elliott,England,Liverpool FC,10,2023-2024
-Jacob Murphy,England,Newcastle United,10,2023-2024
-Pedro Porro,Spain,Tottenham Hotspur,10,2023-2024
-Alfie Doughty,England,Luton Town,10,2023-2024
-Callum Hudson-Odoi,England,Nottingham Forest,9,2023-2024
-Dominic Calvert-Lewin,England,Everton FC,9,2023-2024
-Marcus Rashford,England,Manchester United,9,2023-2024
-Tomáš Souček,Czech Republic,West Ham United,9,2023-2024
-Michail Antonio,Jamaica,West Ham United,9,2023-2024
-Taiwo Awoniyi,Nigeria,Nottingham Forest,9,2023-2024
-Neal Maupay,France,Brentford FC,9,2023-2024
-Oliver McBurnie,Scotland,Sheffield United,9,2023-2024
-Ross Barkley,England,Luton Town,9,2023-2024
-Gabriel Jesus,Brazil,Arsenal FC,9,2023-2024
-Marcos Senesi,Argentina,AFC Bournemouth,9,2023-2024
-Dwight McNeil,England,Everton FC,9,2023-2024
-Abdoulaye Doucouré,Mali,Everton FC,8,2023-2024
-Justin Kluivert,Netherlands,AFC Bournemouth,8,2023-2024
-Scott McTominay,Scotland,Manchester United,8,2023-2024
-Bobby De Cordova-Reid,Jamaica,Fulham FC,8,2023-2024
-Sean Longstaff,England,Newcastle United,8,2023-2024
-Harvey Barnes,England,Newcastle United,8,2023-2024
-Lyle Foster,South Africa,Burnley FC,8,2023-2024
-Ben White,England,Arsenal FC,8,2023-2024
-Youri Tielemans,Belgium,Aston Villa,8,2023-2024
+Leon Bailey,Jamaica,Aston Villa,10,2023-2024
+Bruno Fernandes,Portugal,Manchester United,10,2023-2024
+Diogo Jota,Portugal,Liverpool FC,10,2023-2024
+Rasmus Højlund,Denmark,Manchester United,10,2023-2024
+Michael Olise,France,Crystal Palace,10,2023-2024
+Douglas Luiz,Brazil,Aston Villa,9,2023-2024
+João Pedro,Brazil,Brighton & Hove Albion,9,2023-2024
+Bryan Mbeumo,Cameroon,Brentford FC,9,2023-2024
+Rodrigo Muniz,Brazil,Fulham FC,9,2023-2024
+Callum Wilson,England,Newcastle United,9,2023-2024
+Luis Díaz,Colombia,Liverpool FC,8,2023-2024
+Cody Gakpo,Netherlands,Liverpool FC,8,2023-2024
+Callum Hudson-Odoi,England,Nottingham Forest,8,2023-2024
+Mohammed Kudus,Ghana,West Ham United,8,2023-2024
+Dejan Kulusevski,Sweden,Tottenham Hotspur,8,2023-2024
+Martin Ødegaard,Norway,Arsenal FC,8,2023-2024
+Rodri,Spain,Manchester City,8,2023-2024
+Antoine Semenyo,Ghana,AFC Bournemouth,8,2023-2024
+Raheem Sterling,England,Chelsea FC,8,2023-2024
+Bruno Guimarães,Brazil,Newcastle United,7,2023-2024
+Dominic Calvert-Lewin,England,Everton FC,7,2023-2024
+Abdoulaye Doucouré,Mali,Everton FC,7,2023-2024
 Odsonne Édouard,France,Crystal Palace,7,2023-2024
+Alejandro Garnacho,Argentina,Manchester United,7,2023-2024
 Raúl Jiménez,Mexico,Fulham FC,7,2023-2024
-Simon Adingra,Ivory Coast,Brighton & Hove Albion,7,2023-2024
-Ben Brereton,Chile,Sheffield United,7,2023-2024
-Alex Iwobi,Nigeria,Everton FC,7,2023-2024
-Noni Madueke,England,Chelsea FC,7,2023-2024
-Mykhaylo Mudryk,Ukraine,Chelsea FC,7,2023-2024
-Eddie Nketiah,England,Arsenal FC,7,2023-2024
-Trent Alexander-Arnold,England,Liverpool FC,7,2023-2024
-Kaoru Mitoma,Japan,Brighton & Hove Albion,7,2023-2024
-Dara O'Shea,Ireland,Burnley FC,7,2023-2024
-Marcus Tavernier,England,AFC Bournemouth,7,2023-2024
-Vladimír Coufal,Czech Republic,West Ham United,7,2023-2024
+Justin Kluivert,Netherlands,AFC Bournemouth,7,2023-2024
+Scott McTominay,Scotland,Manchester United,7,2023-2024
+Marcus Rashford,England,Manchester United,7,2023-2024
+Declan Rice,England,Arsenal FC,7,2023-2024
+Tomáš Souček,Czech Republic,West Ham United,7,2023-2024
+James Ward-Prowse,England,West Ham United,7,2023-2024
+Simon Adingra,Ivory Coast,Brighton & Hove Albion,6,2023-2024
+Michail Antonio,Jamaica,West Ham United,6,2023-2024
+Taiwo Awoniyi,Nigeria,Nottingham Forest,6,2023-2024
+Bernardo Silva,Portugal,Manchester City,6,2023-2024
+Ben Brereton,Chile,Sheffield United,6,2023-2024
 Jacob Bruun Larsen,Denmark,Burnley FC,6,2023-2024
+Bobby De Cordova-Reid,Jamaica,Fulham FC,6,2023-2024
+Moussa Diaby,France,Aston Villa,6,2023-2024
 Evan Ferguson,Ireland,Brighton & Hove Albion,6,2023-2024
-Zeki Amdouni,Switzerland,Burnley FC,6,2023-2024
-Danny Welbeck,England,Brighton & Hove Albion,6,2023-2024
-Josh Brownhill,England,Burnley FC,6,2023-2024
-Ivan Toney,England,Brentford FC,6,2023-2024
-Willian,Brazil,Fulham FC,6,2023-2024
-Jack Harrison,England,Everton FC,6,2023-2024
-Mathias Jensen,Denmark,Brentford FC,6,2023-2024
-James McAtee,England,Sheffield United,6,2023-2024
-Pape Sarr,Senegal,Tottenham Hotspur,6,2023-2024
-Malo Gusto,France,Chelsea FC,6,2023-2024
-Antonee Robinson,USA,Fulham FC,6,2023-2024
+Gabriel Martinelli,Brazil,Arsenal FC,6,2023-2024
+Sean Longstaff,England,Newcastle United,6,2023-2024
+Neal Maupay,France,Everton FC,6,2023-2024
+Oliver McBurnie,Scotland,Sheffield United,6,2023-2024
+John McGinn,Scotland,Aston Villa,6,2023-2024
+Zeki Amdouni,Switzerland,Burnley FC,5,2023-2024
+Ross Barkley,England,Luton Town,5,2023-2024
+Harvey Barnes,England,Newcastle United,5,2023-2024
 Jhon Durán,Colombia,Aston Villa,5,2023-2024
+Anthony Elanga,Sweden,Nottingham Forest,5,2023-2024
+Lyle Foster,South Africa,Burnley FC,5,2023-2024
+Conor Gallagher,England,Chelsea FC,5,2023-2024
+Morgan Gibbs-White,England,Nottingham Forest,5,2023-2024
+Alex Iwobi,Nigeria,Fulham FC,5,2023-2024
+Brennan Johnson,Wales,Tottenham Hotspur,5,2023-2024
+Alexis Mac Allister,Argentina,Liverpool FC,5,2023-2024
+Noni Madueke,England,Chelsea FC,5,2023-2024
+Mykhaylo Mudryk,Ukraine,Chelsea FC,5,2023-2024
+Eddie Nketiah,England,Arsenal FC,5,2023-2024
 Cristian Romero,Argentina,Tottenham Hotspur,5,2023-2024
-Cameron Archer,England,Sheffield United,5,2023-2024
-David Fofana,Ivory Coast,Burnley FC,5,2023-2024
-Joško Gvardiol,Croatia,Manchester City,5,2023-2024
-João Palhinha,Portugal,Fulham FC,5,2023-2024
-Mario Lemina,Gabon,Wolverhampton Wanderers,5,2023-2024
-Chiedozie Ogbene,Ireland,Luton Town,5,2023-2024
-Fabian Schär,Switzerland,Newcastle United,5,2023-2024
-Enzo Fernández,Argentina,Chelsea FC,5,2023-2024
-Wilson Odobert,France,Burnley FC,5,2023-2024
-Andy Robertson,Scotland,Liverpool FC,5,2023-2024
-Dominik Szoboszlai,Hungary,Liverpool FC,5,2023-2024
-Adama Traoré,Spain,Fulham FC,5,2023-2024
-Joachim Andersen,Denmark,Crystal Palace,5,2023-2024
-Josh Cullen,Ireland,Burnley FC,5,2023-2024
-Diogo Dalot,Portugal,Manchester United,5,2023-2024
-Pervis Estupiñán,Ecuador,Brighton & Hove Albion,5,2023-2024
-Tyrick Mitchell,England,Crystal Palace,5,2023-2024
-Destiny Udogie,Italy,Tottenham Hotspur,5,2023-2024
-Timo Werner,Germany,Tottenham Hotspur,5,2023-2024
-Tom Cairney,England,Fulham FC,5,2023-2024
-Ryan Christie,Scotland,AFC Bournemouth,5,2023-2024
+Danny Welbeck,England,Brighton & Hove Albion,5,2023-2024
+Cameron Archer,England,Sheffield United,4,2023-2024
+Jordan Ayew,Ghana,Crystal Palace,4,2023-2024
+Josh Brownhill,England,Burnley FC,4,2023-2024
 Tahith Chong,Netherlands,Luton Town,4,2023-2024
+Kevin De Bruyne,Belgium,Manchester City,4,2023-2024
+David Fofana,Ivory Coast,Burnley FC,4,2023-2024
+Gabriel Jesus,Brazil,Arsenal FC,4,2023-2024
+Pascal Groß,Germany,Brighton & Hove Albion,4,2023-2024
 Idrissa Gueye,Senegal,Everton FC,4,2023-2024
-Miguel Almirón,Paraguay,Newcastle United,4,2023-2024
-Facundo Buonanotte,Argentina,Brighton & Hove Albion,4,2023-2024
-Lewis Dunk,England,Brighton & Hove Albion,4,2023-2024
-Jack Grealish,England,Manchester City,4,2023-2024
-Keane Lewis-Potter,England,Brentford FC,4,2023-2024
-Kobbie Mainoo,England,Manchester United,4,2023-2024
-Solly March,England,Brighton & Hove Albion,4,2023-2024
-Morgan Rogers,England,Aston Villa,4,2023-2024
-Thiago Silva,Brazil,Chelsea FC,4,2023-2024
-Nathan Aké,Netherlands,Manchester City,4,2023-2024
-Philip Billing,Denmark,AFC Bournemouth,4,2023-2024
-Sven Botman,Netherlands,Newcastle United,4,2023-2024
-Dan Burn,England,Newcastle United,4,2023-2024
-Matty Cash,Poland,Aston Villa,4,2023-2024
-Danilo,Brazil,Nottingham Forest,4,2023-2024
-Nicolás Domínguez,Argentina,Nottingham Forest,4,2023-2024
-Giovani Lo Celso,Argentina,Tottenham Hotspur,4,2023-2024
-Harry Maguire,England,Manchester United,4,2023-2024
-Jeffrey Schlupp,Ghana,Crystal Palace,4,2023-2024
-Luis Sinisterra,Colombia,AFC Bournemouth,4,2023-2024
-Enes Ünal,Turkey,AFC Bournemouth,4,2023-2024
-Virgil van Dijk,Netherlands,Liverpool FC,4,2023-2024
-Conor Bradley,Northern Ireland,Liverpool FC,4,2023-2024
-Moisés Caicedo,Ecuador,Chelsea FC,4,2023-2024
-Timothy Castagne,Belgium,Fulham FC,4,2023-2024
-Lucas Digne,France,Aston Villa,4,2023-2024
-Jóhann Guðmundsson,Iceland,Burnley FC,4,2023-2024
-Vitaly Janelt,Germany,Brentford FC,4,2023-2024
-Jakub Kiwior,Poland,Arsenal FC,4,2023-2024
-Albert Lokonga,Belgium,Luton Town,4,2023-2024
-Lewis Miley,England,Newcastle United,4,2023-2024
-Harry Toffolo,England,Nottingham Forest,4,2023-2024
-Toti,Portugal,Wolverhampton Wanderers,4,2023-2024
-Andros Townsend,England,Luton Town,4,2023-2024
-Reece Burke,England,Luton Town,4,2023-2024
-Daniel Muñoz,Colombia,Crystal Palace,4,2023-2024
-Reguilón,Spain,Brentford FC,4,2023-2024
-Kyle Walker,England,Manchester City,4,2023-2024
+Joško Gvardiol,Croatia,Manchester City,4,2023-2024
+Gustavo Hamer,Netherlands,Sheffield United,4,2023-2024
+João Palhinha,Portugal,Fulham FC,4,2023-2024
+Mario Lemina,Gabon,Wolverhampton Wanderers,4,2023-2024
+Lucas Paquetá,Brazil,West Ham United,4,2023-2024
+James Maddison,England,Tottenham Hotspur,4,2023-2024
+Chiedozie Ogbene,Ireland,Luton Town,4,2023-2024
+Pablo Sarabia,Spain,Wolverhampton Wanderers,4,2023-2024
+Fabian Schär,Switzerland,Newcastle United,4,2023-2024
+Marcos Senesi,Argentina,AFC Bournemouth,4,2023-2024
+Ivan Toney,England,Brentford FC,4,2023-2024
+Ben White,England,Arsenal FC,4,2023-2024
+Willian,Brazil,Fulham FC,4,2023-2024
+Harry Wilson,Wales,Fulham FC,4,2023-2024
+Trent Alexander-Arnold,England,Liverpool FC,3,2023-2024
+Miguel Almirón,Paraguay,Newcastle United,3,2023-2024
+Andreas Pereira,Brazil,Fulham FC,3,2023-2024
 Beto,Portugal,Everton FC,3,2023-2024
 Jayden Bogle,England,Sheffield United,3,2023-2024
 Jarrad Branthwaite,England,Everton FC,3,2023-2024
+Facundo Buonanotte,Argentina,Brighton & Hove Albion,3,2023-2024
+Jérémy Doku,Belgium,Manchester City,3,2023-2024
+Lewis Dunk,England,Brighton & Hove Albion,3,2023-2024
+Harvey Elliott,England,Liverpool FC,3,2023-2024
+Enzo Fernández,Argentina,Chelsea FC,3,2023-2024
 Gabriel Magalhães,Brazil,Arsenal FC,3,2023-2024
+Jack Grealish,England,Manchester City,3,2023-2024
+Jack Harrison,England,Everton FC,3,2023-2024
 Jack Hinshelwood,England,Brighton & Hove Albion,3,2023-2024
+Mathias Jensen,Denmark,Brentford FC,3,2023-2024
+Keane Lewis-Potter,England,Brentford FC,3,2023-2024
+Kobbie Mainoo,England,Manchester United,3,2023-2024
+Solly March,England,Brighton & Hove Albion,3,2023-2024
+James McAtee,England,Sheffield United,3,2023-2024
+Dwight McNeil,England,Everton FC,3,2023-2024
+Kaoru Mitoma,Japan,Brighton & Hove Albion,3,2023-2024
+Jacob Murphy,England,Newcastle United,3,2023-2024
 Christopher Nkunku,France,Chelsea FC,3,2023-2024
+Dara O'Shea,Ireland,Burnley FC,3,2023-2024
+Wilson Odobert,France,Burnley FC,3,2023-2024
+Pedro Porro,Spain,Tottenham Hotspur,3,2023-2024
+Andy Robertson,Scotland,Liverpool FC,3,2023-2024
+Morgan Rogers,England,Aston Villa,3,2023-2024
+Pape Sarr,Senegal,Tottenham Hotspur,3,2023-2024
+Dominik Szoboszlai,Hungary,Liverpool FC,3,2023-2024
+Marcus Tavernier,England,AFC Bournemouth,3,2023-2024
+Thiago Silva,Brazil,Chelsea FC,3,2023-2024
 Micky van de Ven,Netherlands,Tottenham Hotspur,3,2023-2024
 Kurt Zouma,France,West Ham United,3,2023-2024
-Rayan Aït Nouri,Algeria,Wolverhampton Wanderers,3,2023-2024
-Kristoffer Ajer,Norway,Brentford FC,3,2023-2024
-Jean Bellegarde,France,Wolverhampton Wanderers,3,2023-2024
-Luke Berry,England,Luton Town,3,2023-2024
-Willy Boly,Ivory Coast,Nottingham Forest,3,2023-2024
-João Gomes,Brazil,Wolverhampton Wanderers,3,2023-2024
-Joelinton,Brazil,Newcastle United,3,2023-2024
-Christian Nørgaard,Denmark,Brentford FC,3,2023-2024
-Jay Rodriguez,England,Burnley FC,3,2023-2024
-William Saliba,France,Arsenal FC,3,2023-2024
-Kevin Schade,Germany,Brentford FC,3,2023-2024
-Takehiro Tomiyasu,Japan,Arsenal FC,3,2023-2024
-Lorenz Assignon,France,Burnley FC,3,2023-2024
-Sander Berge,Norway,Burnley FC,3,2023-2024
-Casemiro,Brazil,Manchester United,3,2023-2024
-Emerson,Italy,West Ham United,3,2023-2024
-Christian Eriksen,Denmark,Manchester United,3,2023-2024
-Fábio Vieira,Portugal,Arsenal FC,3,2023-2024
-James Garner,England,Everton FC,3,2023-2024
-Frank Onyeka,Nigeria,Brentford FC,3,2023-2024
-Dango Ouattara,Burkina Faso,AFC Bournemouth,3,2023-2024
-Mads Roerslev,Denmark,Brentford FC,3,2023-2024
-Oleksandr Zinchenko,Ukraine,Arsenal FC,3,2023-2024
-Lewis Cook,England,AFC Bournemouth,3,2023-2024
-Tariq Lamptey,Ghana,Brighton & Hove Albion,3,2023-2024
-Kostas Tsimikas,Greece,Liverpool FC,3,2023-2024
-Adam Wharton,England,Crystal Palace,3,2023-2024
+Adama Traoré,Spain,Fulham FC,2,2023-2024
 Tosin Adarabioyo,England,Fulham FC,2,2023-2024
 Anel Ahmedhodžić,Bosnia-Herzegovina,Sheffield United,2,2023-2024
+Rayan Aït Nouri,Algeria,Wolverhampton Wanderers,2,2023-2024
+Kristoffer Ajer,Norway,Brentford FC,2,2023-2024
 Manuel Akanji,Switzerland,Manchester City,2,2023-2024
+Nathan Aké,Netherlands,Manchester City,2,2023-2024
 Álex Moreno,Spain,Aston Villa,2,2023-2024
+Joachim Andersen,Denmark,Crystal Palace,2,2023-2024
 Ansu Fati,Spain,Brighton & Hove Albion,2,2023-2024
+Jean Bellegarde,France,Wolverhampton Wanderers,2,2023-2024
+Luke Berry,England,Luton Town,2,2023-2024
+Philip Billing,Denmark,AFC Bournemouth,2,2023-2024
+Willy Boly,Ivory Coast,Nottingham Forest,2,2023-2024
+Sven Botman,Netherlands,Newcastle United,2,2023-2024
 Jacob Brown,Scotland,Luton Town,2,2023-2024
+Dan Burn,England,Newcastle United,2,2023-2024
 Carlos Vinícius,Brazil,Fulham FC,2,2023-2024
+Matty Cash,Poland,Aston Villa,2,2023-2024
+Josh Cullen,Ireland,Burnley FC,2,2023-2024
+Danilo,Brazil,Nottingham Forest,2,2023-2024
+Diogo Dalot,Portugal,Manchester United,2,2023-2024
 Axel Disasi,France,Chelsea FC,2,2023-2024
+Nicolás Domínguez,Argentina,Nottingham Forest,2,2023-2024
+Alfie Doughty,England,Luton Town,2,2023-2024
+Pervis Estupiñán,Ecuador,Brighton & Hove Albion,2,2023-2024
+João Gomes,Brazil,Wolverhampton Wanderers,2,2023-2024
+Joelinton,Brazil,Newcastle United,2,2023-2024
 Saša Kalajdžić,Austria,Wolverhampton Wanderers,2,2023-2024
 Maximilian Kilman,England,Wolverhampton Wanderers,2,2023-2024
 Rico Lewis,England,Manchester City,2,2023-2024
+Giovani Lo Celso,Argentina,Tottenham Hotspur,2,2023-2024
+Harry Maguire,England,Manchester United,2,2023-2024
 Ben Mee,England,Brentford FC,2,2023-2024
+Tyrick Mitchell,England,Crystal Palace,2,2023-2024
 Vitaliy Mykolenko,Ukraine,Everton FC,2,2023-2024
+Christian Nørgaard,Denmark,Brentford FC,2,2023-2024
 Amadou Onana,Belgium,Everton FC,2,2023-2024
 Gabriel Osho,England,Luton Town,2,2023-2024
 Pau Torres,Spain,Aston Villa,2,2023-2024
+Pedro Neto,Portugal,Wolverhampton Wanderers,2,2023-2024
 Ethan Pinnock,Jamaica,Brentford FC,2,2023-2024
 Jarell Quansah,England,Liverpool FC,2,2023-2024
+Jay Rodriguez,England,Burnley FC,2,2023-2024
+William Saliba,France,Arsenal FC,2,2023-2024
+Kevin Schade,Germany,Brentford FC,2,2023-2024
+Jeffrey Schlupp,Ghana,Crystal Palace,2,2023-2024
+Luis Sinisterra,Colombia,AFC Bournemouth,2,2023-2024
+Youri Tielemans,Belgium,Aston Villa,2,2023-2024
+Takehiro Tomiyasu,Japan,Arsenal FC,2,2023-2024
+Destiny Udogie,Italy,Tottenham Hotspur,2,2023-2024
+Enes Ünal,Turkey,AFC Bournemouth,2,2023-2024
+Virgil van Dijk,Netherlands,Liverpool FC,2,2023-2024
+Timo Werner,Germany,Tottenham Hotspur,2,2023-2024
 Nicolò Zaniolo,Italy,Aston Villa,2,2023-2024
-Ola Aina,Nigeria,Nottingham Forest,2,2023-2024
-Edson Álvarez,Mexico,West Ham United,2,2023-2024
-Antony,Brazil,Manchester United,2,2023-2024
-Shandon Baptiste,Grenada,Brentford FC,2,2023-2024
-Rodrigo Bentancur,Uruguay,Tottenham Hotspur,2,2023-2024
-Oscar Bobb,Norway,Manchester City,2,2023-2024
-Armando Broja,Albania,Fulham FC,2,2023-2024
-David Brooks,Wales,AFC Bournemouth,2,2023-2024
-Carney Chukwuemeka,England,Chelsea FC,2,2023-2024
-Jordan Clark,England,Luton Town,2,2023-2024
-Nathan Collins,Ireland,Brentford FC,2,2023-2024
-Levi Colwill,England,Chelsea FC,2,2023-2024
-Craig Dawson,England,Wolverhampton Wanderers,2,2023-2024
-Amad Diallo,Ivory Coast,Manchester United,2,2023-2024
-Curtis Jones,England,Liverpool FC,2,2023-2024
-Luca Koleosho,USA,Burnley FC,2,2023-2024
-Jefferson Lerma,Colombia,Crystal Palace,2,2023-2024
-Victor Lindelöf,Sweden,Manchester United,2,2023-2024
-Tom Lockyer,Wales,Luton Town,2,2023-2024
-Jacob Ramsey,England,Aston Villa,2,2023-2024
-Chris Richards,USA,Crystal Palace,2,2023-2024
-Jack Robinson,England,Sheffield United,2,2023-2024
-Alex Scott,England,AFC Bournemouth,2,2023-2024
-James Tarkowski,England,Everton FC,2,2023-2024
-Charlie Taylor,England,Burnley FC,2,2023-2024
-Joël Veltman,Netherlands,Brighton & Hove Albion,2,2023-2024
-Cauley Woodrow,England,Luton Town,2,2023-2024
-Ryan Yates,England,Nottingham Forest,2,2023-2024
-Elliot Anderson,Scotland,Newcastle United,2,2023-2024
-Sèrge Aurier,Ivory Coast,Nottingham Forest,2,2023-2024
-Cucurella,Spain,Chelsea FC,2,2023-2024
-Mikkel Damsgaard,Denmark,Brentford FC,2,2023-2024
-Julio Enciso,Paraguay,Brighton & Hove Albion,2,2023-2024
-Reece James,England,Chelsea FC,2,2023-2024
-Jorginho,Italy,Arsenal FC,2,2023-2024
-Issa Kabore,Burkina Faso,Luton Town,2,2023-2024
-Matheus Nunes,Portugal,Manchester City,2,2023-2024
-James Milner,England,Brighton & Hove Albion,2,2023-2024
-Gonzalo Montiel,Argentina,Nottingham Forest,2,2023-2024
-Murillo,Brazil,Nottingham Forest,2,2023-2024
-Ben Osborn,England,Sheffield United,2,2023-2024
-Nathan Patterson,Scotland,Everton FC,2,2023-2024
-Harrison Reed,England,Fulham FC,2,2023-2024
-Adam Smith,England,AFC Bournemouth,2,2023-2024
-Manor Solomon,Israel,Tottenham Hotspur,2,2023-2024
-Vitinho,Brazil,Burnley FC,2,2023-2024
-Aaron Wan-Bissaka,England,Manchester United,2,2023-2024
 Nayef Aguerd,Morocco,West Ham United,1,2023-2024
+Ola Aina,Nigeria,Nottingham Forest,1,2023-2024
 Ameen Al-Dakhil,Belgium,Burnley FC,1,2023-2024
+Edson Álvarez,Mexico,West Ham United,1,2023-2024
 Mads Andersen,Denmark,Luton Town,1,2023-2024
 André Gomes,Portugal,Everton FC,1,2023-2024
+Antony,Brazil,Manchester United,1,2023-2024
+Lorenz Assignon,France,Burnley FC,1,2023-2024
+Shandon Baptiste,Grenada,Brentford FC,1,2023-2024
 Calvin Bassey,Nigeria,Fulham FC,1,2023-2024
+Rodrigo Bentancur,Uruguay,Tottenham Hotspur,1,2023-2024
+Sander Berge,Norway,Burnley FC,1,2023-2024
+Oscar Bobb,Norway,Manchester City,1,2023-2024
+Conor Bradley,Northern Ireland,Liverpool FC,1,2023-2024
+Armando Broja,Albania,Fulham FC,1,2023-2024
+David Brooks,Wales,AFC Bournemouth,1,2023-2024
+Moisés Caicedo,Ecuador,Chelsea FC,1,2023-2024
+Tom Cairney,England,Fulham FC,1,2023-2024
+Casemiro,Brazil,Manchester United,1,2023-2024
+Timothy Castagne,Belgium,Fulham FC,1,2023-2024
 Trevoh Chalobah,England,Chelsea FC,1,2023-2024
+Carney Chukwuemeka,England,Chelsea FC,1,2023-2024
+Jordan Clark,England,Luton Town,1,2023-2024
+Nathan Collins,Ireland,Brentford FC,1,2023-2024
+Levi Colwill,England,Chelsea FC,1,2023-2024
 Maxwel Cornet,Ivory Coast,West Ham United,1,2023-2024
 Arnaut Danjuma,Netherlands,Everton FC,1,2023-2024
 Ben Davies,Wales,Tottenham Hotspur,1,2023-2024
+Craig Dawson,England,Wolverhampton Wanderers,1,2023-2024
 Leander Dendoncker,Belgium,Aston Villa,1,2023-2024
+Amad Diallo,Ivory Coast,Manchester United,1,2023-2024
+Lucas Digne,France,Aston Villa,1,2023-2024
 Lewis Dobbin,England,Everton FC,1,2023-2024
 Matt Doherty,Ireland,Wolverhampton Wanderers,1,2023-2024
 George Earthy,England,West Ham United,1,2023-2024
+Emerson,Italy,West Ham United,1,2023-2024
 Emerson Royal,Brazil,Tottenham Hotspur,1,2023-2024
 Wataru Endō,Japan,Liverpool FC,1,2023-2024
+Christian Eriksen,Denmark,Manchester United,1,2023-2024
+Fábio Vieira,Portugal,Arsenal FC,1,2023-2024
+James Garner,England,Everton FC,1,2023-2024
 Saman Ghoddos,Iran,Brentford FC,1,2023-2024
 Alfie Gilchrist,England,Chelsea FC,1,2023-2024
 Ryan Gravenberch,Netherlands,Liverpool FC,1,2023-2024
+Jóhann Guðmundsson,Iceland,Burnley FC,1,2023-2024
 Lewis Hall,England,Newcastle United,1,2023-2024
 Danny Ings,England,West Ham United,1,2023-2024
+Vitaly Janelt,Germany,Brentford FC,1,2023-2024
+Curtis Jones,England,Liverpool FC,1,2023-2024
 Michael Keane,England,Everton FC,1,2023-2024
+Jakub Kiwior,Poland,Arsenal FC,1,2023-2024
+Luca Koleosho,USA,Burnley FC,1,2023-2024
 Ezri Konsa,England,Aston Villa,1,2023-2024
 Mateo Kovačić,Croatia,Manchester City,1,2023-2024
 Jamaal Lascelles,England,Newcastle United,1,2023-2024
+Jefferson Lerma,Colombia,Crystal Palace,1,2023-2024
+Victor Lindelöf,Sweden,Manchester United,1,2023-2024
 Tino Livramento,England,Newcastle United,1,2023-2024
+Tom Lockyer,Wales,Luton Town,1,2023-2024
+Albert Lokonga,Belgium,Luton Town,1,2023-2024
 Saša Lukić,Serbia,Fulham FC,1,2023-2024
 Orel Mangala,Belgium,Nottingham Forest,1,2023-2024
 Anthony Martial,France,Manchester United,1,2023-2024
 Konstantinos Mavropanos,Greece,West Ham United,1,2023-2024
 Hannibal Mejbri,Tunisia,Manchester United,1,2023-2024
 Teden Mengi,England,Luton Town,1,2023-2024
+Lewis Miley,England,Newcastle United,1,2023-2024
 Kieffer Moore,Wales,AFC Bournemouth,1,2023-2024
 Mason Mount,England,Manchester United,1,2023-2024
 Moussa Niakhaté,France,Nottingham Forest,1,2023-2024
 Oliver Norwood,Northern Ireland,Sheffield United,1,2023-2024
+Frank Onyeka,Nigeria,Brentford FC,1,2023-2024
+Dango Ouattara,Burkina Faso,AFC Bournemouth,1,2023-2024
+Jacob Ramsey,England,Aston Villa,1,2023-2024
 Tim Ream,USA,Fulham FC,1,2023-2024
+Chris Richards,USA,Crystal Palace,1,2023-2024
 Matt Ritchie,Scotland,Newcastle United,1,2023-2024
+Jack Robinson,England,Sheffield United,1,2023-2024
+Mads Roerslev,Denmark,Brentford FC,1,2023-2024
+Alex Scott,England,AFC Bournemouth,1,2023-2024
 John Stones,England,Manchester City,1,2023-2024
+James Tarkowski,England,Everton FC,1,2023-2024
+Charlie Taylor,England,Burnley FC,1,2023-2024
 Kenny Tete,Netherlands,Fulham FC,1,2023-2024
+Harry Toffolo,England,Nottingham Forest,1,2023-2024
 Sandro Tonali,Italy,Newcastle United,1,2023-2024
+Toti,Portugal,Wolverhampton Wanderers,1,2023-2024
+Andros Townsend,England,Luton Town,1,2023-2024
+Kieran Trippier,England,Newcastle United,1,2023-2024
 Raphaël Varane,France,Manchester United,1,2023-2024
 Alejo Véliz,Argentina,Tottenham Hotspur,1,2023-2024
+Joël Veltman,Netherlands,Brighton & Hove Albion,1,2023-2024
 Vinicius Souza,Brazil,Sheffield United,1,2023-2024
 Joe Willock,England,Newcastle United,1,2023-2024
+Cauley Woodrow,England,Luton Town,1,2023-2024
+Ryan Yates,England,Nottingham Forest,1,2023-2024
 Ilya Zabarnyi,Ukraine,AFC Bournemouth,1,2023-2024
 Zanka,Denmark,Brentford FC,1,2023-2024
-Max Aarons,England,AFC Bournemouth,1,2023-2024
-Benoît Badiashile,France,Chelsea FC,1,2023-2024
-George Baldock,Greece,Sheffield United,1,2023-2024
-Saïd Benrahma,Algeria,West Ham United,1,2023-2024
-Jordan Beyer,Germany,Burnley FC,1,2023-2024
-Calum Chambers,England,Aston Villa,1,2023-2024
-Ben Chilwell,England,Chelsea FC,1,2023-2024
-Mahmoud Dahoud,Syria,Brighton & Hove Albion,1,2023-2024
-Jonny Evans,Northern Ireland,Manchester United,1,2023-2024
-Mark Flekken,Netherlands,Brentford FC,1,2023-2024
-Omari Forson,England,Manchester United,1,2023-2024
-Billy Gilmour,Scotland,Brighton & Hove Albion,1,2023-2024
-Joe Gomez,England,Liverpool FC,1,2023-2024
-Marc Guéhi,England,Crystal Palace,1,2023-2024
-Rico Henry,England,Brentford FC,1,2023-2024
-Will Hughes,England,Crystal Palace,1,2023-2024
-José Sá,Portugal,Wolverhampton Wanderers,1,2023-2024
-Boubacar Kamara,France,Aston Villa,1,2023-2024
-Lloyd Kelly,England,AFC Bournemouth,1,2023-2024
-Milos Kerkez,Hungary,AFC Bournemouth,1,2023-2024
-Adam Lallana,England,Brighton & Hove Albion,1,2023-2024
-Clément Lenglet,France,Aston Villa,1,2023-2024
-Max Lowe,England,Sheffield United,1,2023-2024
-Lisandro Martínez,Argentina,Manchester United,1,2023-2024
-Matheus França,Brazil,Crystal Palace,1,2023-2024
-Chris Mepham,Wales,AFC Bournemouth,1,2023-2024
-Nélson Semedo,Portugal,Wolverhampton Wanderers,1,2023-2024
-Divock Origi,Belgium,Nottingham Forest,1,2023-2024
-Facundo Pellistri,Uruguay,Manchester United,1,2023-2024
-Ivan Perišić,Croatia,Tottenham Hotspur,1,2023-2024
-Gio Reyna,USA,Nottingham Forest,1,2023-2024
-Connor Roberts,Wales,Burnley FC,1,2023-2024
-Sergio Gómez,Spain,Manchester City,1,2023-2024
-Emile Smith Rowe,England,Arsenal FC,1,2023-2024
-Joel Ward,England,Crystal Palace,1,2023-2024
-Neco Williams,Wales,Nottingham Forest,1,2023-2024
+Oleksandr Zinchenko,Ukraine,Arsenal FC,1,2023-2024

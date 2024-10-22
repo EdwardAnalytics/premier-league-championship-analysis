@@ -1,329 +1,257 @@
 Player,Country,Team,Goals,Season
-Thierry Henry,France,Arsenal FC,39,2004-2005
-Frank Lampard,England,Chelsea FC,31,2004-2005
-Andy Johnson,England,Crystal Palace,24,2004-2005
-Jimmy Floyd Hasselbaink,Netherlands,Middlesbrough FC,20,2004-2005
-Dennis Bergkamp,Netherlands,Arsenal FC,20,2004-2005
-Reyes,Spain,Arsenal FC,19,2004-2005
-Robert Pirés,France,Arsenal FC,18,2004-2005
-Peter Crouch,England,Southampton FC,18,2004-2005
-Eiður Guðjohnsen,Iceland,Chelsea FC,18,2004-2005
-Freddie Ljungberg,Sweden,Arsenal FC,18,2004-2005
-Boa Morte,Portugal,Fulham FC,17,2004-2005
-Andy Cole,England,Fulham FC,16,2004-2005
-Tim Cahill,Australia,Everton FC,16,2004-2005
-Robbie Fowler,England,Manchester City,16,2004-2005
-Robbie Keane,Ireland,Tottenham Hotspur,16,2004-2005
-Arjen Robben,Netherlands,Chelsea FC,16,2004-2005
-Stewart Downing,England,Middlesbrough FC,16,2004-2005
-Jermain Defoe,England,Tottenham Hotspur,15,2004-2005
-Yakubu Ayegbeni,Nigeria,Portsmouth FC,15,2004-2005
-Didier Drogba,Ivory Coast,Chelsea FC,15,2004-2005
-Emile Heskey,England,Birmingham City,14,2004-2005
-Shaun Wright-Phillips,England,Manchester City,14,2004-2005
-Ryan Giggs,Wales,Manchester United,14,2004-2005
-Wayne Rooney,England,Manchester United,13,2004-2005
-El-Hadji Diouf,Senegal,Bolton Wanderers,13,2004-2005
-Nolberto Solano,Peru,Aston Villa,13,2004-2005
-Frédéric Kanouté,Mali,Tottenham Hotspur,13,2004-2005
-Damien Duff,Ireland,Chelsea FC,13,2004-2005
-John Arne Riise,Norway,Liverpool FC,13,2004-2005
-Robert Earnshaw,Wales,West Bromwich Albion,12,2004-2005
-Paul Scholes,England,Manchester United,12,2004-2005
-Luis García,Spain,Liverpool FC,12,2004-2005
-Juan Pablo Ángel,Colombia,Aston Villa,12,2004-2005
-Darren Huckerby,England,Norwich City,12,2004-2005
-Steed Malbranque,France,Fulham FC,12,2004-2005
-Patrick Vieira,France,Arsenal FC,12,2004-2005
-Kevin Phillips,England,Southampton FC,11,2004-2005
-Paul Dickov,Scotland,Blackburn Rovers,11,2004-2005
-Craig Bellamy,Wales,Newcastle United,11,2004-2005
-Steven Gerrard,England,Liverpool FC,11,2004-2005
-Stylianos Giannakopoulos,Greece,Bolton Wanderers,11,2004-2005
-Leon McKenzie,England,Norwich City,11,2004-2005
-Milan Baroš,Czech Republic,Liverpool FC,10,2004-2005
-Joe Cole,England,Chelsea FC,10,2004-2005
-Kevin Davies,England,Bolton Wanderers,10,2004-2005
-Dean Ashton,England,Norwich City,10,2004-2005
-Marcus Bent,England,Everton FC,10,2004-2005
-Brian McBride,USA,Fulham FC,10,2004-2005
-Tomasz Radzinski,Canada,Fulham FC,10,2004-2005
-Alan Smith,England,Manchester United,10,2004-2005
-Thomas Gravesen,Denmark,Everton FC,10,2004-2005
-Danny Murphy,England,Charlton Athletic,10,2004-2005
-Nicolas Anelka,France,Manchester City,9,2004-2005
-Shaun Bartlett,South Africa,Charlton Athletic,9,2004-2005
-Zoltán Gera,Hungary,West Bromwich Albion,9,2004-2005
-Lomana LuaLua,Congo DR,Portsmouth FC,9,2004-2005
-Cristiano Ronaldo,Portugal,Manchester United,9,2004-2005
-Franck Queudrue,France,Middlesbrough FC,9,2004-2005
-Jonathan Greening,England,West Bromwich Albion,9,2004-2005
-Wayne Routledge,England,Crystal Palace,9,2004-2005
-Gareth Barry,England,Aston Villa,8,2004-2005
-Damien Francis,Jamaica,Norwich City,8,2004-2005
-Jay Jay Okocha,Nigeria,Bolton Wanderers,8,2004-2005
-Leon Osman,England,Everton FC,8,2004-2005
-Duncan Ferguson,Scotland,Everton FC,8,2004-2005
-Brett Emerton,Australia,Blackburn Rovers,8,2004-2005
-Aki Riihilahti,Finland,Crystal Palace,8,2004-2005
-Patrik Berger,Czech Republic,Portsmouth FC,8,2004-2005
-Laurent Robert,France,Newcastle United,8,2004-2005
+Thierry Henry,France,Arsenal FC,25,2004-2005
+Andy Johnson,England,Crystal Palace,21,2004-2005
+Robert Pirés,France,Arsenal FC,14,2004-2005
+Jermain Defoe,England,Tottenham Hotspur,13,2004-2005
+Jimmy Floyd Hasselbaink,Netherlands,Middlesbrough FC,13,2004-2005
+Frank Lampard,England,Chelsea FC,13,2004-2005
+Yakubu Ayegbeni,Nigeria,Portsmouth FC,12,2004-2005
+Andy Cole,England,Fulham FC,12,2004-2005
+Peter Crouch,England,Southampton FC,12,2004-2005
+Eiður Guðjohnsen,Iceland,Chelsea FC,12,2004-2005
+Tim Cahill,Australia,Everton FC,11,2004-2005
+Robert Earnshaw,Wales,West Bromwich Albion,11,2004-2005
+Robbie Fowler,England,Manchester City,11,2004-2005
+Robbie Keane,Ireland,Tottenham Hotspur,11,2004-2005
+Wayne Rooney,England,Manchester United,11,2004-2005
+Didier Drogba,Ivory Coast,Chelsea FC,10,2004-2005
+Emile Heskey,England,Birmingham City,10,2004-2005
+Freddie Ljungberg,Sweden,Arsenal FC,10,2004-2005
+Kevin Phillips,England,Southampton FC,10,2004-2005
+Shaun Wright-Phillips,England,Manchester City,10,2004-2005
+Milan Baroš,Czech Republic,Liverpool FC,9,2004-2005
+Paul Dickov,Scotland,Blackburn Rovers,9,2004-2005
+El-Hadji Diouf,Senegal,Bolton Wanderers,9,2004-2005
+Reyes,Spain,Arsenal FC,9,2004-2005
+Paul Scholes,England,Manchester United,9,2004-2005
+Dennis Bergkamp,Netherlands,Arsenal FC,8,2004-2005
+Boa Morte,Portugal,Fulham FC,8,2004-2005
+Joe Cole,England,Chelsea FC,8,2004-2005
+Kevin Davies,England,Bolton Wanderers,8,2004-2005
+Luis García,Spain,Liverpool FC,8,2004-2005
+Nolberto Solano,Peru,Aston Villa,8,2004-2005
+Nicolas Anelka,France,Manchester City,7,2004-2005
+Juan Pablo Ángel,Colombia,Aston Villa,7,2004-2005
+Dean Ashton,England,Norwich City,7,2004-2005
+Gareth Barry,England,Aston Villa,7,2004-2005
+Craig Bellamy,Wales,Newcastle United,7,2004-2005
+Damien Francis,Jamaica,Norwich City,7,2004-2005
+Steven Gerrard,England,Liverpool FC,7,2004-2005
+Stylianos Giannakopoulos,Greece,Bolton Wanderers,7,2004-2005
+Frédéric Kanouté,Mali,Tottenham Hotspur,7,2004-2005
+Leon McKenzie,England,Norwich City,7,2004-2005
+Arjen Robben,Netherlands,Chelsea FC,7,2004-2005
 Alan Shearer,England,Newcastle United,7,2004-2005
-Patrick Kluivert,Netherlands,Newcastle United,7,2004-2005
-Henrik Pedersen,Denmark,Bolton Wanderers,7,2004-2005
-Ruud van Nistelrooy,Netherlands,Manchester United,7,2004-2005
-Lee Hendrie,England,Aston Villa,7,2004-2005
-Szilárd Németh,Slovakia,Middlesbrough FC,7,2004-2005
-Morten Pedersen,Norway,Blackburn Rovers,7,2004-2005
-Robbie Savage,Wales,Birmingham City,7,2004-2005
-Mathias Svensson,Sweden,Norwich City,7,2004-2005
-Tiago,Portugal,Chelsea FC,7,2004-2005
-Carlton Cole,England,Aston Villa,7,2004-2005
-Cesc Fàbregas,Spain,Arsenal FC,7,2004-2005
+Shaun Bartlett,South Africa,Charlton Athletic,6,2004-2005
+Marcus Bent,England,Everton FC,6,2004-2005
 Papa Bouba Diop,Senegal,Fulham FC,6,2004-2005
-Radhi Jaïdi,Tunisia,Bolton Wanderers,6,2004-2005
-Mark Viduka,Australia,Middlesbrough FC,6,2004-2005
-Boudewijn Zenden,Netherlands,Middlesbrough FC,6,2004-2005
-Lee Carsley,Ireland,Everton FC,6,2004-2005
-Clinton Morrison,Ireland,Birmingham City,6,2004-2005
-Kevin Nolan,England,Bolton Wanderers,6,2004-2005
-Walter Pandiani,Uruguay,Birmingham City,6,2004-2005
-Lee Bowyer,England,Newcastle United,6,2004-2005
-Geoff Horsfield,England,West Bromwich Albion,6,2004-2005
-Francis Jeffers,England,Charlton Athletic,6,2004-2005
-Rory Delap,Ireland,Southampton FC,6,2004-2005
-Steven Reid,Ireland,Blackburn Rovers,6,2004-2005
-Xabi Alonso,Spain,Liverpool FC,6,2004-2005
-Joey Barton,England,Manchester City,6,2004-2005
-Gary Speed,Wales,Bolton Wanderers,6,2004-2005
-Dietmar Hamann,Germany,Liverpool FC,6,2004-2005
+Damien Duff,Ireland,Chelsea FC,6,2004-2005
+Zoltán Gera,Hungary,West Bromwich Albion,6,2004-2005
+Darren Huckerby,England,Norwich City,6,2004-2005
+Patrick Kluivert,Netherlands,Newcastle United,6,2004-2005
+Lomana LuaLua,Congo DR,Portsmouth FC,6,2004-2005
+Steed Malbranque,France,Fulham FC,6,2004-2005
+Brian McBride,USA,Fulham FC,6,2004-2005
+Jay Jay Okocha,Nigeria,Bolton Wanderers,6,2004-2005
+Leon Osman,England,Everton FC,6,2004-2005
+Henrik Pedersen,Denmark,Bolton Wanderers,6,2004-2005
+Tomasz Radzinski,Canada,Fulham FC,6,2004-2005
+John Arne Riise,Norway,Liverpool FC,6,2004-2005
+Alan Smith,England,Manchester United,6,2004-2005
+Ruud van Nistelrooy,Netherlands,Manchester United,6,2004-2005
+Patrick Vieira,France,Arsenal FC,6,2004-2005
+Cristiano Ronaldo,Portugal,Manchester United,5,2004-2005
+Stewart Downing,England,Middlesbrough FC,5,2004-2005
 Talal El-Karkouri,Morocco,Charlton Athletic,5,2004-2005
+Duncan Ferguson,Scotland,Everton FC,5,2004-2005
+Ryan Giggs,Wales,Manchester United,5,2004-2005
+Lee Hendrie,England,Aston Villa,5,2004-2005
+Radhi Jaïdi,Tunisia,Bolton Wanderers,5,2004-2005
+Franck Queudrue,France,Middlesbrough FC,5,2004-2005
 Robin van Persie,Netherlands,Arsenal FC,5,2004-2005
-James Beattie,England,Everton FC,5,2004-2005
-Djibril Cissé,France,Liverpool FC,5,2004-2005
-Joseph-Désiré Job,Cameroon,Middlesbrough FC,5,2004-2005
-Jonatan Johansson,Finland,Charlton Athletic,5,2004-2005
-Antoine Sibierski,France,Manchester City,5,2004-2005
-George Boateng,Netherlands,Middlesbrough FC,5,2004-2005
-Darren Fletcher,Scotland,Manchester United,5,2004-2005
-Joonas Kolkka,Finland,Crystal Palace,5,2004-2005
-Kiki Musampa,Netherlands,Manchester City,5,2004-2005
-Jerome Thomas,England,Charlton Athletic,5,2004-2005
-David Bentley,England,Norwich City,5,2004-2005
-David Dunn,England,Birmingham City,5,2004-2005
-Richard Dunne,Ireland,Manchester City,5,2004-2005
-David Unsworth,England,Portsmouth FC,5,2004-2005
-Eyal Berkovic,Israel,Portsmouth FC,5,2004-2005
-Lauren Etame Mayer,Cameroon,Arsenal FC,5,2004-2005
-Ulises De la Cruz,Ecuador,Aston Villa,5,2004-2005
-Mark Pembridge,Wales,Fulham FC,5,2004-2005
+Mark Viduka,Australia,Middlesbrough FC,5,2004-2005
+Boudewijn Zenden,Netherlands,Middlesbrough FC,5,2004-2005
+James Beattie,England,Southampton FC,4,2004-2005
 Henri Camara,Senegal,Southampton FC,4,2004-2005
+Lee Carsley,Ireland,Everton FC,4,2004-2005
+Djibril Cissé,France,Liverpool FC,4,2004-2005
 Kieron Dyer,England,Newcastle United,4,2004-2005
+Brett Emerton,Australia,Blackburn Rovers,4,2004-2005
+Thomas Gravesen,Denmark,Everton FC,4,2004-2005
+Joseph-Désiré Job,Cameroon,Middlesbrough FC,4,2004-2005
+Jonatan Johansson,Finland,Charlton Athletic,4,2004-2005
 Collins John,Netherlands,Fulham FC,4,2004-2005
 Diomansy Kamara,Senegal,Portsmouth FC,4,2004-2005
 Mateja Kežman,Serbia,Chelsea FC,4,2004-2005
-Darren Anderton,England,Birmingham City,4,2004-2005
-Kevin Campbell,England,West Bromwich Albion,4,2004-2005
-Matt Holland,Ireland,Charlton Athletic,4,2004-2005
-Olof Mellberg,Sweden,Aston Villa,4,2004-2005
-Kieran Richardson,England,West Bromwich Albion,4,2004-2005
-Steve Stone,England,Portsmouth FC,4,2004-2005
-John Terry,England,Chelsea FC,4,2004-2005
-Jason Euell,Jamaica,Charlton Athletic,4,2004-2005
-Thomas Hitzlsperger,Germany,Aston Villa,4,2004-2005
-Michael Hughes,Northern Ireland,Crystal Palace,4,2004-2005
-Gary O'Neil,England,Portsmouth FC,4,2004-2005
-Luke Young,England,Charlton Athletic,4,2004-2005
-Michael Brown,England,Tottenham Hotspur,4,2004-2005
-Hermann Hreiðarsson,Iceland,Charlton Athletic,4,2004-2005
-Jermaine Jenas,England,Newcastle United,4,2004-2005
-Kevin Kilbane,Ireland,Everton FC,4,2004-2005
-Graeme Le Saux,England,Southampton FC,4,2004-2005
-Jon Macken,Ireland,Manchester City,4,2004-2005
-Mikel Arteta,Spain,Everton FC,4,2004-2005
-Michael Carrick,England,Tottenham Hotspur,4,2004-2005
-Fabrice Fernandes,France,Southampton FC,4,2004-2005
+Clinton Morrison,Ireland,Birmingham City,4,2004-2005
+Szilárd Németh,Slovakia,Middlesbrough FC,4,2004-2005
+Kevin Nolan,England,Bolton Wanderers,4,2004-2005
+Walter Pandiani,Uruguay,Birmingham City,4,2004-2005
+Morten Pedersen,Norway,Blackburn Rovers,4,2004-2005
+Aki Riihilahti,Finland,Crystal Palace,4,2004-2005
+Robbie Savage,Wales,Blackburn Rovers,4,2004-2005
+Antoine Sibierski,France,Manchester City,4,2004-2005
+Mathias Svensson,Sweden,Norwich City,4,2004-2005
+Tiago,Portugal,Chelsea FC,4,2004-2005
 Darren Ambrose,England,Newcastle United,3,2004-2005
+Darren Anderton,England,Birmingham City,3,2004-2005
+Patrik Berger,Czech Republic,Portsmouth FC,3,2004-2005
+George Boateng,Netherlands,Middlesbrough FC,3,2004-2005
+Lee Bowyer,England,Newcastle United,3,2004-2005
+Kevin Campbell,England,West Bromwich Albion,3,2004-2005
 Neil Clement,England,West Bromwich Albion,3,2004-2005
+Carlton Cole,England,Aston Villa,3,2004-2005
 Arjan de Zeeuw,Netherlands,Portsmouth FC,3,2004-2005
+Darren Fletcher,Scotland,Manchester United,3,2004-2005
 Danny Granville,England,Crystal Palace,3,2004-2005
+Matt Holland,Ireland,Charlton Athletic,3,2004-2005
+Geoff Horsfield,England,West Bromwich Albion,3,2004-2005
+Francis Jeffers,England,Charlton Athletic,3,2004-2005
+Joonas Kolkka,Finland,Crystal Palace,3,2004-2005
+Olof Mellberg,Sweden,Aston Villa,3,2004-2005
 Morientes,Spain,Liverpool FC,3,2004-2005
+Danny Murphy,England,Charlton Athletic,3,2004-2005
+Kiki Musampa,Netherlands,Manchester City,3,2004-2005
+Kieran Richardson,England,West Bromwich Albion,3,2004-2005
+Laurent Robert,France,Newcastle United,3,2004-2005
+Steve Stone,England,Portsmouth FC,3,2004-2005
 Anders Svensson,Sweden,Southampton FC,3,2004-2005
-Shola Ameobi,Nigeria,Newcastle United,3,2004-2005
-Darren Carter,England,Birmingham City,3,2004-2005
-Ashley Cole,England,Arsenal FC,3,2004-2005
-Edu Gaspar,Brazil,Arsenal FC,3,2004-2005
-Barry Ferguson,Scotland,Blackburn Rovers,3,2004-2005
-Paul Gallagher,Scotland,Blackburn Rovers,3,2004-2005
-William Gallas,France,Chelsea FC,3,2004-2005
-Dean Marney,England,Tottenham Hotspur,3,2004-2005
-John O'Shea,Ireland,Manchester United,3,2004-2005
-Claudio Reyna,USA,Manchester City,3,2004-2005
-Mikaël Silvestre,France,Manchester United,3,2004-2005
-Jon Stead,England,Blackburn Rovers,3,2004-2005
-Matthew Upson,England,Birmingham City,3,2004-2005
-Darius Vassell,England,Aston Villa,3,2004-2005
-Lee Clark,England,Fulham FC,3,2004-2005
-Adam Drury,England,Norwich City,3,2004-2005
-Erik Edman,Sweden,Tottenham Hotspur,3,2004-2005
-Craig Fleming,England,Norwich City,3,2004-2005
-Roy Keane,Ireland,Manchester United,3,2004-2005
-Harry Kewell,Australia,Liverpool FC,3,2004-2005
-Paul Konchesky,England,Charlton Athletic,3,2004-2005
-Claude Makélélé,France,Chelsea FC,3,2004-2005
-Lucas Neill,Australia,Blackburn Rovers,3,2004-2005
-David Prutton,England,Southampton FC,3,2004-2005
-Nigel Quashie,Scotland,Portsmouth FC,3,2004-2005
-Louis Saha,France,Manchester United,3,2004-2005
-Olivier Bernard,France,Newcastle United,3,2004-2005
-Simon Davies,Wales,Tottenham Hotspur,3,2004-2005
-Nicky Hunt,England,Bolton Wanderers,3,2004-2005
-Danny Mills,England,Manchester City,3,2004-2005
-Gary Neville,England,Manchester United,3,2004-2005
-Jermaine Pennant,England,Birmingham City,3,2004-2005
-Jamie Redknapp,England,Tottenham Hotspur,3,2004-2005
-Riccardo Scimeca,England,West Bromwich Albion,3,2004-2005
-David Thompson,England,Blackburn Rovers,3,2004-2005
+John Terry,England,Chelsea FC,3,2004-2005
+Jerome Thomas,England,Charlton Athletic,3,2004-2005
+Shola Ameobi,Nigeria,Newcastle United,2,2004-2005
+David Bentley,England,Norwich City,2,2004-2005
 Igor Bišćan,Croatia,Liverpool FC,2,2004-2005
 Robbie Blake,England,Birmingham City,2,2004-2005
 Paul Bosvelt,Netherlands,Manchester City,2,2004-2005
-Gary Doherty,Ireland,Norwich City,2,2004-2005
+Darren Carter,England,Birmingham City,2,2004-2005
+Cesc Fàbregas,Spain,Arsenal FC,2,2004-2005
+Ashley Cole,England,Arsenal FC,2,2004-2005
+Rory Delap,Ireland,Southampton FC,2,2004-2005
+Gary Doherty,Ireland,Tottenham Hotspur,2,2004-2005
+David Dunn,England,Birmingham City,2,2004-2005
+Richard Dunne,Ireland,Manchester City,2,2004-2005
+Edu Gaspar,Brazil,Arsenal FC,2,2004-2005
+Jason Euell,Jamaica,Charlton Athletic,2,2004-2005
+Barry Ferguson,Scotland,Blackburn Rovers,2,2004-2005
 Jonathan Fortune,England,Charlton Athletic,2,2004-2005
+Paul Gallagher,Scotland,Blackburn Rovers,2,2004-2005
+William Gallas,France,Chelsea FC,2,2004-2005
 Julian Gray,England,Birmingham City,2,2004-2005
 Fitz Hall,England,Crystal Palace,2,2004-2005
+Thomas Hitzlsperger,Germany,Aston Villa,2,2004-2005
+Michael Hughes,Northern Ireland,Crystal Palace,2,2004-2005
 Sami Hyypiä,Finland,Liverpool FC,2,2004-2005
 Andreas Jakobsson,Sweden,Southampton FC,2,2004-2005
 Matt Jansen,England,Blackburn Rovers,2,2004-2005
 Nwankwo Kanu,Nigeria,West Bromwich Albion,2,2004-2005
 Stephen Kelly,Ireland,Tottenham Hotspur,2,2004-2005
 Ledley King,England,Tottenham Hotspur,2,2004-2005
+Dean Marney,England,Tottenham Hotspur,2,2004-2005
 Neil Mellor,England,Liverpool FC,2,2004-2005
 Mido,Egypt,Tottenham Hotspur,2,2004-2005
 Andy O'Brien,Ireland,Newcastle United,2,2004-2005
+Gary O'Neil,England,Portsmouth FC,2,2004-2005
+John O'Shea,Ireland,Manchester United,2,2004-2005
+Steven Reid,Ireland,Blackburn Rovers,2,2004-2005
+Claudio Reyna,USA,Manchester City,2,2004-2005
 Chris Riggott,England,Middlesbrough FC,2,2004-2005
 Dennis Rommedahl,Denmark,Charlton Athletic,2,2004-2005
+Mikaël Silvestre,France,Manchester United,2,2004-2005
 Florent Sinama-Pongolle,France,Liverpool FC,2,2004-2005
-Dwight Yorke,Trinidad & Tobago,Birmingham City,2,2004-2005
-Titus Bramble,England,Newcastle United,2,2004-2005
-Nicky Butt,England,Newcastle United,2,2004-2005
-Stephen Carr,Ireland,Newcastle United,2,2004-2005
-Les Ferdinand,England,Bolton Wanderers,2,2004-2005
-Steve Finnan,Ireland,Liverpool FC,2,2004-2005
-Mathieu Flamini,France,Arsenal FC,2,2004-2005
-Ricardo Fuller,Jamaica,Portsmouth FC,2,2004-2005
-Gabriel Heinze,Argentina,Manchester United,2,2004-2005
-Hierro,Spain,Bolton Wanderers,2,2004-2005
-Muzzy Izzet,Turkey,Birmingham City,2,2004-2005
-Gavin McCann,England,Aston Villa,2,2004-2005
-Mario Melchiot,Netherlands,Birmingham City,2,2004-2005
-James Milner,England,Newcastle United,2,2004-2005
-Matt Oakley,England,Southampton FC,2,2004-2005
-Noé Pamarot,France,Tottenham Hotspur,2,2004-2005
-Pedro Mendes,Portugal,Tottenham Hotspur,2,2004-2005
-Andy Reid,Ireland,Tottenham Hotspur,2,2004-2005
-Michael Reiziger,Netherlands,Middlesbrough FC,2,2004-2005
-David Weir,Scotland,Everton FC,2,2004-2005
-Reto Ziegler,Switzerland,Tottenham Hotspur,2,2004-2005
-Celestine Babayaro,Nigeria,Newcastle United,2,2004-2005
-Jamie Carragher,England,Liverpool FC,2,2004-2005
-Sean Davis,England,Tottenham Hotspur,2,2004-2005
-Rio Ferdinand,England,Manchester United,2,2004-2005
-Thomas Helveg,Denmark,Norwich City,2,2004-2005
-Claus Jensen,Denmark,Fulham FC,2,2004-2005
-Glen Johnson,England,Chelsea FC,2,2004-2005
-Mattias Jonson,Sweden,Norwich City,2,2004-2005
-Neil McCann,Scotland,Southampton FC,2,2004-2005
-Bruno N'Gotty,France,Bolton Wanderers,2,2004-2005
-Tom Soares,England,Crystal Palace,2,2004-2005
-Gareth Southgate,England,Middlesbrough FC,2,2004-2005
-Paul Telfer,Scotland,Southampton FC,2,2004-2005
+Jon Stead,England,Blackburn Rovers,2,2004-2005
+David Unsworth,England,Portsmouth FC,2,2004-2005
+Matthew Upson,England,Birmingham City,2,2004-2005
+Darius Vassell,England,Aston Villa,2,2004-2005
+Xabi Alonso,Spain,Liverpool FC,2,2004-2005
+Dwight Yorke,Trinidad & Tobago,Blackburn Rovers,2,2004-2005
+Luke Young,England,Charlton Athletic,2,2004-2005
 Thimothée Atouba,Cameroon,Tottenham Hotspur,1,2004-2005
+Joey Barton,England,Manchester City,1,2004-2005
 David Bellion,France,Manchester United,1,2004-2005
 Tal Ben Haim,Israel,Bolton Wanderers,1,2004-2005
+Eyal Berkovic,Israel,Portsmouth FC,1,2004-2005
 Dexter Blackstock,Antigua & Barbuda,Southampton FC,1,2004-2005
 Carlos Bocanegra,USA,Fulham FC,1,2004-2005
 Jay Bothroyd,England,Blackburn Rovers,1,2004-2005
+Titus Bramble,England,Newcastle United,1,2004-2005
+Michael Brown,England,Tottenham Hotspur,1,2004-2005
 Wes Brown,England,Manchester United,1,2004-2005
+Nicky Butt,England,Newcastle United,1,2004-2005
 Sol Campbell,England,Arsenal FC,1,2004-2005
+Stephen Carr,Ireland,Newcastle United,1,2004-2005
 Simon Charlton,England,Norwich City,1,2004-2005
 Malcolm Christie,England,Middlesbrough FC,1,2004-2005
+Lee Clark,England,Fulham FC,1,2004-2005
 Steven Davis,Northern Ireland,Aston Villa,1,2004-2005
 Sylvain Distin,France,Manchester City,1,2004-2005
 Scott Dobie,Scotland,West Bromwich Albion,1,2004-2005
+Adam Drury,England,Norwich City,1,2004-2005
+Erik Edman,Sweden,Tottenham Hotspur,1,2004-2005
 Robbie Elliott,England,Newcastle United,1,2004-2005
+Lauren Etame Mayer,Cameroon,Arsenal FC,1,2004-2005
+Les Ferdinand,England,Bolton Wanderers,1,2004-2005
+Steve Finnan,Ireland,Liverpool FC,1,2004-2005
+Mathieu Flamini,France,Arsenal FC,1,2004-2005
+Craig Fleming,England,Norwich City,1,2004-2005
 Willo Flood,Ireland,Manchester City,1,2004-2005
 Dougie Freedman,Scotland,Crystal Palace,1,2004-2005
+Ricardo Fuller,Jamaica,Portsmouth FC,1,2004-2005
 Danny Graham,England,Middlesbrough FC,1,2004-2005
+Gabriel Heinze,Argentina,Manchester United,1,2004-2005
+Hierro,Spain,Bolton Wanderers,1,2004-2005
 Danny Higginbotham,Gibraltar,Southampton FC,1,2004-2005
+Hermann Hreiðarsson,Iceland,Charlton Athletic,1,2004-2005
 Mark Hudson,England,Crystal Palace,1,2004-2005
 Aaron Hughes,Northern Ireland,Newcastle United,1,2004-2005
 Bryan Hughes,England,Charlton Athletic,1,2004-2005
+Muzzy Izzet,Turkey,Birmingham City,1,2004-2005
 Ryan Jarvis,England,Norwich City,1,2004-2005
+Jermaine Jenas,England,Newcastle United,1,2004-2005
+Roy Keane,Ireland,Manchester United,1,2004-2005
+Harry Kewell,Australia,Liverpool FC,1,2004-2005
+Kevin Kilbane,Ireland,Everton FC,1,2004-2005
 Zat Knight,England,Fulham FC,1,2004-2005
+Paul Konchesky,England,Charlton Athletic,1,2004-2005
 Martin Laursen,Denmark,Aston Villa,1,2004-2005
+Graeme Le Saux,England,Southampton FC,1,2004-2005
 Sylvain Legwinski,France,Fulham FC,1,2004-2005
 Mikele Leigertwood,Antigua & Barbuda,Crystal Palace,1,2004-2005
 Kevin Lisbie,Jamaica,Charlton Athletic,1,2004-2005
+Jon Macken,Ireland,Manchester City,1,2004-2005
+Claude Makélélé,France,Chelsea FC,1,2004-2005
+Gavin McCann,England,Aston Villa,1,2004-2005
 James McFadden,Scotland,Everton FC,1,2004-2005
 Paul McVeigh,Northern Ireland,Norwich City,1,2004-2005
+Mario Melchiot,Netherlands,Birmingham City,1,2004-2005
+Mikel Arteta,Spain,Everton FC,1,2004-2005
+James Milner,England,Newcastle United,1,2004-2005
 Luke Moore,England,Aston Villa,1,2004-2005
 Noureddine Naybet,Morocco,Tottenham Hotspur,1,2004-2005
+Lucas Neill,Australia,Blackburn Rovers,1,2004-2005
+Matt Oakley,England,Southampton FC,1,2004-2005
+Noé Pamarot,France,Tottenham Hotspur,1,2004-2005
+Pedro Mendes,Portugal,Tottenham Hotspur,1,2004-2005
 Chris Perry,England,Charlton Athletic,1,2004-2005
 Darren Powell,England,Crystal Palace,1,2004-2005
 Linvoy Primus,England,Portsmouth FC,1,2004-2005
+David Prutton,England,Southampton FC,1,2004-2005
+Nigel Quashie,Scotland,Southampton FC,1,2004-2005
+Andy Reid,Ireland,Tottenham Hotspur,1,2004-2005
+Michael Reiziger,Netherlands,Middlesbrough FC,1,2004-2005
 Ricardo Carvalho,Portugal,Chelsea FC,1,2004-2005
 Paul Robinson,England,West Bromwich Albion,1,2004-2005
 Youssef Safri,Morocco,Norwich City,1,2004-2005
+Louis Saha,France,Manchester United,1,2004-2005
 Craig Short,England,Blackburn Rovers,1,2004-2005
 Trevor Sinclair,England,Manchester City,1,2004-2005
+Gary Speed,Wales,Bolton Wanderers,1,2004-2005
 Alan Stubbs,England,Everton FC,1,2004-2005
 Matthew Taylor,England,Portsmouth FC,1,2004-2005
 Andy Todd,England,Blackburn Rovers,1,2004-2005
 James Vaughan,England,Everton FC,1,2004-2005
 Nicola Ventola,Italy,Crystal Palace,1,2004-2005
 Ronnie Wallwork,England,West Bromwich Albion,1,2004-2005
+David Weir,Scotland,Everton FC,1,2004-2005
 Peter Whittingham,England,Aston Villa,1,2004-2005
 Bradley Wright-Phillips,England,Manchester City,1,2004-2005
-Martin Albrechtsen,Denmark,West Bromwich Albion,1,2004-2005
-Emmerson Boyce,Barbados,Crystal Palace,1,2004-2005
-Aliou Cissé,Senegal,Portsmouth FC,1,2004-2005
-Gaël Clichy,France,Arsenal FC,1,2004-2005
-Cosmin Contra,Romania,West Bromwich Albion,1,2004-2005
-Lee Croft,England,Manchester City,1,2004-2005
-Mark Delaney,Wales,Aston Villa,1,2004-2005
-Youri Djorkaeff,France,Blackburn Rovers,1,2004-2005
-Jason Dodd,England,Southampton FC,1,2004-2005
-Mikael Forssell,Finland,Birmingham City,1,2004-2005
-Ricardo Gardner,Jamaica,Bolton Wanderers,1,2004-2005
-Gilberto Silva,Brazil,Arsenal FC,1,2004-2005
-Adam Green,England,Fulham FC,1,2004-2005
-Jesper Grønkjær,Denmark,Birmingham City,1,2004-2005
-Tony Hibbert,England,Everton FC,1,2004-2005
-Gary Holt,Scotland,Norwich City,1,2004-2005
-Andy Johnson,England,West Bromwich Albion,1,2004-2005
-Damien Johnson,Northern Ireland,Birmingham City,1,2004-2005
-Josemi,Spain,Liverpool FC,1,2004-2005
-Tugay Kerimoğlu,Turkey,Blackburn Rovers,1,2004-2005
-Gábor Király,Hungary,Crystal Palace,1,2004-2005
-Radostin Kishishev,Bulgaria,Charlton Athletic,1,2004-2005
-Kléberson,Brazil,Manchester United,1,2004-2005
-Jason Koumas,Wales,West Bromwich Albion,1,2004-2005
-Vassilios Lakis,Greece,Crystal Palace,1,2004-2005
-Stan Lazaridis,Australia,Birmingham City,1,2004-2005
-Dominic Matteo,Scotland,Blackburn Rovers,1,2004-2005
-Mendieta,Spain,Middlesbrough FC,1,2004-2005
-Aaron Mokoena,South Africa,Blackburn Rovers,1,2004-2005
-James Morrison,Scotland,Middlesbrough FC,1,2004-2005
-Adrian Mutu,Romania,Chelsea FC,1,2004-2005
-Charles N'Zogbia,France,Newcastle United,1,2004-2005
-Mikael Nilsson,Sweden,Southampton FC,1,2004-2005
-Alessandro Pistone,Italy,Everton FC,1,2004-2005
-Tony Popovic,Australia,Crystal Palace,1,2004-2005
-Paul Robinson,England,Tottenham Hotspur,1,2004-2005
-Liam Rosenior,England,Fulham FC,1,2004-2005
-Graham Stuart,England,Norwich City,1,2004-2005
-Steven Taylor,England,Newcastle United,1,2004-2005
-Djimi Traoré,Mali,Liverpool FC,1,2004-2005
-Moritz Volz,Germany,Fulham FC,1,2004-2005
-Stephen Warnock,England,Liverpool FC,1,2004-2005
-Steve Watson,England,Everton FC,1,2004-2005
+Reto Ziegler,Switzerland,Tottenham Hotspur,1,2004-2005

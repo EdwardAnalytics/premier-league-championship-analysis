@@ -1,340 +1,268 @@
 Player,Country,Team,Goals,Season
-Eden Hazard,Belgium,Chelsea FC,31,2018-2019
-Mo Salah,Egypt,Liverpool FC,30,2018-2019
-Sergio Agüero,Argentina,Manchester City,29,2018-2019
-Pierre-Emerick Aubameyang,Gabon,Arsenal FC,27,2018-2019
-Raheem Sterling,England,Manchester City,26,2018-2019
-Sadio Mané,Senegal,Liverpool FC,23,2018-2019
-Callum Wilson,England,AFC Bournemouth,23,2018-2019
-Jamie Vardy,England,Leicester City,22,2018-2019
-Paul Pogba,France,Manchester United,22,2018-2019
-Harry Kane,England,Tottenham Hotspur,21,2018-2019
-Alexandre Lacazette,France,Arsenal FC,21,2018-2019
-Ryan Fraser,Scotland,AFC Bournemouth,21,2018-2019
-Raúl Jiménez,Mexico,Wolverhampton Wanderers,20,2018-2019
-Leroy Sané,Germany,Manchester City,20,2018-2019
-Christian Eriksen,Denmark,Tottenham Hotspur,20,2018-2019
-Gylfi Sigurðsson,Iceland,Everton FC,19,2018-2019
-Roberto Firmino,Brazil,Liverpool FC,18,2018-2019
-Heung-min Son,South Korea,Tottenham Hotspur,18,2018-2019
-Salomón Rondón,Venezuela,Newcastle United,18,2018-2019
-Marcus Rashford,England,Manchester United,16,2018-2019
-Joshua King,Norway,AFC Bournemouth,15,2018-2019
-Gerard Deulofeu,Spain,Watford FC,15,2018-2019
-Wilfried Zaha,Ivory Coast,Crystal Palace,15,2018-2019
-Glenn Murray,England,Brighton & Hove Albion,14,2018-2019
-Richarlison,Brazil,Everton FC,14,2018-2019
-Ayoze Pérez,Spain,Newcastle United,14,2018-2019
-Ashley Barnes,England,Burnley FC,14,2018-2019
-Luka Milivojević,Serbia,Crystal Palace,14,2018-2019
-Aleksandar Mitrović,Serbia,Fulham FC,14,2018-2019
-Marko Arnautović,Austria,West Ham United,14,2018-2019
-Troy Deeney,England,Watford FC,14,2018-2019
-Diogo Jota,Portugal,Wolverhampton Wanderers,14,2018-2019
-Bernardo Silva,Portugal,Manchester City,14,2018-2019
-James Maddison,England,Leicester City,14,2018-2019
-David Silva,Spain,Manchester City,14,2018-2019
-Felipe Anderson,Brazil,West Ham United,13,2018-2019
-Trent Alexander-Arnold,England,Liverpool FC,13,2018-2019
+Pierre-Emerick Aubameyang,Gabon,Arsenal FC,22,2018-2019
+Sadio Mané,Senegal,Liverpool FC,22,2018-2019
+Mo Salah,Egypt,Liverpool FC,22,2018-2019
+Sergio Agüero,Argentina,Manchester City,21,2018-2019
+Jamie Vardy,England,Leicester City,18,2018-2019
+Harry Kane,England,Tottenham Hotspur,17,2018-2019
+Raheem Sterling,England,Manchester City,17,2018-2019
+Eden Hazard,Belgium,Chelsea FC,16,2018-2019
+Callum Wilson,England,AFC Bournemouth,14,2018-2019
+Raúl Jiménez,Mexico,Wolverhampton Wanderers,13,2018-2019
+Alexandre Lacazette,France,Arsenal FC,13,2018-2019
+Glenn Murray,England,Brighton & Hove Albion,13,2018-2019
+Paul Pogba,France,Manchester United,13,2018-2019
+Richarlison,Brazil,Everton FC,13,2018-2019
+Gylfi Sigurðsson,Iceland,Everton FC,13,2018-2019
+Ayoze Pérez,Spain,Newcastle United,12,2018-2019
+Ashley Barnes,England,Burnley FC,12,2018-2019
+Joshua King,Norway,AFC Bournemouth,12,2018-2019
 Romelu Lukaku,Belgium,Manchester United,12,2018-2019
-Anthony Martial,France,Manchester United,12,2018-2019
-Chris Wood,New Zealand,Burnley FC,12,2018-2019
-David Brooks,Wales,AFC Bournemouth,12,2018-2019
-Riyad Mahrez,Algeria,Manchester City,11,2018-2019
-Abdoulaye Doucouré,Mali,Watford FC,11,2018-2019
-Andy Robertson,Scotland,Liverpool FC,11,2018-2019
+Luka Milivojević,Serbia,Crystal Palace,12,2018-2019
+Roberto Firmino,Brazil,Liverpool FC,12,2018-2019
+Heung-min Son,South Korea,Tottenham Hotspur,12,2018-2019
+Aleksandar Mitrović,Serbia,Fulham FC,11,2018-2019
+Salomón Rondón,Venezuela,Newcastle United,11,2018-2019
+Marko Arnautović,Austria,West Ham United,10,2018-2019
+Gerard Deulofeu,Spain,Watford FC,10,2018-2019
 Lucas Moura,Brazil,Tottenham Hotspur,10,2018-2019
-Pedro,Spain,Chelsea FC,10,2018-2019
-Gabriel Jesus,Brazil,Manchester City,10,2018-2019
-Danny Ings,England,Southampton FC,10,2018-2019
-Michail Antonio,Jamaica,West Ham United,10,2018-2019
-Henrikh Mkhitaryan,Armenia,Arsenal FC,10,2018-2019
-Nathan Redmond,England,Southampton FC,10,2018-2019
-Andros Townsend,England,Crystal Palace,10,2018-2019
-Mark Noble,England,West Ham United,10,2018-2019
-Aaron Ramsey,Wales,Arsenal FC,10,2018-2019
-Matt Ritchie,Scotland,Newcastle United,10,2018-2019
-Andre Gray,Jamaica,Watford FC,9,2018-2019
-İlkay Gündoğan,Germany,Manchester City,9,2018-2019
-Xherdan Shaqiri,Switzerland,Liverpool FC,9,2018-2019
-James Milner,England,Liverpool FC,9,2018-2019
-Víctor Camarasa,Spain,Cardiff City,9,2018-2019
-Matt Doherty,Ireland,Wolverhampton Wanderers,9,2018-2019
-José Cholevas,Greece,Watford FC,9,2018-2019
-Jóhann Guðmundsson,Iceland,Burnley FC,9,2018-2019
-Alex Iwobi,Nigeria,Arsenal FC,9,2018-2019
-James McArthur,Scotland,Crystal Palace,9,2018-2019
-Willian,Brazil,Chelsea FC,9,2018-2019
-Ashley Westwood,England,Burnley FC,9,2018-2019
-João Moutinho,Portugal,Wolverhampton Wanderers,9,2018-2019
-Javier Hernández,Mexico,West Ham United,8,2018-2019
-Dominic Calvert-Lewin,England,Everton FC,8,2018-2019
-Ruben Loftus-Cheek,England,Chelsea FC,8,2018-2019
-Dele Alli,England,Tottenham Hotspur,8,2018-2019
-Ryan Babel,Netherlands,Fulham FC,8,2018-2019
-Lucas Digne,France,Everton FC,8,2018-2019
-N'Golo Kanté,France,Chelsea FC,8,2018-2019
-Ross Barkley,England,Chelsea FC,8,2018-2019
-Dwight McNeil,England,Burnley FC,8,2018-2019
-Anthony Knockaert,France,Brighton & Hove Albion,8,2018-2019
-Ricardo Pereira,Portugal,Leicester City,8,2018-2019
-Ryan Sessegnon,England,Fulham FC,8,2018-2019
+Anthony Martial,France,Manchester United,10,2018-2019
+Marcus Rashford,England,Manchester United,10,2018-2019
+Leroy Sané,Germany,Manchester City,10,2018-2019
+Chris Wood,New Zealand,Burnley FC,10,2018-2019
+Wilfried Zaha,Ivory Coast,Crystal Palace,10,2018-2019
+Troy Deeney,England,Watford FC,9,2018-2019
+Diogo Jota,Portugal,Wolverhampton Wanderers,9,2018-2019
+Felipe Anderson,Brazil,West Ham United,9,2018-2019
+Christian Eriksen,Denmark,Tottenham Hotspur,8,2018-2019
+Pedro,Spain,Chelsea FC,8,2018-2019
+Bernardo Silva,Portugal,Manchester City,7,2018-2019
+David Brooks,Wales,AFC Bournemouth,7,2018-2019
+Ryan Fraser,Scotland,AFC Bournemouth,7,2018-2019
+Gabriel Jesus,Brazil,Manchester City,7,2018-2019
+Andre Gray,Jamaica,Watford FC,7,2018-2019
+Javier Hernández,Mexico,West Ham United,7,2018-2019
+Danny Ings,England,Southampton FC,7,2018-2019
+James Maddison,England,Leicester City,7,2018-2019
+Riyad Mahrez,Algeria,Manchester City,7,2018-2019
 James Ward-Prowse,England,Southampton FC,7,2018-2019
-Roberto Pereyra,Argentina,Watford FC,7,2018-2019
-Bobby De Cordova-Reid,Jamaica,Cardiff City,7,2018-2019
-Mesut Özil,Germany,Arsenal FC,7,2018-2019
-Theo Walcott,England,Everton FC,7,2018-2019
-Pierre-Emile Højbjerg,Denmark,Southampton FC,7,2018-2019
-Rúben Neves,Portugal,Wolverhampton Wanderers,7,2018-2019
-Youri Tielemans,Belgium,Leicester City,7,2018-2019
-Robert Snodgrass,Scotland,West Ham United,7,2018-2019
+Michail Antonio,Jamaica,West Ham United,6,2018-2019
+Dominic Calvert-Lewin,England,Everton FC,6,2018-2019
+David Silva,Spain,Manchester City,6,2018-2019
+İlkay Gündoğan,Germany,Manchester City,6,2018-2019
+Ruben Loftus-Cheek,England,Chelsea FC,6,2018-2019
+Henrikh Mkhitaryan,Armenia,Arsenal FC,6,2018-2019
+Roberto Pereyra,Argentina,Watford FC,6,2018-2019
+Nathan Redmond,England,Southampton FC,6,2018-2019
 André Schürrle,Germany,Fulham FC,6,2018-2019
-Shane Duffy,Ireland,Brighton & Hove Albion,6,2018-2019
-Shane Long,Ireland,Southampton FC,6,2018-2019
-Érik Lamela,Argentina,Tottenham Hotspur,6,2018-2019
-Jesse Lingard,England,Manchester United,6,2018-2019
-Virgil van Dijk,Netherlands,Liverpool FC,6,2018-2019
-Granit Xhaka,Switzerland,Arsenal FC,6,2018-2019
-Pascal Groß,Germany,Brighton & Hove Albion,6,2018-2019
-Aymeric Laporte,Spain,Manchester City,6,2018-2019
-Cenk Tosun,Turkey,Everton FC,6,2018-2019
-Olivier Giroud,France,Chelsea FC,6,2018-2019
-Will Hughes,England,Watford FC,6,2018-2019
-Marcos Alonso,Spain,Chelsea FC,6,2018-2019
-Azpilicueta,Spain,Chelsea FC,6,2018-2019
-Solly March,England,Brighton & Hove Albion,6,2018-2019
+Xherdan Shaqiri,Switzerland,Liverpool FC,6,2018-2019
+Andros Townsend,England,Crystal Palace,6,2018-2019
+Dele Alli,England,Tottenham Hotspur,5,2018-2019
 Álvaro Morata,Spain,Chelsea FC,5,2018-2019
+Ryan Babel,Netherlands,Fulham FC,5,2018-2019
 Michy Batshuayi,Belgium,Crystal Palace,5,2018-2019
+Bobby De Cordova-Reid,Jamaica,Cardiff City,5,2018-2019
+Abdoulaye Doucouré,Mali,Watford FC,5,2018-2019
+Shane Duffy,Ireland,Brighton & Hove Albion,5,2018-2019
 Gonzalo Higuaín,Argentina,Chelsea FC,5,2018-2019
-Sol Bamba,Ivory Coast,Cardiff City,5,2018-2019
-Demarai Gray,Jamaica,Leicester City,5,2018-2019
-Nathaniel Mendez-Laing,Guatemala,Cardiff City,5,2018-2019
-Callum Paterson,Scotland,Cardiff City,5,2018-2019
-Fabian Schär,Switzerland,Newcastle United,5,2018-2019
-Jeffrey Schlupp,Ghana,Crystal Palace,5,2018-2019
-Stuart Armstrong,Scotland,Southampton FC,5,2018-2019
-David Luiz,Brazil,Chelsea FC,5,2018-2019
-Juan Mata,Spain,Manchester United,5,2018-2019
-Josh Murphy,England,Cardiff City,5,2018-2019
-Patrick van Aanholt,Netherlands,Crystal Palace,5,2018-2019
-Ander Herrera,Spain,Manchester United,5,2018-2019
-Steve Mounié,Benin,Huddersfield Town,5,2018-2019
-Junior Stanislas,England,AFC Bournemouth,5,2018-2019
-Isaac Hayden,England,Newcastle United,5,2018-2019
-Llorente,Spain,Tottenham Hotspur,5,2018-2019
-Luke Shaw,England,Manchester United,5,2018-2019
-Luciano Vietto,Argentina,Fulham FC,5,2018-2019
-Héctor Bellerín,Spain,Arsenal FC,5,2018-2019
-Sead Kolašinac,Bosnia-Herzegovina,Arsenal FC,5,2018-2019
-Benjamin Mendy,France,Manchester City,5,2018-2019
+Shane Long,Ireland,Southampton FC,5,2018-2019
+James Milner,England,Liverpool FC,5,2018-2019
+Mark Noble,England,West Ham United,5,2018-2019
+Mesut Özil,Germany,Arsenal FC,5,2018-2019
+Víctor Camarasa,Spain,Cardiff City,5,2018-2019
+Theo Walcott,England,Everton FC,5,2018-2019
 Nathan Aké,Netherlands,AFC Bournemouth,4,2018-2019
+Sol Bamba,Ivory Coast,Cardiff City,4,2018-2019
 Willy Boly,Ivory Coast,Wolverhampton Wanderers,4,2018-2019
+Lucas Digne,France,Everton FC,4,2018-2019
+Matt Doherty,Ireland,Wolverhampton Wanderers,4,2018-2019
 Karlan Grant,England,Huddersfield Town,4,2018-2019
-Junior Hoilett,Canada,Cardiff City,4,2018-2019
-Ivan Cavaleiro,Portugal,Wolverhampton Wanderers,4,2018-2019
-Aaron Mooy,Australia,Huddersfield Town,4,2018-2019
-Divock Origi,Belgium,Liverpool FC,4,2018-2019
-James Tarkowski,England,Burnley FC,4,2018-2019
-Zanka,Denmark,Huddersfield Town,4,2018-2019
-Marc Albrighton,England,Leicester City,4,2018-2019
-Charlie Austin,England,Southampton FC,4,2018-2019
-Séamus Coleman,Ireland,Everton FC,4,2018-2019
-Kevin De Bruyne,Belgium,Manchester City,4,2018-2019
-Lucas Torreira,Uruguay,Arsenal FC,4,2018-2019
-Ashley Young,England,Manchester United,4,2018-2019
-Kurt Zouma,France,Everton FC,4,2018-2019
-Bernard,Brazil,Everton FC,4,2018-2019
-Étienne Capoue,France,Watford FC,4,2018-2019
-Fernandinho,Brazil,Manchester City,4,2018-2019
-Jordan Henderson,England,Liverpool FC,4,2018-2019
-Kelechi Iheanacho,Nigeria,Leicester City,4,2018-2019
-Sean Morrison,England,Cardiff City,4,2018-2019
-Nacho Monreal,Spain,Arsenal FC,4,2018-2019
-Alexis Sánchez,Chile,Manchester United,4,2018-2019
-Matt Targett,England,Southampton FC,4,2018-2019
-Kieran Trippier,England,Tottenham Hotspur,4,2018-2019
-Ben Chilwell,England,Leicester City,4,2018-2019
+Demarai Gray,Jamaica,Leicester City,4,2018-2019
+Pierre-Emile Højbjerg,Denmark,Southampton FC,4,2018-2019
+N'Golo Kanté,France,Chelsea FC,4,2018-2019
+Érik Lamela,Argentina,Tottenham Hotspur,4,2018-2019
+Jesse Lingard,England,Manchester United,4,2018-2019
+Nathaniel Mendez-Laing,Guatemala,Cardiff City,4,2018-2019
+Callum Paterson,Scotland,Cardiff City,4,2018-2019
+Aaron Ramsey,Wales,Arsenal FC,4,2018-2019
+Rúben Neves,Portugal,Wolverhampton Wanderers,4,2018-2019
+Fabian Schär,Switzerland,Newcastle United,4,2018-2019
+Jeffrey Schlupp,Ghana,Crystal Palace,4,2018-2019
+Virgil van Dijk,Netherlands,Liverpool FC,4,2018-2019
+Granit Xhaka,Switzerland,Arsenal FC,4,2018-2019
 Florin Andone,Romania,Brighton & Hove Albion,3,2018-2019
+Stuart Armstrong,Scotland,Southampton FC,3,2018-2019
+Ross Barkley,England,Chelsea FC,3,2018-2019
 Craig Cathcart,Northern Ireland,Watford FC,3,2018-2019
+José Cholevas,Greece,Watford FC,3,2018-2019
 Ciaran Clark,Ireland,Newcastle United,3,2018-2019
+David Luiz,Brazil,Chelsea FC,3,2018-2019
 Eric Dier,England,Tottenham Hotspur,3,2018-2019
+Pascal Groß,Germany,Brighton & Hove Albion,3,2018-2019
+Jóhann Guðmundsson,Iceland,Burnley FC,3,2018-2019
 Jeff Hendrick,Ireland,Burnley FC,3,2018-2019
+Junior Hoilett,Canada,Cardiff City,3,2018-2019
+Ivan Cavaleiro,Portugal,Wolverhampton Wanderers,3,2018-2019
+Alex Iwobi,Nigeria,Arsenal FC,3,2018-2019
+Juan Mata,Spain,Manchester United,3,2018-2019
 Aboubakar Kamara,Mauritania,Fulham FC,3,2018-2019
 Laurent Koscielny,France,Arsenal FC,3,2018-2019
+Aymeric Laporte,Spain,Manchester City,3,2018-2019
 Lucas Pérez,Spain,West Ham United,3,2018-2019
 Harry Maguire,England,Leicester City,3,2018-2019
+James McArthur,Scotland,Crystal Palace,3,2018-2019
+Dwight McNeil,England,Burnley FC,3,2018-2019
+Aaron Mooy,Australia,Huddersfield Town,3,2018-2019
 Wes Morgan,Jamaica,Leicester City,3,2018-2019
+Josh Murphy,England,Cardiff City,3,2018-2019
+Divock Origi,Belgium,Liverpool FC,3,2018-2019
+James Tarkowski,England,Burnley FC,3,2018-2019
+Youri Tielemans,Belgium,Leicester City,3,2018-2019
+Cenk Tosun,Turkey,Everton FC,3,2018-2019
+Patrick van Aanholt,Netherlands,Crystal Palace,3,2018-2019
 Sam Vokes,Wales,Burnley FC,3,2018-2019
 Georginio Wijnaldum,Netherlands,Liverpool FC,3,2018-2019
-Lewis Dunk,England,Brighton & Hove Albion,3,2018-2019
-Dan Gosling,England,AFC Bournemouth,3,2018-2019
-Naby Keïta,Guinea,Liverpool FC,3,2018-2019
-Daniel Sturridge,England,Liverpool FC,3,2018-2019
-Yan Valery,Tunisia,Southampton FC,3,2018-2019
-Jordan Ayew,Ghana,Crystal Palace,3,2018-2019
-Harvey Barnes,England,Leicester City,3,2018-2019
-Cédric,Portugal,Southampton FC,3,2018-2019
-Jack Cork,England,Burnley FC,3,2018-2019
-Fabinho,Brazil,Liverpool FC,3,2018-2019
-Hélder Costa,Angola,Wolverhampton Wanderers,3,2018-2019
-Michael Keane,England,Everton FC,3,2018-2019
-Max Meyer,Germany,Crystal Palace,3,2018-2019
-Sokratis Papastathopoulos,Greece,Arsenal FC,3,2018-2019
-Ken Sema,Sweden,Watford FC,3,2018-2019
-Jean Seri,Ivory Coast,Fulham FC,3,2018-2019
-DeAndre Yedlin,USA,Newcastle United,3,2018-2019
-Manquillo,Spain,Newcastle United,3,2018-2019
-Danny Rose,England,Tottenham Hotspur,3,2018-2019
-Moussa Sissoko,France,Tottenham Hotspur,3,2018-2019
-Kyle Walker-Peters,England,Tottenham Hotspur,3,2018-2019
-Aaron Wan-Bissaka,England,Crystal Palace,3,2018-2019
-Oleksandr Zinchenko,Ukraine,Manchester City,3,2018-2019
+Willian,Brazil,Chelsea FC,3,2018-2019
+Zanka,Denmark,Huddersfield Town,3,2018-2019
+Marc Albrighton,England,Leicester City,2,2018-2019
+Ander Herrera,Spain,Manchester United,2,2018-2019
+Charlie Austin,England,Southampton FC,2,2018-2019
 Philip Billing,Denmark,Huddersfield Town,2,2018-2019
 Calum Chambers,England,Fulham FC,2,2018-2019
+Séamus Coleman,Ireland,Everton FC,2,2018-2019
+Kevin De Bruyne,Belgium,Manchester City,2,2018-2019
 Leander Dendoncker,Belgium,Wolverhampton Wanderers,2,2018-2019
+Lewis Dunk,England,Brighton & Hove Albion,2,2018-2019
+Olivier Giroud,France,Chelsea FC,2,2018-2019
+Dan Gosling,England,AFC Bournemouth,2,2018-2019
+Will Hughes,England,Watford FC,2,2018-2019
 Jorginho,Italy,Chelsea FC,2,2018-2019
 Joselu,Spain,Newcastle United,2,2018-2019
+Naby Keïta,Guinea,Liverpool FC,2,2018-2019
+Anthony Knockaert,France,Brighton & Hove Albion,2,2018-2019
 Jefferson Lerma,Colombia,AFC Bournemouth,2,2018-2019
 Jürgen Locadia,Curaçao,Brighton & Hove Albion,2,2018-2019
+Marcos Alonso,Spain,Chelsea FC,2,2018-2019
 Scott McTominay,Scotland,Manchester United,2,2018-2019
+Steve Mounié,Benin,Huddersfield Town,2,2018-2019
 Shkodran Mustafi,Germany,Arsenal FC,2,2018-2019
 Wilfred Ndidi,Nigeria,Leicester City,2,2018-2019
 Alex Pritchard,England,Huddersfield Town,2,2018-2019
+Ricardo Pereira,Portugal,Leicester City,2,2018-2019
 Declan Rice,England,West Ham United,2,2018-2019
+Matt Ritchie,Scotland,Newcastle United,2,2018-2019
 Romain Saïss,Morocco,Wolverhampton Wanderers,2,2018-2019
+Ryan Sessegnon,England,Fulham FC,2,2018-2019
+Robert Snodgrass,Scotland,West Ham United,2,2018-2019
+Junior Stanislas,England,AFC Bournemouth,2,2018-2019
+Daniel Sturridge,England,Liverpool FC,2,2018-2019
+Lucas Torreira,Uruguay,Arsenal FC,2,2018-2019
+Yan Valery,Tunisia,Southampton FC,2,2018-2019
+Ashley Westwood,England,Burnley FC,2,2018-2019
 Andrey Yarmolenko,Ukraine,West Ham United,2,2018-2019
-Adama Traoré,Spain,Wolverhampton Wanderers,2,2018-2019
-André Gomes,Portugal,Everton FC,2,2018-2019
-Andreas Pereira,Brazil,Manchester United,2,2018-2019
-Christian Benteke,Belgium,Crystal Palace,2,2018-2019
-Tom Cairney,England,Fulham FC,2,2018-2019
-Steve Cook,England,AFC Bournemouth,2,2018-2019
-Fred,Brazil,Manchester United,2,2018-2019
-Aron Gunnarsson,Iceland,Cardiff City,2,2018-2019
-Jordon Ibe,England,AFC Bournemouth,2,2018-2019
-Jonny,Spain,Wolverhampton Wanderers,2,2018-2019
-Beram Kayal,Israel,Brighton & Hove Albion,2,2018-2019
-Kenedy,Brazil,Newcastle United,2,2018-2019
-Kiko Femenía,Spain,Watford FC,2,2018-2019
-Terence Kongolo,Netherlands,Huddersfield Town,2,2018-2019
-Manuel Lanzini,Argentina,West Ham United,2,2018-2019
-Mario Lemina,Gabon,Southampton FC,2,2018-2019
-Aaron Lennon,England,Burnley FC,2,2018-2019
-Victor Lindelöf,Sweden,Manchester United,2,2018-2019
-Ainsley Maitland-Niles,England,Arsenal FC,2,2018-2019
-Isaac Mbenza,Belgium,Huddersfield Town,2,2018-2019
-Michael Obafemi,Ireland,Southampton FC,2,2018-2019
-Angelo Ogbonna,Italy,West Ham United,2,2018-2019
-Davy Pröpper,Netherlands,Brighton & Hove Albion,2,2018-2019
-Davinson Sánchez,Colombia,Tottenham Hotspur,2,2018-2019
-Jonjo Shelvey,England,Newcastle United,2,2018-2019
-Adam Smith,England,AFC Bournemouth,2,2018-2019
-Dale Stephens,England,Brighton & Hove Albion,2,2018-2019
-Isaac Success,Nigeria,Watford FC,2,2018-2019
-James Tomkins,England,Crystal Palace,2,2018-2019
-Matěj Vydra,Czech Republic,Burnley FC,2,2018-2019
-Kyle Walker,England,Manchester City,2,2018-2019
-Danny Welbeck,England,Arsenal FC,2,2018-2019
-Kenneth Zohoré,Denmark,Cardiff City,2,2018-2019
-Sèrge Aurier,Ivory Coast,Tottenham Hotspur,2,2018-2019
-Diogo Dalot,Portugal,Manchester United,2,2018-2019
-Simon Francis,England,AFC Bournemouth,2,2018-2019
-Idrissa Gueye,Senegal,Everton FC,2,2018-2019
-Daryl Janmaat,Netherlands,Watford FC,2,2018-2019
-Cheikhou Kouyaté,Senegal,Crystal Palace,2,2018-2019
-Mateo Kovačić,Croatia,Chelsea FC,2,2018-2019
-Ademola Lookman,Nigeria,Everton FC,2,2018-2019
-Chris Löwe,Germany,Huddersfield Town,2,2018-2019
-Ben Mee,England,Burnley FC,2,2018-2019
-Samir Nasri,France,West Ham United,2,2018-2019
+Ashley Young,England,Manchester United,2,2018-2019
+Kurt Zouma,France,Everton FC,2,2018-2019
+Adama Traoré,Spain,Wolverhampton Wanderers,1,2018-2019
+Trent Alexander-Arnold,England,Liverpool FC,1,2018-2019
+André Gomes,Portugal,Everton FC,1,2018-2019
+Andreas Pereira,Brazil,Manchester United,1,2018-2019
 Christian Atsu,Ghana,Newcastle United,1,2018-2019
+Jordan Ayew,Ghana,Crystal Palace,1,2018-2019
 Floyd Ayité,Togo,Fulham FC,1,2018-2019
+Azpilicueta,Spain,Chelsea FC,1,2018-2019
 Juninho Bacuna,Curaçao,Huddersfield Town,1,2018-2019
 Fabián Balbuena,Paraguay,West Ham United,1,2018-2019
 Leon Balogun,Nigeria,Brighton & Hove Albion,1,2018-2019
+Harvey Barnes,England,Leicester City,1,2018-2019
 Ryan Bennett,England,Wolverhampton Wanderers,1,2018-2019
+Christian Benteke,Belgium,Crystal Palace,1,2018-2019
+Bernard,Brazil,Everton FC,1,2018-2019
 Ryan Bertrand,England,Southampton FC,1,2018-2019
+Tom Cairney,England,Fulham FC,1,2018-2019
+Étienne Capoue,France,Watford FC,1,2018-2019
+Cédric,Portugal,Southampton FC,1,2018-2019
 Tom Cleverley,England,Watford FC,1,2018-2019
+Steve Cook,England,AFC Bournemouth,1,2018-2019
+Jack Cork,England,Burnley FC,1,2018-2019
 Charlie Daniels,England,AFC Bournemouth,1,2018-2019
 Danilo,Brazil,Manchester City,1,2018-2019
 Issa Diop,France,West Ham United,1,2018-2019
 Domingos Quina,Portugal,Watford FC,1,2018-2019
 Jonny Evans,Northern Ireland,Leicester City,1,2018-2019
+Fabinho,Brazil,Liverpool FC,1,2018-2019
+Fernandinho,Brazil,Manchester City,1,2018-2019
 Phil Foden,England,Manchester City,1,2018-2019
 Juan Foyth,Argentina,Tottenham Hotspur,1,2018-2019
+Fred,Brazil,Manchester United,1,2018-2019
 Ryan Fredericks,England,West Ham United,1,2018-2019
 Manolo Gabbiadini,Italy,Southampton FC,1,2018-2019
 Rachid Ghezzal,Algeria,Leicester City,1,2018-2019
 Ben Gibson,England,Burnley FC,1,2018-2019
 Jon Gorenc Stanković,Slovenia,Huddersfield Town,1,2018-2019
+Aron Gunnarsson,Iceland,Cardiff City,1,2018-2019
 Kadeem Harris,England,Cardiff City,1,2018-2019
+Isaac Hayden,England,Newcastle United,1,2018-2019
+Hélder Costa,Angola,Wolverhampton Wanderers,1,2018-2019
+Jordan Henderson,England,Liverpool FC,1,2018-2019
+Jordon Ibe,England,AFC Bournemouth,1,2018-2019
+Kelechi Iheanacho,Nigeria,Leicester City,1,2018-2019
 Phil Jagielka,England,Everton FC,1,2018-2019
+João Moutinho,Portugal,Wolverhampton Wanderers,1,2018-2019
+Jonny,Spain,Wolverhampton Wanderers,1,2018-2019
+Beram Kayal,Israel,Brighton & Hove Albion,1,2018-2019
+Michael Keane,England,Everton FC,1,2018-2019
+Kenedy,Brazil,Newcastle United,1,2018-2019
+Kiko Femenía,Spain,Watford FC,1,2018-2019
 Vincent Kompany,Belgium,Manchester City,1,2018-2019
+Terence Kongolo,Netherlands,Huddersfield Town,1,2018-2019
+Manuel Lanzini,Argentina,West Ham United,1,2018-2019
+Mario Lemina,Gabon,Southampton FC,1,2018-2019
+Aaron Lennon,England,Burnley FC,1,2018-2019
+Victor Lindelöf,Sweden,Manchester United,1,2018-2019
+Llorente,Spain,Tottenham Hotspur,1,2018-2019
 Sean Longstaff,England,Newcastle United,1,2018-2019
 Dejan Lovren,Croatia,Liverpool FC,1,2018-2019
+Ainsley Maitland-Niles,England,Arsenal FC,1,2018-2019
+Solly March,England,Brighton & Hove Albion,1,2018-2019
 Nemanja Matić,Serbia,Manchester United,1,2018-2019
 Joel Matip,Cameroon,Liverpool FC,1,2018-2019
+Isaac Mbenza,Belgium,Huddersfield Town,1,2018-2019
+Max Meyer,Germany,Crystal Palace,1,2018-2019
 Yerry Mina,Colombia,Everton FC,1,2018-2019
+Sean Morrison,England,Cardiff City,1,2018-2019
 Lys Mousset,France,AFC Bournemouth,1,2018-2019
 Yoshinori Mutō,Japan,Newcastle United,1,2018-2019
+Nacho Monreal,Spain,Arsenal FC,1,2018-2019
 Eddie Nketiah,England,Arsenal FC,1,2018-2019
+Michael Obafemi,Ireland,Southampton FC,1,2018-2019
+Angelo Ogbonna,Italy,West Ham United,1,2018-2019
 Oriol Romeu,Spain,Southampton FC,1,2018-2019
+Sokratis Papastathopoulos,Greece,Arsenal FC,1,2018-2019
+Davy Pröpper,Netherlands,Brighton & Hove Albion,1,2018-2019
 Antonio Rüdiger,Germany,Chelsea FC,1,2018-2019
+Alexis Sánchez,Chile,Manchester United,1,2018-2019
+Davinson Sánchez,Colombia,Tottenham Hotspur,1,2018-2019
 Christopher Schindler,Germany,Huddersfield Town,1,2018-2019
+Ken Sema,Sweden,Watford FC,1,2018-2019
+Jean Seri,Ivory Coast,Fulham FC,1,2018-2019
+Luke Shaw,England,Manchester United,1,2018-2019
+Jonjo Shelvey,England,Newcastle United,1,2018-2019
 Chris Smalling,England,Manchester United,1,2018-2019
+Adam Smith,England,AFC Bournemouth,1,2018-2019
+Dale Stephens,England,Brighton & Hove Albion,1,2018-2019
 Jack Stephens,England,Southampton FC,1,2018-2019
+Isaac Success,Nigeria,Watford FC,1,2018-2019
+Matt Targett,England,Southampton FC,1,2018-2019
+James Tomkins,England,Crystal Palace,1,2018-2019
+Kieran Trippier,England,Tottenham Hotspur,1,2018-2019
 Jan Vertonghen,Belgium,Tottenham Hotspur,1,2018-2019
+Luciano Vietto,Argentina,Fulham FC,1,2018-2019
+Matěj Vydra,Czech Republic,Burnley FC,1,2018-2019
+Kyle Walker,England,Manchester City,1,2018-2019
 Victor Wanyama,Kenya,Tottenham Hotspur,1,2018-2019
 Danny Ward,England,Cardiff City,1,2018-2019
 Joel Ward,England,Crystal Palace,1,2018-2019
+Danny Welbeck,England,Arsenal FC,1,2018-2019
 Harry Winks,England,Tottenham Hotspur,1,2018-2019
-Harry Arter,Ireland,Cardiff City,1,2018-2019
-Jan Bednarek,Poland,Southampton FC,1,2018-2019
-Joe Bennett,England,Cardiff City,1,2018-2019
-Bernardo,Brazil,Brighton & Hove Albion,1,2018-2019
-Robbie Brady,Ireland,Burnley FC,1,2018-2019
-Bruno Saltor,Spain,Brighton & Hove Albion,1,2018-2019
-Joe Bryan,England,Fulham FC,1,2018-2019
-Cyrus Christie,Ireland,Fulham FC,1,2018-2019
-Nathaniel Clyne,England,AFC Bournemouth,1,2018-2019
-Aaron Cresswell,England,West Ham United,1,2018-2019
-Scott Dann,England,Crystal Palace,1,2018-2019
-Steven Davis,Northern Ireland,Southampton FC,1,2018-2019
-Fabian Delph,England,Manchester City,1,2018-2019
-Laurent Depoitre,Belgium,Huddersfield Town,1,2018-2019
-Grady Diangana,Congo DR,West Ham United,1,2018-2019
-Erik Durm,Germany,Huddersfield Town,1,2018-2019
-Bruno Écuélé Manga,Gabon,Cardiff City,1,2018-2019
-Ederson,Brazil,Manchester City,1,2018-2019
-Marouane Fellaini,Belgium,Manchester United,1,2018-2019
-Federico Fernández,Argentina,Newcastle United,1,2018-2019
-Morgan Gibbs-White,England,Wolverhampton Wanderers,1,2018-2019
-Jonathan Hogg,England,Huddersfield Town,1,2018-2019
-Callum Hudson-Odoi,England,Chelsea FC,1,2018-2019
-José Izquierdo,Colombia,Brighton & Hove Albion,1,2018-2019
-Phil Jones,England,Manchester United,1,2018-2019
-Jonjoe Kenny,England,Everton FC,1,2018-2019
-Sung-yueng Ki,South Korea,Newcastle United,1,2018-2019
-Jamaal Lascelles,England,Newcastle United,1,2018-2019
-Maxime Le Marchand,France,Fulham FC,1,2018-2019
-Léo Bonatini,Brazil,Wolverhampton Wanderers,1,2018-2019
-Kevin Long,Ireland,Burnley FC,1,2018-2019
-Jonas Lössl,Denmark,Huddersfield Town,1,2018-2019
-Martín Montoya,Spain,Brighton & Hove Albion,1,2018-2019
-Adam Masina,Morocco,Watford FC,1,2018-2019
-Arthur Masuaku,Congo DR,West Ham United,1,2018-2019
-Chris Mepham,Wales,AFC Bournemouth,1,2018-2019
-Jacob Murphy,England,Newcastle United,1,2018-2019
-Georges-Kévin N'Koudou,Cameroon,Tottenham Hotspur,1,2018-2019
-Håvard Nordtveit,Norway,Fulham FC,1,2018-2019
-Denis Odoi,Belgium,Fulham FC,1,2018-2019
-Shinji Okazaki,Japan,Leicester City,1,2018-2019
-Pedro Obiang,Equatorial Guinea,West Ham United,1,2018-2019
-Morgan Schneiderlin,France,Everton FC,1,2018-2019
-Josh Sims,England,Southampton FC,1,2018-2019
-Dominic Solanke,England,AFC Bournemouth,1,2018-2019
-Charlie Taylor,England,Burnley FC,1,2018-2019
-Connor Wickham,England,Crystal Palace,1,2018-2019
-Jack Wilshere,England,West Ham United,1,2018-2019
-Maya Yoshida,Japan,Southampton FC,1,2018-2019
-Pablo Zabaleta,Argentina,West Ham United,1,2018-2019
+DeAndre Yedlin,USA,Newcastle United,1,2018-2019
+Kenneth Zohoré,Denmark,Cardiff City,1,2018-2019

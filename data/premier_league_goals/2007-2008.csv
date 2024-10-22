@@ -1,335 +1,260 @@
 Player,Country,Team,Goals,Season
-Cristiano Ronaldo,Portugal,Manchester United,38,2007-2008
-Emmanuel Adebayor,Togo,Arsenal FC,28,2007-2008
-Fernando Torres,Spain,Liverpool FC,28,2007-2008
-Cesc Fàbregas,Spain,Arsenal FC,26,2007-2008
-Dimitar Berbatov,Bulgaria,Tottenham Hotspur,25,2007-2008
-Roque Santa Cruz,Paraguay,Blackburn Rovers,24,2007-2008
-Wayne Rooney,England,Manchester United,23,2007-2008
-Robbie Keane,Ireland,Tottenham Hotspur,22,2007-2008
-Ashley Young,England,Aston Villa,22,2007-2008
-Carlos Tévez,Argentina,Manchester United,20,2007-2008
-Steven Gerrard,England,Liverpool FC,20,2007-2008
-Gareth Barry,England,Aston Villa,19,2007-2008
-Yakubu Ayegbeni,Nigeria,Everton FC,18,2007-2008
-Gabriel Agbonlahor,England,Aston Villa,18,2007-2008
-Nicolas Anelka,France,Bolton Wanderers,18,2007-2008
-Frank Lampard,England,Chelsea FC,18,2007-2008
-Benjani,Zimbabwe,Portsmouth FC,16,2007-2008
-Elano,Brazil,Manchester City,16,2007-2008
-Kenwyne Jones,Trinidad & Tobago,Sunderland AFC,16,2007-2008
-David Bentley,England,Blackburn Rovers,16,2007-2008
-John Carew,Norway,Aston Villa,15,2007-2008
-Salomon Kalou,Ivory Coast,Chelsea FC,15,2007-2008
-Jermain Defoe,England,Portsmouth FC,14,2007-2008
-Stewart Downing,England,Middlesbrough FC,14,2007-2008
-Didier Drogba,Ivory Coast,Chelsea FC,14,2007-2008
-Joe Cole,England,Chelsea FC,13,2007-2008
-Simon Davies,Wales,Fulham FC,13,2007-2008
-Martin Petrov,Bulgaria,Manchester City,13,2007-2008
-Obafemi Martins,Nigeria,Newcastle United,12,2007-2008
-Nicky Shorey,England,Reading FC,12,2007-2008
+Cristiano Ronaldo,Portugal,Manchester United,31,2007-2008
+Emmanuel Adebayor,Togo,Arsenal FC,24,2007-2008
+Fernando Torres,Spain,Liverpool FC,24,2007-2008
+Roque Santa Cruz,Paraguay,Blackburn Rovers,19,2007-2008
+Yakubu Ayegbeni,Nigeria,Middlesbrough FC,15,2007-2008
+Benjani,Zimbabwe,Portsmouth FC,15,2007-2008
+Dimitar Berbatov,Bulgaria,Tottenham Hotspur,15,2007-2008
+Robbie Keane,Ireland,Tottenham Hotspur,15,2007-2008
+Carlos Tévez,Argentina,Manchester United,14,2007-2008
+John Carew,Norway,Aston Villa,13,2007-2008
+Jermain Defoe,England,Tottenham Hotspur,12,2007-2008
+Wayne Rooney,England,Manchester United,12,2007-2008
+Gabriel Agbonlahor,England,Aston Villa,11,2007-2008
+Nicolas Anelka,France,Chelsea FC,11,2007-2008
+Steven Gerrard,England,Liverpool FC,11,2007-2008
 Michael Owen,England,Newcastle United,11,2007-2008
-Dean Ashton,England,West Ham United,11,2007-2008
-Dave Kitson,England,Reading FC,11,2007-2008
-Mikael Forssell,Finland,Birmingham City,11,2007-2008
-Tuncay Şanlı,Turkey,Middlesbrough FC,11,2007-2008
-James McFadden,Scotland,Birmingham City,11,2007-2008
-Jérémie Aliadiére,France,Middlesbrough FC,11,2007-2008
-Carlton Cole,England,West Ham United,11,2007-2008
-El-Hadji Diouf,Senegal,Bolton Wanderers,11,2007-2008
-Tim Cahill,Australia,Everton FC,10,2007-2008
-Darren Bent,England,Tottenham Hotspur,10,2007-2008
-Kevin Doyle,Ireland,Reading FC,10,2007-2008
-Andy Johnson,England,Everton FC,10,2007-2008
-Stephen Hunt,Ireland,Reading FC,10,2007-2008
-John Utaka,Nigeria,Portsmouth FC,10,2007-2008
-Tom Huddlestone,England,Tottenham Hotspur,10,2007-2008
-Dirk Kuyt,Netherlands,Liverpool FC,10,2007-2008
-Nani,Portugal,Manchester United,10,2007-2008
-Jason Roberts,Grenada,Blackburn Rovers,10,2007-2008
-Joleon Lescott,England,Everton FC,9,2007-2008
-Benni McCarthy,South Africa,Blackburn Rovers,9,2007-2008
-Marcus Bent,England,Wigan Athletic,9,2007-2008
-Robin van Persie,Netherlands,Arsenal FC,9,2007-2008
-Michael Essien,Ghana,Chelsea FC,9,2007-2008
-Sebastian Larsson,Sweden,Birmingham City,9,2007-2008
-Darius Vassell,England,Manchester City,9,2007-2008
-Jermaine Jenas,England,Tottenham Hotspur,9,2007-2008
-Steed Malbranque,France,Tottenham Hotspur,9,2007-2008
-Cameron Jerome,Grenada,Birmingham City,8,2007-2008
-Mark Viduka,Australia,Newcastle United,8,2007-2008
-Nicklas Bendtner,Denmark,Arsenal FC,8,2007-2008
-Kevin Nolan,England,Bolton Wanderers,8,2007-2008
-Kevin Davies,England,Bolton Wanderers,8,2007-2008
-Eduardo,Croatia,Arsenal FC,8,2007-2008
-Sulley Ali Muntari,Ghana,Portsmouth FC,8,2007-2008
-Morten Pedersen,Norway,Blackburn Rovers,8,2007-2008
-Ryan Giggs,Wales,Manchester United,8,2007-2008
-Aliaksandr Hleb,Belarus,Arsenal FC,8,2007-2008
-Geremi Njitap,Cameroon,Newcastle United,8,2007-2008
-Steven Pienaar,South Africa,Everton FC,8,2007-2008
-Mikel Arteta,Spain,Everton FC,8,2007-2008
+Dean Ashton,England,West Ham United,10,2007-2008
+Dave Kitson,England,Reading FC,10,2007-2008
+Frank Lampard,England,Chelsea FC,10,2007-2008
+Gareth Barry,England,Aston Villa,9,2007-2008
+Stewart Downing,England,Middlesbrough FC,9,2007-2008
+Mikael Forssell,Finland,Birmingham City,9,2007-2008
+Obafemi Martins,Nigeria,Newcastle United,9,2007-2008
+Didier Drogba,Ivory Coast,Chelsea FC,8,2007-2008
+Elano,Brazil,Manchester City,8,2007-2008
+Joleon Lescott,England,Everton FC,8,2007-2008
+Benni McCarthy,South Africa,Blackburn Rovers,8,2007-2008
+Tuncay Şanlı,Turkey,Middlesbrough FC,8,2007-2008
+Ashley Young,England,Aston Villa,8,2007-2008
 Michael Ballack,Germany,Chelsea FC,7,2007-2008
-Afonso Alves,Brazil,Middlesbrough FC,7,2007-2008
-Michael Chopra,England,Sunderland AFC,7,2007-2008
-Clint Dempsey,USA,Fulham FC,7,2007-2008
-James Harper,England,Reading FC,7,2007-2008
-Martin Laursen,Denmark,Aston Villa,7,2007-2008
-Diomansy Kamara,Senegal,Fulham FC,7,2007-2008
-Danny Murphy,England,Fulham FC,7,2007-2008
-Andriy Voronin,Ukraine,Liverpool FC,7,2007-2008
-Stephen Ireland,Ireland,Manchester City,7,2007-2008
-Nwankwo Kanu,Nigeria,Portsmouth FC,7,2007-2008
-Niko Kranjčar,Croatia,Portsmouth FC,7,2007-2008
-Kenny Miller,Scotland,Derby County,7,2007-2008
-Gary McSheffrey,England,Birmingham City,7,2007-2008
-Mark Noble,England,West Ham United,7,2007-2008
-Antonio Valencia,Ecuador,Wigan Athletic,7,2007-2008
-Julio Arca,Argentina,Middlesbrough FC,7,2007-2008
-Pascal Chimbonda,France,Tottenham Hotspur,7,2007-2008
+Marcus Bent,England,Wigan Athletic,7,2007-2008
+Tim Cahill,Australia,Everton FC,7,2007-2008
+Cesc Fàbregas,Spain,Arsenal FC,7,2007-2008
+Joe Cole,England,Chelsea FC,7,2007-2008
+Cameron Jerome,Grenada,Birmingham City,7,2007-2008
+Kenwyne Jones,Trinidad & Tobago,Sunderland AFC,7,2007-2008
+Salomon Kalou,Ivory Coast,Chelsea FC,7,2007-2008
+Robin van Persie,Netherlands,Arsenal FC,7,2007-2008
+Mark Viduka,Australia,Newcastle United,7,2007-2008
+Afonso Alves,Brazil,Middlesbrough FC,6,2007-2008
+Darren Bent,England,Tottenham Hotspur,6,2007-2008
+David Bentley,England,Blackburn Rovers,6,2007-2008
+Michael Chopra,England,Sunderland AFC,6,2007-2008
+Clint Dempsey,USA,Fulham FC,6,2007-2008
+Kevin Doyle,Ireland,Reading FC,6,2007-2008
+Michael Essien,Ghana,Chelsea FC,6,2007-2008
+James Harper,England,Reading FC,6,2007-2008
+Andy Johnson,England,Everton FC,6,2007-2008
+Sebastian Larsson,Sweden,Birmingham City,6,2007-2008
+Martin Laursen,Denmark,Aston Villa,6,2007-2008
+James McFadden,Scotland,Everton FC,6,2007-2008
 Tomáš Rosický,Czech Republic,Arsenal FC,6,2007-2008
-Peter Crouch,England,Liverpool FC,6,2007-2008
-Andriy Shevchenko,Ukraine,Chelsea FC,6,2007-2008
-Ryan Babel,Netherlands,Liverpool FC,6,2007-2008
-Yossi Benayoun,Israel,Liverpool FC,6,2007-2008
-Lee Bowyer,England,West Ham United,6,2007-2008
-Emile Heskey,England,Wigan Athletic,6,2007-2008
-Theo Walcott,England,Arsenal FC,6,2007-2008
-Shane Long,Ireland,Reading FC,6,2007-2008
-Daryl Murphy,Ireland,Sunderland AFC,6,2007-2008
-Charles N'Zogbia,France,Newcastle United,6,2007-2008
-Matthew Taylor,England,Portsmouth FC,6,2007-2008
-Ryan Taylor,England,Wigan Athletic,6,2007-2008
-Grant Leadbitter,England,Sunderland AFC,6,2007-2008
-Aaron Lennon,England,Tottenham Hotspur,6,2007-2008
-Gaël Clichy,France,Arsenal FC,6,2007-2008
+Darius Vassell,England,Manchester City,6,2007-2008
+Jérémie Aliadiére,France,Middlesbrough FC,5,2007-2008
+Nicklas Bendtner,Denmark,Arsenal FC,5,2007-2008
+Peter Crouch,England,Liverpool FC,5,2007-2008
+Simon Davies,Wales,Fulham FC,5,2007-2008
 Marlon Harewood,England,Aston Villa,5,2007-2008
+Stephen Hunt,Ireland,Reading FC,5,2007-2008
+Diomansy Kamara,Senegal,Fulham FC,5,2007-2008
 Olivier Kapo,France,Birmingham City,5,2007-2008
+Danny Murphy,England,Fulham FC,5,2007-2008
+Kevin Nolan,England,Bolton Wanderers,5,2007-2008
+Martin Petrov,Bulgaria,Manchester City,5,2007-2008
 Louis Saha,France,Manchester United,5,2007-2008
-Rolando Bianchi,Italy,Manchester City,5,2007-2008
-Shaun Maloney,Scotland,Aston Villa,5,2007-2008
-Leon Osman,England,Everton FC,5,2007-2008
-Paul Scharner,Austria,Wigan Athletic,5,2007-2008
-Nolberto Solano,Peru,West Ham United,5,2007-2008
-Mauro Zárate,Argentina,Birmingham City,5,2007-2008
-Kieran Richardson,England,Sunderland AFC,5,2007-2008
-Jimmy Bullard,England,Fulham FC,5,2007-2008
-Michael Johnson,England,Manchester City,5,2007-2008
-Freddie Ljungberg,Sweden,West Ham United,5,2007-2008
-Shaun Wright-Phillips,England,Chelsea FC,5,2007-2008
-Emre Belözoğlu,Turkey,Newcastle United,5,2007-2008
-David Dunn,England,Blackburn Rovers,5,2007-2008
-Fábio Rochemback,Brazil,Middlesbrough FC,5,2007-2008
-Jason Koumas,Wales,Wigan Athletic,5,2007-2008
-George McCartney,Northern Ireland,West Ham United,5,2007-2008
-Liam Ridgewell,England,Birmingham City,5,2007-2008
-Bacary Sagna,France,Arsenal FC,5,2007-2008
+Andriy Shevchenko,Ukraine,Chelsea FC,5,2007-2008
+John Utaka,Nigeria,Portsmouth FC,5,2007-2008
+Andriy Voronin,Ukraine,Liverpool FC,5,2007-2008
+Ryan Babel,Netherlands,Liverpool FC,4,2007-2008
+Yossi Benayoun,Israel,Liverpool FC,4,2007-2008
+Rolando Bianchi,Italy,Manchester City,4,2007-2008
+Lee Bowyer,England,West Ham United,4,2007-2008
+Carlton Cole,England,West Ham United,4,2007-2008
+Kevin Davies,England,Bolton Wanderers,4,2007-2008
+El-Hadji Diouf,Senegal,Bolton Wanderers,4,2007-2008
+Eduardo,Croatia,Arsenal FC,4,2007-2008
 William Gallas,France,Arsenal FC,4,2007-2008
 David Healy,Northern Ireland,Fulham FC,4,2007-2008
+Emile Heskey,England,Wigan Athletic,4,2007-2008
+Stephen Ireland,Ireland,Manchester City,4,2007-2008
+Jermaine Jenas,England,Tottenham Hotspur,4,2007-2008
+Nwankwo Kanu,Nigeria,Portsmouth FC,4,2007-2008
+Niko Kranjčar,Croatia,Portsmouth FC,4,2007-2008
+Steed Malbranque,France,Tottenham Hotspur,4,2007-2008
+Shaun Maloney,Scotland,Aston Villa,4,2007-2008
 Brian McBride,USA,Fulham FC,4,2007-2008
+Kenny Miller,Scotland,Derby County,4,2007-2008
+Sulley Ali Muntari,Ghana,Portsmouth FC,4,2007-2008
+Leon Osman,England,Everton FC,4,2007-2008
+Morten Pedersen,Norway,Blackburn Rovers,4,2007-2008
+Paul Scharner,Austria,Wigan Athletic,4,2007-2008
 Antoine Sibierski,France,Wigan Athletic,4,2007-2008
-Nicky Butt,England,Newcastle United,4,2007-2008
-Matt Derbyshire,England,Blackburn Rovers,4,2007-2008
-Matthew Etherington,England,West Ham United,4,2007-2008
-Mathieu Flamini,France,Arsenal FC,4,2007-2008
-Géovanni,Brazil,Manchester City,4,2007-2008
-Hermann Hreiðarsson,Iceland,Portsmouth FC,4,2007-2008
-Younès Kaboul,France,Tottenham Hotspur,4,2007-2008
-Michael Carrick,England,Manchester United,4,2007-2008
-Florent Malouda,French Guyana,Chelsea FC,4,2007-2008
-James Milner,England,Newcastle United,4,2007-2008
-Fabrice Muamba,England,Birmingham City,4,2007-2008
-Phil Neville,England,Everton FC,4,2007-2008
-Jermaine Pennant,England,Liverpool FC,4,2007-2008
-Kolo Touré,Ivory Coast,Arsenal FC,4,2007-2008
-Ross Wallace,Scotland,Sunderland AFC,4,2007-2008
-Joey Barton,England,Newcastle United,4,2007-2008
-Lee Carsley,Ireland,Everton FC,4,2007-2008
-Steve Howard,Scotland,Derby County,4,2007-2008
-Phil Jagielka,England,Everton FC,4,2007-2008
-Glen Johnson,England,Portsmouth FC,4,2007-2008
-Paul Scholes,England,Manchester United,4,2007-2008
-Scott Carson,England,Aston Villa,4,2007-2008
-Mario Melchiot,Netherlands,Wigan Athletic,4,2007-2008
-Gary O'Neil,England,Portsmouth FC,4,2007-2008
+Nolberto Solano,Peru,West Ham United,4,2007-2008
+Theo Walcott,England,Arsenal FC,4,2007-2008
+Mauro Zárate,Argentina,Birmingham City,4,2007-2008
 André Bikey,Cameroon,Reading FC,3,2007-2008
+Nicky Butt,England,Newcastle United,3,2007-2008
+Matt Derbyshire,England,Blackburn Rovers,3,2007-2008
+Matthew Etherington,England,West Ham United,3,2007-2008
+Mathieu Flamini,France,Arsenal FC,3,2007-2008
 Craig Gardner,England,Aston Villa,3,2007-2008
+Géovanni,Brazil,Manchester City,3,2007-2008
+Ryan Giggs,Wales,Manchester United,3,2007-2008
 Danny Higginbotham,Gibraltar,Sunderland AFC,3,2007-2008
+Hermann Hreiðarsson,Iceland,Portsmouth FC,3,2007-2008
+Tom Huddlestone,England,Tottenham Hotspur,3,2007-2008
+Younès Kaboul,France,Tottenham Hotspur,3,2007-2008
+Dirk Kuyt,Netherlands,Liverpool FC,3,2007-2008
 Denny Landzaat,Netherlands,Wigan Athletic,3,2007-2008
+Shane Long,Ireland,Reading FC,3,2007-2008
+Gary McSheffrey,England,Birmingham City,3,2007-2008
+Daryl Murphy,Ireland,Sunderland AFC,3,2007-2008
+Charles N'Zogbia,France,Newcastle United,3,2007-2008
+Nani,Portugal,Manchester United,3,2007-2008
+Mark Noble,England,West Ham United,3,2007-2008
 Matt Oakley,England,Derby County,3,2007-2008
+Kieran Richardson,England,Sunderland AFC,3,2007-2008
+Jason Roberts,Grenada,Blackburn Rovers,3,2007-2008
+Nicky Shorey,England,Reading FC,3,2007-2008
+Matthew Taylor,England,Portsmouth FC,3,2007-2008
+Ryan Taylor,England,Wigan Athletic,3,2007-2008
+Antonio Valencia,Ecuador,Wigan Athletic,3,2007-2008
 Emanuel Villa,Argentina,Derby County,3,2007-2008
 David Wheater,England,Middlesbrough FC,3,2007-2008
-Alex,Brazil,Chelsea FC,3,2007-2008
-Gareth Bale,Wales,Tottenham Hotspur,3,2007-2008
-Craig Bellamy,Wales,West Ham United,3,2007-2008
-Belletti,Brazil,Chelsea FC,3,2007-2008
-Titus Bramble,England,Wigan Athletic,3,2007-2008
-Owen Hargreaves,England,Manchester United,3,2007-2008
-Ívar Ingimarsson,Iceland,Reading FC,3,2007-2008
-Olof Mellberg,Sweden,Aston Villa,3,2007-2008
-Émile Mpenza,Belgium,Manchester City,3,2007-2008
-Claudio Pizarro,Peru,Chelsea FC,3,2007-2008
-Aleksey Smertin,Russia,Fulham FC,3,2007-2008
-Xabi Alonso,Spain,Liverpool FC,3,2007-2008
-Habib Beye,Senegal,Newcastle United,3,2007-2008
-George Boateng,Netherlands,Middlesbrough FC,3,2007-2008
-Wes Brown,England,Manchester United,3,2007-2008
-Brett Emerton,Australia,Blackburn Rovers,3,2007-2008
-Gilberto Silva,Brazil,Arsenal FC,3,2007-2008
-Zat Knight,England,Aston Villa,3,2007-2008
-Liam Miller,Ireland,Sunderland AFC,3,2007-2008
-David Murphy,England,Birmingham City,3,2007-2008
-Andy Reid,Ireland,Sunderland AFC,3,2007-2008
-Stephen Warnock,England,Blackburn Rovers,3,2007-2008
-Dean Whitehead,England,Sunderland AFC,3,2007-2008
-Joseph Yobo,Nigeria,Everton FC,3,2007-2008
-Bobby Zamora,England,West Ham United,3,2007-2008
-Boa Morte,Portugal,West Ham United,3,2007-2008
-Vedran Ćorluka,Croatia,Manchester City,3,2007-2008
-Emmanuel Eboué,Ivory Coast,Arsenal FC,3,2007-2008
-Lucas Leiva,Brazil,Liverpool FC,3,2007-2008
-Manuel Fernandes,Portugal,Everton FC,3,2007-2008
-Pedro Mendes,Portugal,Portsmouth FC,3,2007-2008
+Alex,Brazil,Chelsea FC,2,2007-2008
+Julio Arca,Argentina,Middlesbrough FC,2,2007-2008
+Gareth Bale,Wales,Tottenham Hotspur,2,2007-2008
+Craig Bellamy,Wales,West Ham United,2,2007-2008
+Belletti,Brazil,Chelsea FC,2,2007-2008
+Titus Bramble,England,Wigan Athletic,2,2007-2008
+Jimmy Bullard,England,Fulham FC,2,2007-2008
+Michael Carrick,England,Manchester United,2,2007-2008
+Pascal Chimbonda,France,Tottenham Hotspur,2,2007-2008
 Anton Ferdinand,England,West Ham United,2,2007-2008
 Rio Ferdinand,England,Manchester United,2,2007-2008
 Gelson Fernandes,Switzerland,Manchester City,2,2007-2008
 Stylianos Giannakopoulos,Greece,Bolton Wanderers,2,2007-2008
+Owen Hargreaves,England,Manchester United,2,2007-2008
 Heiðar Helguson,Iceland,Bolton Wanderers,2,2007-2008
+Aliaksandr Hleb,Belarus,Arsenal FC,2,2007-2008
+Ívar Ingimarsson,Iceland,Reading FC,2,2007-2008
+Michael Johnson,England,Manchester City,2,2007-2008
 Tugay Kerimoğlu,Turkey,Blackburn Rovers,2,2007-2008
+Grant Leadbitter,England,Sunderland AFC,2,2007-2008
+Aaron Lennon,England,Tottenham Hotspur,2,2007-2008
+Freddie Ljungberg,Sweden,West Ham United,2,2007-2008
+Florent Malouda,French Guyana,Chelsea FC,2,2007-2008
 Jay McEveley,England,Derby County,2,2007-2008
+Olof Mellberg,Sweden,Aston Villa,2,2007-2008
 Mido,Egypt,Middlesbrough FC,2,2007-2008
+James Milner,England,Newcastle United,2,2007-2008
+Émile Mpenza,Belgium,Manchester City,2,2007-2008
+Fabrice Muamba,England,Birmingham City,2,2007-2008
+Phil Neville,England,Everton FC,2,2007-2008
 Erik Nevland,Norway,Fulham FC,2,2007-2008
+Geremi Njitap,Cameroon,Newcastle United,2,2007-2008
 Garry O'Connor,Scotland,Birmingham City,2,2007-2008
+Jermaine Pennant,England,Liverpool FC,2,2007-2008
+Steven Pienaar,South Africa,Everton FC,2,2007-2008
+Claudio Pizarro,Peru,Chelsea FC,2,2007-2008
 Christopher Samba,Congo,Blackburn Rovers,2,2007-2008
 Philippe Senderos,Switzerland,Arsenal FC,2,2007-2008
-Giles Barnes,Jamaica,Derby County,2,2007-2008
-Hameur Bouazza,Algeria,Fulham FC,2,2007-2008
-Wilfred Bouma,Netherlands,Aston Villa,2,2007-2008
-Kalifa Cissé,Mali,Reading FC,2,2007-2008
-Ashley Cole,England,Chelsea FC,2,2007-2008
-Danny Collins,Wales,Sunderland AFC,2,2007-2008
-Sean Davis,England,Portsmouth FC,2,2007-2008
-Michael Dawson,England,Tottenham Hotspur,2,2007-2008
-Abou Diaby,France,Arsenal FC,2,2007-2008
-Dickson Etuhu,Nigeria,Sunderland AFC,2,2007-2008
-Kelvin Etuhu,Nigeria,Manchester City,2,2007-2008
-Fábio Aurélio,Brazil,Liverpool FC,2,2007-2008
-Sami Hyypiä,Finland,Liverpool FC,2,2007-2008
-Iván Campo,Spain,Bolton Wanderers,2,2007-2008
-Kevin Kilbane,Ireland,Wigan Athletic,2,2007-2008
-Leroy Lita,England,Reading FC,2,2007-2008
-Javier Mascherano,Argentina,Liverpool FC,2,2007-2008
-Tyrone Mears,Jamaica,Derby County,2,2007-2008
-Nedum Onuoha,England,Manchester City,2,2007-2008
-Ji-Sung Park,South Korea,Manchester United,2,2007-2008
-Steven Taylor,England,Newcastle United,2,2007-2008
-John Terry,England,Chelsea FC,2,2007-2008
-Andy Todd,England,Derby County,2,2007-2008
-Matthew Upson,England,West Ham United,2,2007-2008
-Nemanja Vidić,Serbia,Manchester United,2,2007-2008
-Luke Young,England,Middlesbrough FC,2,2007-2008
-Arbeloa,Spain,Liverpool FC,2,2007-2008
-Milan Baroš,Czech Republic,Portsmouth FC,2,2007-2008
-Jamie Carragher,England,Liverpool FC,2,2007-2008
-Bobby Convey,USA,Reading FC,2,2007-2008
-Papa Bouba Diop,Senegal,Portsmouth FC,2,2007-2008
-Sylvain Distin,France,Portsmouth FC,2,2007-2008
-Steve Finnan,Ireland,Liverpool FC,2,2007-2008
-Dean Leacock,England,Derby County,2,2007-2008
-Mehdi Nafti,Tunisia,Birmingham City,2,2007-2008
-Lucas Neill,Australia,West Ham United,2,2007-2008
-John Oster,Wales,Reading FC,2,2007-2008
-Nigel Reo-Coker,England,Aston Villa,2,2007-2008
-John Arne Riise,Norway,Liverpool FC,2,2007-2008
-Ibrahima Sonko,Senegal,Reading FC,2,2007-2008
-Grétar Steinsson,Iceland,Bolton Wanderers,2,2007-2008
-Gary Teale,Scotland,Derby County,2,2007-2008
+Aleksey Smertin,Russia,Fulham FC,2,2007-2008
+Kolo Touré,Ivory Coast,Arsenal FC,2,2007-2008
+Ross Wallace,Scotland,Sunderland AFC,2,2007-2008
+Shaun Wright-Phillips,England,Chelsea FC,2,2007-2008
+Xabi Alonso,Spain,Liverpool FC,2,2007-2008
 Victor Anichebe,Nigeria,Everton FC,1,2007-2008
+Giles Barnes,Jamaica,Derby County,1,2007-2008
+Joey Barton,England,Newcastle United,1,2007-2008
+Emre Belözoğlu,Turkey,Newcastle United,1,2007-2008
+Habib Beye,Senegal,Newcastle United,1,2007-2008
+George Boateng,Netherlands,Middlesbrough FC,1,2007-2008
 Carlos Bocanegra,USA,Fulham FC,1,2007-2008
+Hameur Bouazza,Algeria,Fulham FC,1,2007-2008
+Wilfred Bouma,Netherlands,Aston Villa,1,2007-2008
 Daniel Braaten,Norway,Bolton Wanderers,1,2007-2008
+Wes Brown,England,Manchester United,1,2007-2008
 Caçapa,Brazil,Newcastle United,1,2007-2008
 Sol Campbell,England,Portsmouth FC,1,2007-2008
+Lee Carsley,Ireland,Everton FC,1,2007-2008
 Lee Cattermole,England,Middlesbrough FC,1,2007-2008
+Kalifa Cissé,Mali,Reading FC,1,2007-2008
 Tamir Cohen,Israel,Bolton Wanderers,1,2007-2008
+Ashley Cole,England,Chelsea FC,1,2007-2008
+Danny Collins,Wales,Sunderland AFC,1,2007-2008
 Curtis Davies,England,Aston Villa,1,2007-2008
+Sean Davis,England,Portsmouth FC,1,2007-2008
+Michael Dawson,England,Tottenham Hotspur,1,2007-2008
+Abou Diaby,France,Arsenal FC,1,2007-2008
 Lassana Diarra,France,Portsmouth FC,1,2007-2008
+David Dunn,England,Blackburn Rovers,1,2007-2008
 Robert Earnshaw,Wales,Derby County,1,2007-2008
-Abdoulaye Faye,Senegal,Bolton Wanderers,1,2007-2008
+Brett Emerton,Australia,Blackburn Rovers,1,2007-2008
+Dickson Etuhu,Nigeria,Sunderland AFC,1,2007-2008
+Kelvin Etuhu,Nigeria,Manchester City,1,2007-2008
+Fábio Aurélio,Brazil,Liverpool FC,1,2007-2008
+Fábio Rochemback,Brazil,Middlesbrough FC,1,2007-2008
+Abdoulaye Faye,Senegal,Newcastle United,1,2007-2008
 Anthony Gardner,England,Tottenham Hotspur,1,2007-2008
 Gilberto,Brazil,Tottenham Hotspur,1,2007-2008
+Gilberto Silva,Brazil,Arsenal FC,1,2007-2008
+Steve Howard,Scotland,Derby County,1,2007-2008
 Ben Hutchinson,England,Middlesbrough FC,1,2007-2008
 Robert Huth,Germany,Middlesbrough FC,1,2007-2008
+Sami Hyypiä,Finland,Liverpool FC,1,2007-2008
+Iván Campo,Spain,Bolton Wanderers,1,2007-2008
+Phil Jagielka,England,Everton FC,1,2007-2008
 Stern John,St. Lucia,Sunderland AFC,1,2007-2008
 Adam Johnson,England,Middlesbrough FC,1,2007-2008
+Glen Johnson,England,Portsmouth FC,1,2007-2008
 David Jones,England,Derby County,1,2007-2008
+Kevin Kilbane,Ireland,Wigan Athletic,1,2007-2008
 Marlon King,Jamaica,Wigan Athletic,1,2007-2008
+Zat Knight,England,Fulham FC,1,2007-2008
+Jason Koumas,Wales,Wigan Athletic,1,2007-2008
+Leroy Lita,England,Reading FC,1,2007-2008
+Javier Mascherano,Argentina,Liverpool FC,1,2007-2008
 Marek Matějovský,Czech Republic,Reading FC,1,2007-2008
 Gavin McCann,England,Bolton Wanderers,1,2007-2008
+George McCartney,Northern Ireland,West Ham United,1,2007-2008
+Tyrone Mears,Jamaica,Derby County,1,2007-2008
+Mikel Arteta,Spain,Everton FC,1,2007-2008
+Liam Miller,Ireland,Sunderland AFC,1,2007-2008
 Luke Moore,England,Aston Villa,1,2007-2008
+David Murphy,England,Birmingham City,1,2007-2008
 Lewin Nyatanga,Wales,Derby County,1,2007-2008
 Jamie O'Hara,England,Tottenham Hotspur,1,2007-2008
+Nedum Onuoha,England,Manchester City,1,2007-2008
 Noé Pamarot,France,Portsmouth FC,1,2007-2008
+Ji-Sung Park,South Korea,Manchester United,1,2007-2008
 Scott Parker,England,West Ham United,1,2007-2008
 Stilian Petrov,Bulgaria,Aston Villa,1,2007-2008
 Rade Prica,Sweden,Sunderland AFC,1,2007-2008
+Andy Reid,Ireland,Sunderland AFC,1,2007-2008
 Ricardo Carvalho,Portugal,Chelsea FC,1,2007-2008
+Liam Ridgewell,England,Birmingham City,1,2007-2008
 Chris Riggott,England,Middlesbrough FC,1,2007-2008
+Bacary Sagna,France,Arsenal FC,1,2007-2008
+Paul Scholes,England,Manchester United,1,2007-2008
 Freddie Sears,England,West Ham United,1,2007-2008
 Mohamed Sissoko,Mali,Liverpool FC,1,2007-2008
 Gary Speed,Wales,Bolton Wanderers,1,2007-2008
 Anthony Stokes,Ireland,Sunderland AFC,1,2007-2008
 Alan Stubbs,England,Everton FC,1,2007-2008
 Daniel Sturridge,England,Manchester City,1,2007-2008
+Steven Taylor,England,Newcastle United,1,2007-2008
+John Terry,England,Chelsea FC,1,2007-2008
+Andy Todd,England,Derby County,1,2007-2008
+Matthew Upson,England,West Ham United,1,2007-2008
 James Vaughan,England,Everton FC,1,2007-2008
+Nemanja Vidić,Serbia,Manchester United,1,2007-2008
+Stephen Warnock,England,Blackburn Rovers,1,2007-2008
+Dean Whitehead,England,Sunderland AFC,1,2007-2008
 Jonathan Woodgate,England,Tottenham Hotspur,1,2007-2008
+Joseph Yobo,Nigeria,Everton FC,1,2007-2008
 Dwight Yorke,Trinidad & Tobago,Sunderland AFC,1,2007-2008
-Julius Aghahowa,Nigeria,Wigan Athletic,1,2007-2008
-Anderson,Brazil,Manchester United,1,2007-2008
-Leighton Baines,England,Everton FC,1,2007-2008
-Patrik Berger,Czech Republic,Aston Villa,1,2007-2008
-Wayne Bridge,England,Chelsea FC,1,2007-2008
-Gary Cahill,England,Aston Villa,1,2007-2008
-Henri Camara,Senegal,West Ham United,1,2007-2008
-Andy Carroll,England,Newcastle United,1,2007-2008
-Roy Carroll,Northern Ireland,Derby County,1,2007-2008
-Radek Černý,Czech Republic,Tottenham Hotspur,1,2007-2008
-Steven Davis,Northern Ireland,Fulham FC,1,2007-2008
-Daniël de Ridder,Netherlands,Birmingham City,1,2007-2008
-Patrice Evra,France,Manchester United,1,2007-2008
-Ricardo Gardner,Jamaica,Bolton Wanderers,1,2007-2008
-Hossam Ghaly,Egypt,Derby County,1,2007-2008
-Thomas Gravesen,Denmark,Everton FC,1,2007-2008
-Tony Hibbert,England,Everton FC,1,2007-2008
-Tim Howard,USA,Everton FC,1,2007-2008
-Jussi Jääskeläinen,Finland,Bolton Wanderers,1,2007-2008
-Javi Garrido,Spain,Manchester City,1,2007-2008
-José Enrique,Spain,Newcastle United,1,2007-2008
-Stephen Kelly,Ireland,Birmingham City,1,2007-2008
-Harry Kewell,Australia,Liverpool FC,1,2007-2008
-Paul Konchesky,England,Fulham FC,1,2007-2008
-Shefki Kuqi,Finland,Fulham FC,1,2007-2008
-Eddie Lewis,USA,Derby County,1,2007-2008
-Claude Makélélé,France,Chelsea FC,1,2007-2008
-Aaron Mokoena,South Africa,Blackburn Rovers,1,2007-2008
-Graeme Murty,Scotland,Reading FC,1,2007-2008
-Nayron Nosworthy,Jamaica,Sunderland AFC,1,2007-2008
-Nuno Valente,Portugal,Everton FC,1,2007-2008
-Joey O'Brien,Ireland,Bolton Wanderers,1,2007-2008
-John O'Shea,Ireland,Manchester United,1,2007-2008
-Wilson Palacios,Honduras,Wigan Athletic,1,2007-2008
-Paulo Ferreira,Portugal,Chelsea FC,1,2007-2008
-Pepe Reina,Spain,Liverpool FC,1,2007-2008
-Piqué,Spain,Manchester United,1,2007-2008
-Franck Queudrue,France,Birmingham City,1,2007-2008
-Peter Ramage,England,Newcastle United,1,2007-2008
-Robbie Savage,Wales,Blackburn Rovers,1,2007-2008
-Rafael Schmitz,Brazil,Birmingham City,1,2007-2008
-Ki-hyeon Seol,South Korea,Reading FC,1,2007-2008
-Steven Sidwell,England,Chelsea FC,1,2007-2008
-Danny Simpson,England,Manchester United,1,2007-2008
-Alan Smith,England,Newcastle United,1,2007-2008
-Mile Sterjovski,Australia,Derby County,1,2007-2008
-Andrew Taylor,England,Middlesbrough FC,1,2007-2008
-Armand Traoré,Senegal,Arsenal FC,1,2007-2008
-Edwin van der Sar,Netherlands,Manchester United,1,2007-2008
+Luke Young,England,Middlesbrough FC,1,2007-2008
+Bobby Zamora,England,West Ham United,1,2007-2008
