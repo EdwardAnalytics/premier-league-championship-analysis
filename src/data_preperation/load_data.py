@@ -289,4 +289,4 @@ def combine_save_csvs(league_metric):
     directory_path = f"data/{league_metric}"
     csv_save_path = f"{directory_path}/combined_seasons/{league_metric}.csv"
     premier_league_goals = combine_csvs(directory_path)
-    premier_league_goals.to_csv(csv_save_path)
+    premier_league_goals.to_csv(csv_save_path, index=False)
