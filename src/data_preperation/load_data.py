@@ -67,7 +67,7 @@ def parse_table(html, headers):
     return df
 
 
-def clean_goals_column(df):
+def clean_goals_column(df,league):
     """
     Cleans the 'Goals' column in the given DataFrame by extracting the number of goals.
 
@@ -82,11 +82,14 @@ def clean_goals_column(df):
         The DataFrame with the cleaned 'Goals' column.
     """
     if "Goals" in df.columns:
-        df["Goals"] = df["Goals"].apply(lambda goal_str: goal_str.split(" ")[0])
+        if league == 'eng-championship':
+            df["Goals"] = df["Goals"].apply(lambda goal_str: goal_str.split(" ")[0])
+        else:
+            df['Goals'] = df['Goals'].str.extract(r'\((\d+)\+')
     return df
 
 
-def parse_goals_table(html):
+def parse_goals_table(html, league):
     """
     Parses the HTML content and extracts the goals table data.
 
@@ -104,7 +107,7 @@ def parse_goals_table(html):
     df = parse_table(html=html, headers=headers)
 
     # Clean the goals column
-    df = clean_goals_column(df)
+    df = clean_goals_column(df=df,league=league)
 
     return df
 
@@ -127,7 +130,7 @@ def parse_assists_table(html):
     return parse_table(html=html, headers=headers)
 
 
-def get_season_data(url, season, metric, sleep_time=0.5):
+def get_season_data(url, season, metric, league, sleep_time=0.5):
     """
     Gets data (goals or assists) for a specific season from the given URL.
 
@@ -152,7 +155,7 @@ def get_season_data(url, season, metric, sleep_time=0.5):
         return pd.DataFrame()
 
     if metric == "goals":
-        df = parse_goals_table(html=html)
+        df = parse_goals_table(html=html, league=league)
     elif metric == "assists":
         df = parse_assists_table(html=html)
 
@@ -190,7 +193,7 @@ def get_all_season_data(seasons, league, metric, sleep_time=0.5):
 
         # Fetch data for the current season
         season_data = get_season_data(
-            url=url, season=season, metric=metric, sleep_time=sleep_time
+            url=url, season=season, metric=metric, league=league, sleep_time=sleep_time
         )
 
         if not season_data.empty:
