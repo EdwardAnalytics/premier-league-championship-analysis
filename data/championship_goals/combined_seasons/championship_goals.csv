@@ -1,4 +1,339 @@
 Player,Country,Team,Goals,Season,season_start
+Andy Hunt,England,Charlton Athletic,24,1999-2000,1999
+Shaun Goater,Bermuda,Manchester City,23,1999-2000,1999
+David Johnson,Jamaica,Ipswich Town,22,1999-2000,1999
+Craig Hignett,England,Barnsley FC,19,1999-2000,1999
+Iwan Roberts,Wales,Norwich City,19,1999-2000,1999
+Ade Akinbiyi,England,Wolverhampton Wanderers,16,1999-2000,1999
+Wayne Allison,England,Tranmere Rovers,16,1999-2000,1999
+Marcus Bent,England,Sheffield United,16,1999-2000,1999
+Marcus Stewart,England,Ipswich Town,16,1999-2000,1999
+Clyde Wijnhard,Netherlands,Huddersfield Town,15,1999-2000,1999
+Steve Claridge,England,Portsmouth FC,14,1999-2000,1999
+Martin Smith,England,Sheffield United,14,1999-2000,1999
+Darren Barnard,Wales,Barnsley FC,13,1999-2000,1999
+Eiður Guðjohnsen,Iceland,Bolton Wanderers,13,1999-2000,1999
+Lee Hughes,England,West Bromwich Albion,13,1999-2000,1999
+Chris Kiwomya,England,Queens Park Rangers,13,1999-2000,1999
+James Scowcroft,England,Ipswich Town,13,1999-2000,1999
+Neil Shipperley,England,Barnsley FC,13,1999-2000,1999
+Lee Ashcroft,England,Grimsby Town,12,1999-2000,1999
+Lee Bradbury,England,Portsmouth FC,12,1999-2000,1999
+Tony Dinning,England,Stockport County,12,1999-2000,1999
+Clinton Morrison,Ireland,Crystal Palace,12,1999-2000,1999
+Paul Devlin,Scotland,Sheffield United,11,1999-2000,1999
+Paul Furlong,England,Birmingham City,11,1999-2000,1999
+Dean Holdsworth,England,Bolton Wanderers,11,1999-2000,1999
+Michael Ricketts,England,Walsall FC,11,1999-2000,1999
+Mathias Svensson,Sweden,Crystal Palace,11,1999-2000,1999
+Stewart Wardley,England,Queens Park Rangers,11,1999-2000,1999
+Lee Carsley,Ireland,Blackburn Rovers,10,1999-2000,1999
+Chris Hay,Scotland,Swindon Town,10,1999-2000,1999
+Matt Holland,Ireland,Ipswich Town,10,1999-2000,1999
+Kevin Horlock,Northern Ireland,Manchester City,10,1999-2000,1999
+Bryan Hughes,England,Birmingham City,10,1999-2000,1999
+Hayden Mullins,England,Crystal Palace,10,1999-2000,1999
+Ian Thomas-Moore,England,Stockport County,10,1999-2000,1999
+Chris Beech,England,Huddersfield Town,9,1999-2000,1999
+Dougie Freedman,Scotland,Nottingham Forest,9,1999-2000,1999
+Bo Hansen,Denmark,Bolton Wanderers,9,1999-2000,1999
+Clive Mendonca,England,Charlton Athletic,9,1999-2000,1999
+Alan Rogers,England,Nottingham Forest,9,1999-2000,1999
+Mike Sheron,England,Barnsley FC,9,1999-2000,1999
+Bradley Allen,England,Grimsby Town,8,1999-2000,1999
+Lee Clark,England,Fulham FC,8,1999-2000,1999
+Laurent D'Jaffo,Benin,Stockport County,8,1999-2000,1999
+Giuliano Grazioli,England,Swindon Town,8,1999-2000,1999
+Mark Kennedy,Ireland,Manchester City,8,1999-2000,1999
+Marcelo,Brazil,Sheffield United,8,1999-2000,1999
+Richard Naylor,England,Ipswich Town,8,1999-2000,1999
+Egil Østenstad,Norway,Blackburn Rovers,8,1999-2000,1999
+Gavin Peacock,England,Queens Park Rangers,8,1999-2000,1999
+John Robinson,Wales,Charlton Athletic,8,1999-2000,1999
+Anthony Rougier,Trinidad & Tobago,Port Vale FC,8,1999-2000,1999
+Bob Taylor,England,West Bromwich Albion,8,1999-2000,1999
+Ashley Ward,England,Blackburn Rovers,8,1999-2000,1999
+Geoff Horsfield,England,Fulham FC,7,1999-2000,1999
+Andy Parkinson,England,Tranmere Rovers,7,1999-2000,1999
+Mark Rivers,England,Crewe Alexandra,7,1999-2000,1999
+Graham Stuart,England,Charlton Athletic,7,1999-2000,1999
+Michael Branch,England,Wolverhampton Wanderers,6,1999-2000,1999
+Colin Cramb,Scotland,Crewe Alexandra,6,1999-2000,1999
+Bruce Dyer,England,Barnsley FC,6,1999-2000,1999
+Martin Foyle,England,Port Vale FC,6,1999-2000,1999
+Per Frandsen,Denmark,Bolton Wanderers,6,1999-2000,1999
+Claus Jensen,Denmark,Bolton Wanderers,6,1999-2000,1999
+David Kelly,Ireland,Tranmere Rovers,6,1999-2000,1999
+Jack Lester,England,Nottingham Forest,6,1999-2000,1999
+Matias,Spain,Walsall FC,6,1999-2000,1999
+Tony Naylor,England,Port Vale FC,6,1999-2000,1999
+Mark Robins,England,Walsall FC,6,1999-2000,1999
+Richard Rufus,England,Charlton Athletic,6,1999-2000,1999
+Neil Sorvel,England,Crewe Alexandra,6,1999-2000,1999
+Robert Steiner,Sweden,Queens Park Rangers,6,1999-2000,1999
+Paul Tait,England,Crewe Alexandra,6,1999-2000,1999
+Gareth Taylor,Wales,Queens Park Rangers,6,1999-2000,1999
+Dele Adebola,Nigeria,Birmingham City,5,1999-2000,1999
+Matthew Appleby,England,Barnsley FC,5,1999-2000,1999
+Chris Bart-Williams,England,Nottingham Forest,5,1999-2000,1999
+Mikkel Beck,Denmark,Queens Park Rangers,5,1999-2000,1999
+Paul Dickov,Scotland,Manchester City,5,1999-2000,1999
+Damien Duff,Ireland,Blackburn Rovers,5,1999-2000,1999
+Neil Emblen,England,Wolverhampton Wanderers,5,1999-2000,1999
+Ricardo Gardner,Jamaica,Bolton Wanderers,5,1999-2000,1999
+Martin Grainger,England,Birmingham City,5,1999-2000,1999
+Paul Hall,Jamaica,West Bromwich Albion,5,1999-2000,1999
+Barry Hayles,Jamaica,Fulham FC,5,1999-2000,1999
+Clint Hill,England,Tranmere Rovers,5,1999-2000,1999
+David Holdsworth,England,Birmingham City,5,1999-2000,1999
+Kevin Kilbane,Ireland,West Bromwich Albion,5,1999-2000,1999
+Lee Marshall,England,Norwich City,5,1999-2000,1999
+Alan McLoughlin,Ireland,Portsmouth FC,5,1999-2000,1999
+Ludovic Pollet,France,Wolverhampton Wanderers,5,1999-2000,1999
+Andy Rammell,England,Walsall FC,5,1999-2000,1999
+Karl-Heinz Riedle,Germany,Fulham FC,5,1999-2000,1999
+Steve Sedgley,England,Wolverhampton Wanderers,5,1999-2000,1999
+Robert Taylor,England,Manchester City,5,1999-2000,1999
+Thomas Thøgersen,Denmark,Portsmouth FC,5,1999-2000,1999
+Tommy Widdrington,England,Port Vale FC,5,1999-2000,1999
+Ian Wright,England,Nottingham Forest,5,1999-2000,1999
+Tony Barras,England,Walsall FC,4,1999-2000,1999
+Guðni Bergsson,Iceland,Bolton Wanderers,4,1999-2000,1999
+Kevin Cooper,England,Stockport County,4,1999-2000,1999
+Christian Dailly,Scotland,Blackburn Rovers,4,1999-2000,1999
+Håvard Flo,Norway,Wolverhampton Wanderers,4,1999-2000,1999
+Kevin Gallen,England,Queens Park Rangers,4,1999-2000,1999
+Dean Gorré,Netherlands,Huddersfield Town,4,1999-2000,1999
+Marlon Harewood,England,Nottingham Forest,4,1999-2000,1999
+Georgi Hristov,North Macedonia,Barnsley FC,4,1999-2000,1999
+Rodney Jack,St. Vincent/Grenadines,Crewe Alexandra,4,1999-2000,1999
+Matt Jansen,England,Blackburn Rovers,4,1999-2000,1999
+Ian Lawson,England,Stockport County,4,1999-2000,1999
+Colin Little,England,Crewe Alexandra,4,1999-2000,1999
+Steve Macauley,England,Crewe Alexandra,4,1999-2000,1999
+Jim Magilton,Northern Ireland,Ipswich Town,4,1999-2000,1999
+Alan Mahon,Ireland,Tranmere Rovers,4,1999-2000,1999
+Jon McCarthy,Northern Ireland,Birmingham City,4,1999-2000,1999
+Leon McKenzie,England,Crystal Palace,4,1999-2000,1999
+Kevin Muscat,Australia,Wolverhampton Wanderers,4,1999-2000,1999
+Shaun Newton,England,Charlton Athletic,4,1999-2000,1999
+Iffy Onuora,Scotland,Swindon Town,4,1999-2000,1999
+Paul Peschisolido,Canada,Fulham FC,4,1999-2000,1999
+Martin Pringle,Sweden,Charlton Athletic,4,1999-2000,1999
+Isaiah Rankin,England,Birmingham City,4,1999-2000,1999
+Geoff Thomas,England,Barnsley FC,4,1999-2000,1999
+Eric Tinkler,South Africa,Barnsley FC,4,1999-2000,1999
+Ville Viljanen,Finland,Port Vale FC,4,1999-2000,1999
+Jeff Whitley,Northern Ireland,Manchester City,4,1999-2000,1999
+Guy Whittingham,England,Portsmouth FC,4,1999-2000,1999
+Aaron Wilbraham,England,Stockport County,4,1999-2000,1999
+Darren Wrack,England,Walsall FC,4,1999-2000,1999
+Rory Allen,England,Portsmouth FC,3,1999-2000,1999
+Darren Bazeley,England,Wolverhampton Wanderers,3,1999-2000,1999
+Tom Bennett,Scotland,Walsall FC,3,1999-2000,1999
+Nathan Blake,Wales,Blackburn Rovers,3,1999-2000,1999
+Michael Brown,England,Sheffield United,3,1999-2000,1999
+Wayne Carlisle,Northern Ireland,Crystal Palace,3,1999-2000,1999
+Dave Challinor,England,Tranmere Rovers,3,1999-2000,1999
+Steve Chettle,England,Nottingham Forest,3,1999-2000,1999
+Daryl Clare,Ireland,Grimsby Town,3,1999-2000,1999
+Chris Coleman,Wales,Fulham FC,3,1999-2000,1999
+Sean Connelly,England,Stockport County,3,1999-2000,1999
+Kevin Donovan,England,Grimsby Town,3,1999-2000,1999
+David Dunn,England,Blackburn Rovers,3,1999-2000,1999
+Robbie Elliott,England,Bolton Wanderers,3,1999-2000,1999
+Micky Evans,Ireland,West Bromwich Albion,3,1999-2000,1999
+Craig Fleming,England,Norwich City,3,1999-2000,1999
+Sean Flynn,England,West Bromwich Albion,3,1999-2000,1999
+Mikael Forssell,Finland,Crystal Palace,3,1999-2000,1999
+Anthony Gardner,England,Port Vale FC,3,1999-2000,1999
+Bjarne Goldbæk,Denmark,Fulham FC,3,1999-2000,1999
+Paul Groves,England,Grimsby Town,3,1999-2000,1999
+Kevin Harper,Scotland,Walsall FC,3,1999-2000,1999
+David Healy,Northern Ireland,Port Vale FC,3,1999-2000,1999
+Kenny Irons,England,Huddersfield Town,3,1999-2000,1999
+Richard Jobson,England,Manchester City,3,1999-2000,1999
+Michael Johansen,Denmark,Bolton Wanderers,3,1999-2000,1999
+Stern John,St. Lucia,Nottingham Forest,3,1999-2000,1999
+Allan Johnston,Scotland,Bolton Wanderers,3,1999-2000,1999
+Gary Jones,England,Tranmere Rovers,3,1999-2000,1999
+Mark Kinsella,Ireland,Charlton Athletic,3,1999-2000,1999
+Richard Langley,Jamaica,Queens Park Rangers,3,1999-2000,1999
+Andy Linighan,England,Crystal Palace,3,1999-2000,1999
+Chris Llewellyn,Wales,Norwich City,3,1999-2000,1999
+Kenny Lunt,England,Crewe Alexandra,3,1999-2000,1999
+Enzo Maresca,Italy,West Bromwich Albion,3,1999-2000,1999
+Andy Melville,Wales,Fulham FC,3,1999-2000,1999
+Jeff Minton,England,Port Vale FC,3,1999-2000,1999
+Alex Notman,Scotland,Sheffield United,3,1999-2000,1999
+Jamie Pollock,England,Manchester City,3,1999-2000,1999
+Spencer Prior,England,Manchester City,3,1999-2000,1999
+Carl Robinson,Wales,Wolverhampton Wanderers,3,1999-2000,1999
+Richard Sneekes,Netherlands,West Bromwich Albion,3,1999-2000,1999
+Scott Taylor,England,Tranmere Rovers,3,1999-2000,1999
+Scott Taylor,England,Wolverhampton Wanderers,3,1999-2000,1999
+Robin van der Laan,Netherlands,Barnsley FC,3,1999-2000,1999
+Curtis Woodhouse,England,Sheffield United,3,1999-2000,1999
+Dean Austin,England,Crystal Palace,2,1999-2000,1999
+Craig Bellamy,Wales,Norwich City,2,1999-2000,1999
+Ian Bishop,England,Manchester City,2,1999-2000,1999
+Kingsley Black,Northern Ireland,Grimsby Town,2,1999-2000,1999
+Thierry Bonalair,France,Nottingham Forest,2,1999-2000,1999
+Steve Brown,England,Charlton Athletic,2,1999-2000,1999
+Gábor Bukrán,Hungary,Walsall FC,2,1999-2000,1999
+Sagi Burton,St. Kitts & Nevis,Port Vale FC,2,1999-2000,1999
+Chris Byrne,England,Stockport County,2,1999-2000,1999
+Matt Carbon,England,West Bromwich Albion,2,1999-2000,1999
+Michael Carrick,England,Swindon Town,2,1999-2000,1999
+Jamie Clapham,England,Ipswich Town,2,1999-2000,1999
+Stacy Coldicott,England,Grimsby Town,2,1999-2000,1999
+Neil Cox,England,Bolton Wanderers,2,1999-2000,1999
+Keith Curle,England,Wolverhampton Wanderers,2,1999-2000,1999
+John Curtis,England,Barnsley FC,2,1999-2000,1999
+Paul Dalglish,Scotland,Norwich City,2,1999-2000,1999
+Jermaine Darlington,England,Queens Park Rangers,2,1999-2000,1999
+Jon Dyson,England,Huddersfield Town,2,1999-2000,1999
+Steve Finnan,Ireland,Fulham FC,2,1999-2000,1999
+Bobby Ford,England,Sheffield United,2,1999-2000,1999
+Keith Gillespie,Northern Ireland,Blackburn Rovers,2,1999-2000,1999
+Danny Granville,England,Manchester City,2,1999-2000,1999
+Kevin Gray,England,Huddersfield Town,2,1999-2000,1999
+Wayne Gray,England,Swindon Town,2,1999-2000,1999
+Gareth Hall,Wales,Swindon Town,2,1999-2000,1999
+Ceri Hughes,Wales,Portsmouth FC,2,1999-2000,1999
+Andy Johnson,England,Nottingham Forest,2,1999-2000,1999
+Michael Johnson,Jamaica,Birmingham City,2,1999-2000,1999
+Robbie Keane,Ireland,Wolverhampton Wanderers,2,1999-2000,1999
+Jason Koumas,Wales,Tranmere Rovers,2,1999-2000,1999
+Stan Lazaridis,Australia,Birmingham City,2,1999-2000,1999
+Andrew Martin,Wales,Crystal Palace,2,1999-2000,1999
+Jason McAteer,Ireland,Blackburn Rovers,2,1999-2000,1999
+Sean McClare,England,Barnsley FC,2,1999-2000,1999
+Shaun Murphy,Australia,Sheffield United,2,1999-2000,1999
+Lee Naylor,England,Wolverhampton Wanderers,2,1999-2000,1999
+Allan Nielsen,Denmark,Wolverhampton Wanderers,2,1999-2000,1999
+Martin O'Connor,England,Birmingham City,2,1999-2000,1999
+Jean-François Péron,France,Portsmouth FC,2,1999-2000,1999
+Terry Phelan,Ireland,Fulham FC,2,1999-2000,1999
+David Prutton,England,Nottingham Forest,2,1999-2000,1999
+Darren Purse,England,Birmingham City,2,1999-2000,1999
+Nigel Quashie,Scotland,Nottingham Forest,2,1999-2000,1999
+Karl Ready,Wales,Queens Park Rangers,2,1999-2000,1999
+Martijn Reuser,Netherlands,Ipswich Town,2,1999-2000,1999
+Simon Rodger,England,Crystal Palace,2,1999-2000,1999
+Darel Russell,England,Norwich City,2,1999-2000,1999
+John Salako,England,Charlton Athletic,2,1999-2000,1999
+Greg Shields,Scotland,Charlton Athletic,2,1999-2000,1999
+Shaun Smith,England,Crewe Alexandra,2,1999-2000,1999
+Stefani Miglioranzi,Brazil,Portsmouth FC,2,1999-2000,1999
+Mick Stockwell,England,Ipswich Town,2,1999-2000,1999
+Daryl Sutch,England,Norwich City,2,1999-2000,1999
+Kit Symons,Wales,Fulham FC,2,1999-2000,1999
+Mark Venus,England,Ipswich Town,2,1999-2000,1999
+Jamie Vincent,England,Huddersfield Town,2,1999-2000,1999
+Michalis Vlachos,Greece,Walsall FC,2,1999-2000,1999
+Mark Walters,England,Swindon Town,2,1999-2000,1999
+Steve Yates,England,Tranmere Rovers,2,1999-2000,1999
+Bernard Allou,France,Nottingham Forest,1,1999-2000,1999
+Andy Awford,England,Portsmouth FC,1,1999-2000,1999
+Alan Bailey,England,Stockport County,1,1999-2000,1999
+Simon Baldry,England,Huddersfield Town,1,1999-2000,1999
+Tim Breacker,England,Queens Park Rangers,1,1999-2000,1999
+Keith Briggs,England,Stockport County,1,1999-2000,1999
+Marlon Broomes,England,Blackburn Rovers,1,1999-2000,1999
+Bruno Ribeiro,Portugal,Sheffield United,1,1999-2000,1999
+Martin Bullock,England,Port Vale FC,1,1999-2000,1999
+Daryl Burgess,England,West Bromwich Albion,1,1999-2000,1999
+Adam Burley,England,Sheffield United,1,1999-2000,1999
+Danny Cadamarteri,England,Fulham FC,1,1999-2000,1999
+Matt Carragher,England,Port Vale FC,1,1999-2000,1999
+Phil Charnock,England,Crewe Alexandra,1,1999-2000,1999
+Ashley Cole,England,Crystal Palace,1,1999-2000,1999
+Lee Collins,Scotland,Swindon Town,1,1999-2000,1999
+Wayne Collins,England,Fulham FC,1,1999-2000,1999
+Adrian Coote,Northern Ireland,Norwich City,1,1999-2000,1999
+Steve Corica,Australia,Wolverhampton Wanderers,1,1999-2000,1999
+Steve Cowe,England,Swindon Town,1,1999-2000,1999
+Gary Croft,England,Ipswich Town,1,1999-2000,1999
+Lee Crooks,England,Manchester City,1,1999-2000,1999
+Michael Cummins,Ireland,Port Vale FC,1,1999-2000,1999
+Fabian de Freitas,Netherlands,West Bromwich Albion,1,1999-2000,1999
+Shaun Derry,England,Sheffield United,1,1999-2000,1999
+Nicky Eaden,England,Barnsley FC,1,1999-2000,1999
+Darren Eadie,England,Norwich City,1,1999-2000,1999
+Richard Edghill,England,Manchester City,1,1999-2000,1999
+Rob Edwards,England,Huddersfield Town,1,1999-2000,1999
+Sigurður Eyjólfsson,Iceland,Walsall FC,1,1999-2000,1999
+Richard Eyre,England,Port Vale FC,1,1999-2000,1999
+Zhiyi Fan,China,Crystal Palace,1,1999-2000,1999
+Gareth Farrelly,Ireland,Bolton Wanderers,1,1999-2000,1999
+Graham Fenton,England,Walsall FC,1,1999-2000,1999
+Mike Flynn,England,Stockport County,1,1999-2000,1999
+Adrian Forbes,England,Norwich City,1,1999-2000,1999
+Craig Foster,Australia,Crystal Palace,1,1999-2000,1999
+Karim Fradin,France,Stockport County,1,1999-2000,1999
+Charlie Griffin,England,Swindon Town,1,1999-2000,1999
+Ian Hamilton,England,Sheffield United,1,1999-2000,1999
+Reuben Hazell,England,Tranmere Rovers,1,1999-2000,1999
+Nick Henry,England,Tranmere Rovers,1,1999-2000,1999
+Chris Holland,England,Huddersfield Town,1,1999-2000,1999
+Bobby Howe,England,Swindon Town,1,1999-2000,1999
+Rob Hulse,England,Crewe Alexandra,1,1999-2000,1999
+Graham Hyde,England,Birmingham City,1,1999-2000,1999
+Sammy Igoe,England,Portsmouth FC,1,1999-2000,1999
+Andy Johnson,England,Birmingham City,1,1999-2000,1999
+Damien Johnson,Northern Ireland,Blackburn Rovers,1,1999-2000,1999
+Keith Jones,England,Charlton Athletic,1,1999-2000,1999
+Petr Kachuro,Belarus,Sheffield United,1,1999-2000,1999
+Dean Keates,England,Walsall FC,1,1999-2000,1999
+Darren Kenton,England,Norwich City,1,1999-2000,1999
+Paul Kitson,England,Charlton Athletic,1,1999-2000,1999
+Samuel Koejoe,Netherlands,Queens Park Rangers,1,1999-2000,1999
+Chris Lightfoot,England,Crewe Alexandra,1,1999-2000,1999
+Danny Maddix,England,Queens Park Rangers,1,1999-2000,1999
+Rob Matthews,England,Stockport County,1,1999-2000,1999
+Andy McDermott,Australia,West Bromwich Albion,1,1999-2000,1999
+Neil Midgley,England,Ipswich Town,1,1999-2000,1999
+Kenneth Monkou,Netherlands,Huddersfield Town,1,1999-2000,1999
+Darren Moore,Jamaica,Portsmouth FC,1,1999-2000,1999
+Tony Mowbray,England,Ipswich Town,1,1999-2000,1999
+George Ndah,England,Wolverhampton Wanderers,1,1999-2000,1999
+Peter Ndlovu,Zimbabwe,Birmingham City,1,1999-2000,1999
+Alan Neilson,Wales,Fulham FC,1,1999-2000,1999
+Shane Nicholson,England,Stockport County,1,1999-2000,1999
+John O'Kane,England,Bolton Wanderers,1,1999-2000,1999
+Adam Oliver,England,West Bromwich Albion,1,1999-2000,1999
+Carlton Palmer,England,Nottingham Forest,1,1999-2000,1999
+Scott Parker,England,Charlton Athletic,1,1999-2000,1999
+Jimmy Phillips,England,Bolton Wanderers,1,1999-2000,1999
+Alan Pouton,England,Grimsby Town,1,1999-2000,1999
+Wayne Quinn,England,Sheffield United,1,1999-2000,1999
+Paul Raven,England,West Bromwich Albion,1,1999-2000,1999
+Alan Reeves,England,Swindon Town,1,1999-2000,1999
+Gareth Roberts,Wales,Tranmere Rovers,1,1999-2000,1999
+Ian Roper,England,Walsall FC,1,1999-2000,1999
+Matthew Rose,England,Queens Park Rangers,1,1999-2000,1999
+Gary Rowett,England,Birmingham City,1,1999-2000,1999
+Lee Sandford,England,Sheffield United,1,1999-2000,1999
+Georges Santos,Cape Verde,West Bromwich Albion,1,1999-2000,1999
+Scott Sellars,England,Huddersfield Town,1,1999-2000,1999
+Steve Slade,England,Queens Park Rangers,1,1999-2000,1999
+Dave Smith,England,Stockport County,1,1999-2000,1999
+David Smith,England,Grimsby Town,1,1999-2000,1999
+Kevin Street,England,Crewe Alexandra,1,1999-2000,1999
+Allen Tankard,England,Port Vale FC,1,1999-2000,1999
+Ben Thornley,England,Huddersfield Town,1,1999-2000,1999
+Carl Tiler,England,Charlton Athletic,1,1999-2000,1999
+Jason Van Blerk,Australia,West Bromwich Albion,1,1999-2000,1999
+Adrian Viveash,England,Walsall FC,1,1999-2000,1999
+Michael Walsh,England,Port Vale FC,1,1999-2000,1999
+Adrian Whitbread,England,Portsmouth FC,1,1999-2000,1999
+Mike Whitlow,England,Bolton Wanderers,1,1999-2000,1999
+Gerard Wiekens,Netherlands,Manchester City,1,1999-2000,1999
+Andrew Williams,Wales,Swindon Town,1,1999-2000,1999
+James Williams,England,Swindon Town,1,1999-2000,1999
+Christopher Wreh,Liberia,Birmingham City,1,1999-2000,1999
+Jermaine Wright,England,Ipswich Town,1,1999-2000,1999
 Louis Saha,France,Fulham FC,27,2000-2001,2000
 Matt Jansen,England,Blackburn Rovers,23,2000-2001,2000
 Lee Hughes,England,West Bromwich Albion,21,2000-2001,2000
@@ -629,8 +964,8 @@ Niclas Jensen,Denmark,Manchester City,1,2001-2002,2001
 Julian Joachim,England,Coventry City,1,2001-2002,2001
 Damien Johnson,Northern Ireland,Birmingham City,1,2001-2002,2001
 Michael Johnson,Jamaica,Birmingham City,1,2001-2002,2001
-Gary Jones,England,Barnsley FC,1,2001-2002,2001
 Gary Jones,England,Nottingham Forest,1,2001-2002,2001
+Gary Jones,England,Barnsley FC,1,2001-2002,2001
 Claus Jørgensen,Faroe Islands,Bradford City,1,2001-2002,2001
 Juanjo,Spain,Bradford City,1,2001-2002,2001
 Dean Keates,England,Walsall FC,1,2001-2002,2001

@@ -1,15 +1,9 @@
-premier_league:
-  - Player: Paul Robinson
-    Team: Bolton Wanderers
-    Rename: P Robinson
-  - Player: Andy Johnson
-    Team: Crystal Palace
-    Rename: Andrew Johnson
-
-championship:
-  - Player: Andy Johnson
-    Team: Birmingham City
-    Rename: Andrew Johnson
-  - Player: Andy Johnson
-    Team: Crystal Palace
-    Rename: Andrew Johnson
+- Player: Paul Robinson
+  Team: Bolton Wanderers
+  Rename: P Robinson
+- Player: Andy Johnson
+  Team: Birmingham City
+  Rename: Andrew Johnson
+- Player: Andy Johnson
+  Team: Crystal Palace
+  Rename: Andrew Johnson

@@ -1,4 +1,4 @@
-from src.data_preperation.load_data import (
+from src.data_preperation.load_pl_championship_data import (
     generate_urls,
     get_all_season_data,
     combine_save_csvs,
@@ -13,7 +13,7 @@ end_season = 2024
 # Generate URLs for Premier League Goals and Assists
 PREMIER_LEAGUE_GOAL_URLS = generate_urls(
     league_name="eng-premier-league",
-    stat_type="scorer",
+    stat_type="goalgetter",
     start_season=start_season_premier_league,
     end_season=end_season,
 )
