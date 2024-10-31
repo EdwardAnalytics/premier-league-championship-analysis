@@ -2,7 +2,7 @@
 # Premier League Championship Analysis
 
 ### Overview
-This project investigates how goals scored (and assists) by players in the Championship subsequently perform the Premier League the following season.
+This project investigates the goals scored and assists made by players in the Championship, and compares them to their performance in the Premier League the following season.
 
 ### Data Source
 worldfootball.net
