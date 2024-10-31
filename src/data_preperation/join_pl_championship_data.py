@@ -372,7 +372,9 @@ def format_joined_data(pl_champ_merged):
     pl_champ_merged = pl_champ_merged.sort_values(["Season Start (PL)", "Player"])
 
     # Remove " FC" from end of team names
-    pl_champ_merged['Team (PL)'] = pl_champ_merged['Team (PL)'].str.rstrip(' FC')
-    pl_champ_merged['Team (Champ.)'] = pl_champ_merged['Team (Champ.)'].str.rstrip(' FC')
+    pl_champ_merged["Team (PL)"] = pl_champ_merged["Team (PL)"].str.rstrip(" FC")
+    pl_champ_merged["Team (Champ.)"] = pl_champ_merged["Team (Champ.)"].str.rstrip(
+        " FC"
+    )
 
     return pl_champ_merged
