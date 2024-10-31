@@ -8,4 +8,4 @@ This project investigates how goals scored (and assists) by players in the Champ
 worldfootball.net
 
 ### Public Tableau Dashboard Location
-https://public.tableau.com/app/profile/edwardanalytics/viz/ChampionshipAnalysis/Goals
+https://public.tableau.com/app/profile/edwardanalytics/viz/PremierLeagueChampionshipAnalysisGoalsandAssists/Goals
