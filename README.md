@@ -11,6 +11,7 @@ worldfootball.net
 [Tableau: Premier League Championship Analysis - Goals and Assists](https://public.tableau.com/app/profile/edwardanalytics/viz/PremierLeagueChampionshipAnalysisGoalsandAssists/Goals)
 
 ### Directory structure
+'''
 ├── conf
 │   └── duplicated_player_names.yaml         # Configuration for managing duplicated player names
 │
@@ -35,3 +36,4 @@ worldfootball.net
 │       └── load_pl_championship_data.py     # Module to load data including scraping
 │
 └── tests                                    # Directory for test scripts (in development)
+'''
