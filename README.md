@@ -4,11 +4,14 @@
 ### Overview
 This project investigates the goals scored and assists made by players in the Championship, and compares them to their performance in the Premier League the following season.
 
-### Data Source
-worldfootball.net
-
 ### Public Tableau Dashboard Location
 [Tableau: Premier League Championship Analysis - Goals and Assists](https://public.tableau.com/app/profile/edwardanalytics/viz/PremierLeagueChampionshipAnalysisGoalsandAssists/Goals)
+
+### Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
+
+### Data Source
+worldfootball.net
 
 ### Directory structure
 ```
@@ -37,6 +40,3 @@ worldfootball.net
 │
 └── tests                                    # Directory for test scripts (in development)
 ```
-
-### Dashboard Preview
-![Dashboard Preview](assets/dashboard_preview.png)
