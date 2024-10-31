@@ -37,3 +37,6 @@ worldfootball.net
 │
 └── tests                                    # Directory for test scripts (in development)
 ```
+
+### Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
